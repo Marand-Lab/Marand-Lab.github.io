@@ -7,10 +7,6 @@
 url: "https://plantformatics.github.io"
 baseurl: ""
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
@@ -23,16 +19,17 @@ description: Professional Website
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  About: "aboutme"
+  Research:
+    - Undergraduate: "undergraduate"
+    - Graduate: "graduate"
+    - Postdoctoral: "postdoctoral"
+  Publications: "publications
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -57,14 +54,14 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Alexandre Marand
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
