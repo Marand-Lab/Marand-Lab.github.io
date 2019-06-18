@@ -4,7 +4,7 @@ title: Publications
 bigimg: "/img/publication_image.png"
 ---
 
-Publications tracked by Google Scholar can be found here: [Google scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
+Publications tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
 ### 2019
 
