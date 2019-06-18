@@ -16,17 +16,21 @@ bigimg: "/img/windsurfing_picture.jpg"
 ---------------------------------------
 #### Education
 ---------------------------------------
+<p>
 2009-2013    B.s.    Biochemistry
-:	Virginia Polytechnic Institute and State University
+:	Virginia Polytechnic Institute and State University</p>
 
+<p>
 2013-2018    Ph.D.    Plant Breeding and Plant Genetics
-: University of Wisconsin-Madison
+:	University of Wisconsin-Madison</p>
 
+<p>
 2018-2019    Postdoctoral Researcher    Genetics
-:	University of Georgia
+:	University of Georgia</p>
 
+<p>
 2019-current    NSF NPGI Fellow
-:	University of Georgia
+:	University of Georgia</p>
 
 
 ---------------------------------------
