@@ -68,12 +68,12 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
+  rss: false
+  email: "alexandre.p.marand@gmail.com"
   github: plantformatics
   twitter: alex_marand
 #  reddit: yourname
-  linkedin: alexandre-marand
+  linkedin: alexandre-marand-34a96155
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,12 +93,12 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en"  
+# url-pretty: "https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en"  
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-114738471-2"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
