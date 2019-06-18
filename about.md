@@ -14,7 +14,6 @@ bigimg: "/img/windsurfing_picture.jpg"
 </figure>
 
 <div style="float: right">
-</div>
 #### Education
 * 2009-2013	B.s.	Biochemistry	Virginia Polytechnic Institute and State University
 * 2013-2018 Ph.D.	Plant Breeding and Plant Genetics	University of Wisconsin-Madison
