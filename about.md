@@ -52,8 +52,8 @@ This initial experience opened the door for further research opportunities, wher
 
 <p align="justify">
 <figure>
-<div style="float: left; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/gfp_at.png" width="400" alt="" align="left">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/gfp_at.png" width="250" alt="" align="left">
 </div>
 </figure>
 </p>
