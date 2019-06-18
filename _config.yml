@@ -19,7 +19,7 @@ description: Professional Website
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+#  About: "aboutme"
 #  Research:
 #    - Undergraduate: "undergraduate"
 #    - Graduate: "graduate"
