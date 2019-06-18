@@ -14,14 +14,14 @@ bigimg: "/img/windsurfing_picture.jpg"
 </p>
 
 #### Education
-* 2009-2013    B.s.    Biochemistry
-	: Virginia Polytechnic Institute and State University
-* 2013-2018    Ph.D.    Plant Breeding and Plant Genetics
-	: University of Wisconsin-Madison
-* 2018-2019    Postdoctoral Researcher    Genetics
-	: University of Georgia
-* 2019-current    NSF NPGI Fellow
-	: University of Georgia
+	* 2009-2013    B.s.    Biochemistry
+		: Virginia Polytechnic Institute and State University
+	* 2013-2018    Ph.D.    Plant Breeding and Plant Genetics
+		: University of Wisconsin-Madison
+	* 2018-2019    Postdoctoral Researcher    Genetics
+		: University of Georgia
+	* 2019-current    NSF NPGI Fellow
+		: University of Georgia
 
 #### Undergraduate Training
 I acquired my first research training experiences during the spring of 2011 in the laboratory of Dr. Richard Veilleux. My research projects involved a combination of wet lab and computational approaches to screen potential candidate genes involved with zinc and iron acquisition in potatoes. During this time, I gained experience with basic laboratory protocols such as DNA/RNA isolation, PCR, and real-time quantification. I also acquired a fascination with bioinformatic analysis, leading to the development of computational pipelines for assessing protein structural variation utilizing massive nucleotide polymorphism data sets. Exposure to these large data sets motivated me to learn how to program, a valuable asset for analyzing contemporary genomics data.
