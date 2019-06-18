@@ -12,7 +12,7 @@ Publications tracked by Google Scholar can be found here: [Google Scholar link](
 
 7)    **AP Marand**, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019) [`Residual Heterozygosity and Epistatic Interactions Underlie the Complex Genetic Architecture of Yield in Diploid Potato.`](https://www.genetics.org/content/212/1/317.abstract) _Genetics_ ([Article Highlights](https://www.genetics.org/content/212/1/NP))
 
-6)    **AP Marand**, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019) [`Historical Meiotic Crossover Hotspots Fueled Patterns of Evolutionary Divergence in Rice.`](http://www.plantcell.org/content/31/3/645.abstract) _The Plant Cell_ (see the associated F1000 recommendation [here](https://f1000.com/prime/734986434))
+6)    **AP Marand**, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019) [`Historical Meiotic Crossover Hotspots Fueled Patterns of Evolutionary Divergence in Rice.`](http://www.plantcell.org/content/31/3/645.abstract) _The Plant Cell_ (see the associated F1000 recommendation [Here](https://f1000.com/prime/734986434))
 
 
 ### 2018
