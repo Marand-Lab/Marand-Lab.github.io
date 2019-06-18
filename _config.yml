@@ -19,7 +19,7 @@ description: Professional Website
 
 # List of links in the navigation bar
 navbar-links:
-#  About: "aboutme"
+  About: "about"
 #  Research:
 #    - Undergraduate: "undergraduate"
 #    - Graduate: "graduate"
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en"  
+# url-pretty: "https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en"
 
 # --- Web Statistics Section --- #
 
