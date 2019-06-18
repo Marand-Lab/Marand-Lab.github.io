@@ -41,7 +41,7 @@ bigimg: "/img/windsurfing_picture.jpg"
 <p align="justify">
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/undergrad_research_image.png" width="400" alt="" align="right">
+	<img src="/img/undergrad_research_image.png" width="300" alt="" align="right">
 </div>
 </figure>
 </p>
