@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-bigimg: "/img/home_banner_pic.png"
+bigimg: "/img/publication_image.png"
 ---
 
 Publications tracked by google scholar can be found here: [`Google scholar`](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
