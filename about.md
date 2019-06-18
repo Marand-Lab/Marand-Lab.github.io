@@ -51,7 +51,7 @@ I received my first research training experiences during the spring of 2011 in t
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/gfp_at.png" width="250" alt="" align="left">
+	<img src="/img/gfp_at.png" width="200" alt="" align="left">
 </div>
 </figure>
 </p>
