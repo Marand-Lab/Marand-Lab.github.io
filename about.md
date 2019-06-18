@@ -17,15 +17,15 @@ bigimg: "/img/windsurfing_picture.jpg"
 #### Education
 ---------------------------------------
 
-2009-2013    B.s.    Biochemistry
+2009-2013    B.s.,    Biochemistry
 :	Virginia Polytechnic Institute and State University
 >
 
-2013-2018    Ph.D.    Plant Breeding and Plant Genetics
+2013-2018    Ph.D.,    Plant Breeding and Plant Genetics
 :	University of Wisconsin-Madison
 >
 
-2018-2019    Postdoctoral Researcher    Genetics
+2018-2019    Postdoctoral Researcher,    Genetics
 :	University of Georgia
 >
 
@@ -33,6 +33,7 @@ bigimg: "/img/windsurfing_picture.jpg"
 :	University of Georgia
 >
 
+>
 
 ---------------------------------------
 #### Undergraduate Training
