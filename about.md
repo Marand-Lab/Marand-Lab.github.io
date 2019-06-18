@@ -8,7 +8,7 @@ bigimg: "/img/windsurfing_picture.jpg"
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/bio_image.jpg" width="300" alt="" align="left">
+	<img src="/img/bio_image.jpg" width="250" alt="" align="left">
 </div>
 </figure>
 </p>
