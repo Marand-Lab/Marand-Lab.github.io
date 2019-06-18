@@ -16,7 +16,7 @@ Publications tracked by google scholar can be found here: [`Google scholar`](htt
 
 ### 2018
 
-5.    CP Leisner, JP Hamilton, ..., **AP Marand**, ..., CR Buell. (2018) [`Genome sequence of M6, a diploid inbred clone of the high-glycoalkaloid-producing tuber-bearing potato species Solanum chacoense, reveals residual heterozygosity.`](https://doi.org/10.1111/tpj.13857) _The Plant Journal_
+5.    CP Leisner, JP Hamilton, ..., **AP Marand**, ..., SH Jansky, CR Buell. (2018) [`Genome sequence of M6, a diploid inbred clone of the high-glycoalkaloid-producing tuber-bearing potato species Solanum chacoense, reveals residual heterozygosity.`](https://doi.org/10.1111/tpj.13857) _The Plant Journal_
 
 4.    H Zhao, W Zhang, L Chen, **AP Marand**, Y Wu, J Jiang. (2018) [`Proliferation of regulatory DNA elements derived from transposable elements in the maize genome.`](http://www.plantphysiol.org/content/176/4/2789.abstract) _Plant Physiology_
 
