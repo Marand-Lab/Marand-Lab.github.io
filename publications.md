@@ -27,9 +27,9 @@ Publications tracked by Google Scholar can be found here: [Google Scholar link](
 
 15)    **Alexandre P. Marand**, Zongliang Chen, Andrea Gallavotti, Robert J. Schmitz. (2021). [`A cis-regulatory atlas in maize at single-cell resolution.`](10.1016/j.cell/2021.04.014) _Cell_
 
-[Coverage from PNAS news](https://www.pnas.org/post/journal-club/atlas-identifies-genome-regions-that-regulate-plant-cell-identity)
-[Coverage from Plantae](https://plantae.org/a-cis-regulatory-atlas-in-maize-at-single-cell-resolution-biorxiv/)
-[Coverage from UGA Research](https://www.genetics.uga.edu/news/stories/2021/dr-marand-leads-project-applying-single-cell-sequencing-technology-create)
+[Coverage from PNAS news](https://www.pnas.org/post/journal-club/atlas-identifies-genome-regions-that-regulate-plant-cell-identity)  
+[Coverage from Plantae](https://plantae.org/a-cis-regulatory-atlas-in-maize-at-single-cell-resolution-biorxiv/)  
+[Coverage from UGA Research](https://www.genetics.uga.edu/news/stories/2021/dr-marand-leads-project-applying-single-cell-sequencing-technology-create)  
 
 14)    Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, **Alexandre P. Marand**, Stefano Secchia, William J. Greenleaf, Eillen E. M. Furlong, Keigi Zhao, Robert J. Schmitz, Christoph Bock, Stein Aerts. (2021). [`Chromatin accessibility profiling methods.`](10.1038/s43586-020-00008-9) _Nature Reviews Methods Primers_
 
