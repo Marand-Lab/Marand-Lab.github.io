@@ -56,6 +56,10 @@ hr.small {
   }
 }
 
+.page__content {
+  text-align: justify;
+}
+
 .main-explain-area {
   font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
