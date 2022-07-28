@@ -19,7 +19,7 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         border-radius: 1em;
         padding: 1em;
         left: 50% }
-    #inner1 {
+    #inner {
         display: inline-block;
         display: flex;
         align-items: center;
@@ -32,18 +32,16 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
           data-doi="10.1101/2022.07.11.499557"
           data-legend="always">
       </span>
-    </div>
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-    <div id="inner">
-        <div style="float:right"
-          data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
-          data-doi="10.1101/2022.07.11.499557"   
-          data-condensed="true"
-          class="altmetric-embed">
-        </div>
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+      <div style="float:right"
+        data-link-target="_blank"
+        data-badge-details="right"
+        data-badge-type="medium-donut"
+        data-doi="10.1101/2022.07.11.499557"   
+        data-condensed="true"
+        class="altmetric-embed">
+      </div>
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
   </section>
 </html>
 
