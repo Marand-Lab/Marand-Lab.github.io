@@ -27,14 +27,14 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
   </style>
   <section>
     <div id="inner">
-        <span style="float:left"
+      <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1101/2022.07.11.499557"
           data-legend="always">
-        </span>
+      </span>
     </div>
+    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     <div id="inner">
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
           data-badge-details="right"
