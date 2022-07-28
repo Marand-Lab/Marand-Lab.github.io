@@ -130,6 +130,40 @@ Alexandre P. Marand, Xiaoyu Tu, Robert J. Schmitz, Silin Zhong. (2022)\
 Alexandre P. Marand, Robert J. Schmitz. (2022)\
 **_Current Opinion in Plant Biology_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.pbi.2021.102094"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.pbi.2021.102094"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 
 ### 2021
@@ -137,43 +171,277 @@ Alexandre P. Marand, Robert J. Schmitz. (2022)\
 Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska Turck, Xuemei Chen, Michael J. Axtell, Xuehua Zhong, Siobhan M. Brady, Molly Megraw, Blake C. Myers. (2021)\
 **_The Plant Cell_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1093/plcell/koab255"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1093/plcell/koab255"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 
 20\.    [`Vision, challenges, and opportunities for a Plant Cell Atlas.`](https://doi.org/10.7554/eLife.66877)\
 Plant Cell Atlas Consortium, Suryatapa Ghosh Jha, Alexander T. Borowsky, Benjamin J. Cole, Noah Fahlgren, Andrew Farmer, Shao-shan Carol Huang, Purva Karia, Marc Libault, Nicholas J. Provart, Selena L. Rice, Maite Saura-Sanchez, Pinky Agarwal, Amir H. Ahkami, Christopher R. Anderton, Steven P. Briggs, Jennifer A.N. Brophy, Peter Denolf, Luigi F. Di Costanzo, Moises Exposito-Alonso, Stefania Giacomello, Fabio Gomez-Cano, Kerstin Kaufmann, Dae Kwan Ko, Sagar Kumar, Andrey V. Malkovskiy, Naomi Nakayama, Toshihiro Obata, Marisa S. Otegui, Gergo Palfalvi, Elsa H. Quezada-Rodríguez, Rajveer Singh, R. Glen Uhrig, Jamie Waese, Klaas Van Wijk, R. Clay Wright, David W. Ehrhardt, Kenneth D. Birnbaum, Seung Y. Rhee. (2021)\
 **_eLife_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.7554/eLife.66877"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.7554/eLife.66877"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 
 19\.    [`Profiling single-cell chromatin accessibility in plants.`](https://doi.org/10.1016/j.xpro.2021.100737)\
 Alexandre P. Marand, Xuan Zhang, Julie Nelson, Pedro Augusto Braga dos Reis, Robert J. Schmitz. (2021)\
 **_STAR Protocols_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.xpro.2021.100737"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.xpro.2021.100737"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 18\.    [`De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes.`](https://doi.org/10.1126/science.abg5289)\
 Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule, Shujun Ou, Jianing Liu, William A. Ricci, Tingting Guo, Andrew Olson, Yinjie Qiu, Rafael Della Coletta, Silas Tittes, Asher I. Hudson, Alexandre P. Marand, Sharon Wei, Zhenyuan Lu, Bo Wang, Marcela K. Tello-Ruiz, Rebecca D. Piri, Na Wang, Dong won Kim, Yibing Zeng, Christine H. O'Connor, Xianran Li, Amanda M. Gilbert, Erin Baggs, Ksenia V. Krasileva, John L. Portwood II, Ethalinda K.S. Cannon, Carson M. Andorf, Nancy Manchanda, Samantha J. Snodgrass, David E. Hufnagel, Qiuhan Jiang, Sarah Pedersen, Michael L. Syring, David A. Kudrna, Victor Llaca, Kevin Fengler, Robert J. Schmitz, Jeffrey Ross-Ibarra, Jianming Yu, Jonathan I. Gent, Candice N. Hirsch, Doreen Ware, R. Kelly Dawe. (2021)\
 **_Science_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1126/science.abg5289"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1126/science.abg5289"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 17\.    [`Leveraging histone modifications to improve genome annotations.`](https://doi.org/10.1093/g3journal/jkab263)\
 John P. Mendieta, Alexandre P. Marand, William A. Ricci, Xuan Zhang, Robert J. Schmitz. (2021)\
 **_G3 Genes\|Genomes\|Genetics_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1093/g3journal/jkab263"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1093/g3journal/jkab263"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 
 16\.    [`Stability of DNA methylation and chromatin accessibility in structurally diverse maize genomes.`](https://doi.org/10.1093/g3journal/jkab190)\
 Jaclyn M. Noshay, Zhikai Liang, Peng Zhou, Peter A. Crisp, Alexandre P. Marand, Candice N. Hirsch, Robert J. Schmitz, Nathan M. Springer. (2021)\
 **_G3 Genes\|Genomes\|Genetics_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1093/g3journal/jkab190"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1093/g3journal/jkab190"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 15\.    [`A cis-regulatory atlas in maize at single-cell resolution.`](https://doi.org/10.1016/j.cell.2021.04.014)\
 Alexandre P. Marand, Zongliang Chen, Andrea Gallavotti, Robert J. Schmitz. (2021)\
 **_Cell_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.cell.2021.04.014"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.cell.2021.04.014"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 Coverage:\
 [PNAS news](https://www.pnas.org/post/journal-club/atlas-identifies-genome-regions-that-regulate-plant-cell-identity)\
@@ -185,50 +453,315 @@ Coverage:\
 Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, Alexandre P. Marand, Stefano Secchia, William J. Greenleaf, Eillen E. M. Furlong, Keigi Zhao, Robert J. Schmitz, Christoph Bock, Stein Aerts. (2021)\
 **_Nature Reviews Methods Primers_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1038/s43586-020-00008-9"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1038/s43586-020-00008-9"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 ### 2020
 13\.    [`Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons.`](https://doi.org/10.1093/genetics/iyaa003)\
 Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Katherine Mejia Guerra, Zefu Lu, Christine O’Connor, Peter A. Crisp, Candice N. Hirsch, Robert J. Schmitz, Nathan M. Springer. (2020)\
 **_Genetics_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1093/genetics/iyaa003"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1093/genetics/iyaa003"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 12\.    [`Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes.`](https://doi.org/10.1073/pnas.2010250117)\
 Peter A. Crisp, Alexandre P. Marand, Jaclyn M. Noshay, Peng Zhou, Zefu Lu, Robert J. Schmitz, Nathan M. Springer. (2020)\
 **_Proceedings of the National Academy of Sciences_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1073/pnas.2010250117"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1073/pnas.2010250117"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 11\.    [`Identification of a novel base J binding protein complex involved in RNA polymerase II transcription termination in trypanosomes.`](https://doi.org/10.1371/journal.pgen.1008390)\
 Rudo Kieft, Yang Zhang, Alexandre P. Marand, Jose Dagoberto Moran, Robert Bridger, Lance Wells, Robert J. Schmitz, Robert Sabatini. (2020)\
 **_PLOS Genetics_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1371/journal.pgen.1008390"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1371/journal.pgen.1008390"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 ### 2019
 10\.    [`The prevalence, evolution and chromatin signatures of plant regulatory elements.`](https://doi.org/10.1038/s41477-019-0548-z)\
 Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zhang, Robert J. Schmitz. (2019)\
 **_Nature Plants_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1038/s41477-019-0548-z"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1038/s41477-019-0548-z"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 9\.    [`Widespread long-range cis-regulatory elements in the maize genome.`](https://doi.org/10.1038/s41477-019-0547-0)\
 William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridge, Nathalie G. Murphy, Jaclyn M. Noshay, Mary Galli, María Katherine Mejía-Guerra, Maria Colomé-Tatché, Frank Johannes, M. Jordan Rowley, Victor G. Corces, Jixian Zhai, Michael J. Scanlon, Edward S. Buckler, Andrea Gallavotti, Nathan M. Springer, Robert J. Schmitz, Xiaoyu Zhang. (2019)\
 **_Nature Plants_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1038/s41477-019-0547-0"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1038/s41477-019-0547-0"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 8\.    [`Cold stress induces enhanced chromatin accessibility and bivalent histone modifications H3K4me3 and H3K27me3 of active genes in potato.`](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1731-2)\
 Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)\
 **_Genome Biology_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1186/s13059-019-1731-2"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1186/s13059-019-1731-2"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 7\.    [`Residual Heterozygosity and Epistatic Interactions Underlie the Complex Genetic Architecture of Yield in Diploid Potato.`](https://www.genetics.org/content/212/1/317.abstract)\
 Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)\
 **_Genetics_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1534/genetics.119.302036"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1534/genetics.119.302036"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 [Article Highlights](https://www.genetics.org/content/212/1/NP)
 
@@ -237,6 +770,40 @@ Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)
 Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
 **_The Plant Cell_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1105/tpc.18.00750"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1105/tpc.18.00750"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 [F1000 recommended article](https://f1000.com/prime/734986434)
 
@@ -246,27 +813,195 @@ Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
 CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (2018)\
 **_The Plant Journal_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1111/tpj.13857"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1111/tpj.13857"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 4\.    [`Proliferation of regulatory DNA elements derived from transposable elements in the maize genome.`](http://www.plantphysiol.org/content/176/4/2789.abstract)\
 H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
 **_Plant Physiology_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1104/pp.17.01467"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1104/pp.17.01467"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 ### 2017
 3\.    [`Meiotic crossovers are associated with open chromatin and enriched with Stowaway transposons in potato.`](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1326-8)\
 Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L Newton, AJ Hamernik, RE Veilleux, CR Buell, J Jiang. (2017)\
 **_Genome Biology_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1186/s13059-017-1326-8"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1186/s13059-017-1326-8"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 2\.    [`Towards genome-wide prediction and characterization of enhancers in plants.`](https://www.sciencedirect.com/science/article/pii/S1874939916301274)\
 Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)\
 **_BBA Gene Regulatory Mechanisms_**
 
-
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.bbagrm.2016.06.006"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.bbagrm.2016.06.006"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 ### 2016
 1\.    [`PlantDHS: a database for DNase I hypersensitive sites in plants.`](https://academic.oup.com/nar/article-abstract/44/D1/D1148/2503132)\
 T Zhang, Alexandre P. Marand, J Jiang. (2016)\
 **_Nucleic Acids Research_**
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1093/nar/gkv962"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1093/nar/gkv962"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
