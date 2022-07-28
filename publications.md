@@ -24,14 +24,16 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         display: flex;
         align-items: center;
         justify-content: center }
+    .box img {
+        width: 100%;
+        height: 100%;
+    }
   </style>
   <section>
     <div id="inner">
-      <div>
-        <img src="images/pub_images/pub_25.png">
-        </div>
-      <span style="float:left"
-          class="__dimensions_badge_embed__"
+      <div class="box"
+          style="float:left"><img src="images/pub_images/pub_25.png"></div>
+      <span class="__dimensions_badge_embed__"
           data-doi="10.1101/2022.07.11.499557"
           data-legend="always">
       </span>
