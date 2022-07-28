@@ -26,10 +26,11 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         justify-content: center }
     .box img {
         display: block;
-        max-width:200px;
-        max-height:200px;
+        max-width:250px;
+        max-height:250px;
         width: auto;
         height: auto;
+        Padding: 20px,20px,20px,20px;
     }
   </style>
   <section>
@@ -77,10 +78,11 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
       justify-content: center }
     .box img {
       display: block;
-      max-width:200px;
-      max-height:200px;
+      max-width:250px;
+      max-height:250px;
       width: auto;
       height: auto;
+      Padding: 20px,20px,20px,20px;
     }
   </style>
   <section>
