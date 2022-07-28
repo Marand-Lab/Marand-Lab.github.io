@@ -10,6 +10,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 25\.    [`TTT Machine learning reveals conserved chromatin patterns determining meiotic recombination sites in plants`](https://www.biorxiv.org/content/10.1101/2022.07.11.499557v1.abstract)\
 Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Azuri, Nurit Shoshani-Hechel, Cathy Melamed-Bessudo, Alexandre P. Marand, Jiming Jiang, James C. Schnable, Charles J. Underwood, Ian R. Henderson, Qi Sun, Jaroslaw Pillardy, Penny M.A. Kianian, Shahryar F. Kianian, Changbin Chen, Avraham A. Levy, Wojciech P. Pawlowski. (2022)\
 **_bioRxiv_**
+
 <html>
   <style>
     section {
@@ -27,14 +28,14 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
   <section>
     <div id="inner">
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float: left";
+        <span style="float:left";
           class="__dimensions_badge_embed__"
           data-doi="10.1101/2022.07.11.499557"
           data-hide-zero-citations="true"
           data-legend="always">
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float: right";
+        <div  style="float:right";
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
@@ -43,6 +44,15 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
           data-hide-no-mentions="true"
           class="altmetric-embed">
         </div>
+    </div>
+    <div id="inner">
+      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
+        <a href="https://plu.mx/plum/a/?doi=10.1101/2022.07.11.499557"
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
+          data-hide-when-empty="true">
+        </a>
     </div>
   </section>
 
