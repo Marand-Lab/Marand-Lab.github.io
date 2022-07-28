@@ -55,202 +55,31 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
     </div>
   </section>
 
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1101/2022.07.11.499557"></div>
+
 
 24\.    [`Modeling chromatin state from sequence across angiosperms using recurrent convolutional neural networks`](https://www.biorxiv.org/content/10.1101/2021.11.11.468292v1.abstract)\
 Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  Edward S. Buckler. (2022)\
 **_bioRxiv_**
-<html>
-  <style>
-    section {
-        background: white;
-        color: black;
-        border-radius: 1em;
-        padding: 1em;
-        left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-  </style>
-  <section>
-    <div id="inner">
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left";
-          class="__dimensions_badge_embed__"
-          data-doi="10.1101/2021.11.11.468292"
-          data-hide-zero-citations="true"
-          data-legend="always">
-        </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right";
-          data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
-          data-doi="10.1101/2021.11.11.468292"   
-          data-condensed="true"
-          data-hide-no-mentions="true"
-          class="altmetric-embed">
-        </div>
-    </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1101/2021.11.11.468292"
-          data-orientation="horizontal"
-          class="plumx-summary"
-          data-site="plum"
-          data-hide-when-empty="true">
-        </a>
-    </div>
-  </section>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1101/2021.11.11.468292"></div>
 
 
 23\.    [`A combinatorial indexing strategy for low cost epigenomic profiling of plant single cells.`](https://doi.org/10.1016/j.xplc.2022.100308)\
 Alexandre P. Marand, Xiaoyu Tu, Robert J. Schmitz, Silin Zhong. (2022)\
 **_Plant Communications_**
-<html>
-  <style>
-    section {
-        background: white;
-        color: black;
-        border-radius: 1em;
-        padding: 1em;
-        left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-  </style>
-  <section>
-    <div id="inner">
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left";
-          class="__dimensions_badge_embed__"
-          data-doi="110.1016/j.xplc.2022.100308"
-          data-hide-zero-citations="true"
-          data-legend="always">
-        </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right";
-          data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
-          data-doi="10.1016/j.xplc.2022.100308"   
-          data-condensed="true"
-          data-hide-no-mentions="true"
-          class="altmetric-embed">
-        </div>
-    </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1016/j.xplc.2022.100308"
-          data-orientation="horizontal"
-          class="plumx-summary"
-          data-site="plum"
-          data-hide-when-empty="true">
-        </a>
-    </div>
-  </section>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.xplc.2022.100308"></div>
 
 
 22\.    [`Single-cell analysis of cis-regulatory elements.`](https://doi.org/10.1016/j.pbi.2021.102094)\
 Alexandre P. Marand, Robert J. Schmitz. (2022)\
 **_Current Opinion in Plant Biology_**
-<html>
-  <style>
-    section {
-        background: white;
-        color: black;
-        border-radius: 1em;
-        padding: 1em;
-        left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-  </style>
-  <section>
-    <div id="inner">
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left";
-          class="__dimensions_badge_embed__"
-          data-doi="10.1016/j.pbi.2021.102094"
-          data-hide-zero-citations="true"
-          data-legend="always">
-        </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right";
-          data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
-          data-doi="10.1016/j.pbi.2021.102094"   
-          data-condensed="true"
-          data-hide-no-mentions="true"
-          class="altmetric-embed">
-        </div>
-    </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1016/j.pbi.2021.102094"
-          data-orientation="horizontal"
-          class="plumx-summary"
-          data-site="plum"
-          data-hide-when-empty="true">
-        </a>
-    </div>
-  </section>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.pbi.2021.102094"></div>
 
 
 ### 2021
 21\.    [`Quality control and evaluation of plant epigenomics data.`](https://doi.org/10.1093/plcell/koab255)\
 Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska Turck, Xuemei Chen, Michael J. Axtell, Xuehua Zhong, Siobhan M. Brady, Molly Megraw, Blake C. Myers. (2021)\
 **_The Plant Cell_**
-<html>
-  <style>
-    section {
-        background: white;
-        color: black;
-        border-radius: 1em;
-        padding: 1em;
-        left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-  </style>
-  <section>
-    <div id="inner">
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left";
-          class="__dimensions_badge_embed__"
-          data-doi="0.1093/plcell/koab255"
-          data-hide-zero-citations="true"
-          data-legend="always">
-        </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right";
-          data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
-          data-doi="0.1093/plcell/koab255"   
-          data-condensed="true"
-          data-hide-no-mentions="true"
-          class="altmetric-embed">
-        </div>
-    </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=0.1093/plcell/koab255"
-          data-orientation="horizontal"
-          class="plumx-summary"
-          data-site="plum"
-          data-hide-when-empty="true">
-        </a>
-    </div>
-  </section>
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/plcell/koab255"></div>
 
 
