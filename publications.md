@@ -25,16 +25,18 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         align-items: center;
         justify-content: center }
     .box img {
-        width: 50%;
-        height: 50%;
+        width: 66%;
+        height: 66%;
     }
   </style>
   <section>
     <div id="inner">
-      <div class="box"
+      <a href="https://www.biorxiv.org/content/10.1101/2022.07.11.499557v1.abstract">
+        <div class="box"
           style="float:left">
-          <a href="https://www.biorxiv.org/content/10.1101/2022.07.11.499557v1.abstract"><img src="/img/pub_images/pub_25.png"></div>
-          </a>
+          <img src="/img/pub_images/pub_25.png"></a>
+        </div>
+      </a>
       <span class="__dimensions_badge_embed__"
           data-doi="10.1101/2022.07.11.499557"
           data-legend="always">
