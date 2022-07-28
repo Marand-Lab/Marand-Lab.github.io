@@ -72,9 +72,19 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
         display: flex;
         align-items: center;
         justify-content: center }
+    .box img {
+            width: 66%;
+            height: 66%;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://www.biorxiv.org/content/10.1101/2021.11.11.468292v1.abstract">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_24.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1101/2021.11.11.468292"
