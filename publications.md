@@ -26,9 +26,8 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         justify-content: center }
   </style>
   <section>
-    <div id="inner">
-        <span style="float:left";
-          class="__dimensions_badge_embed__"
+    <div id="inner"; style="float:left">
+        <span class="__dimensions_badge_embed__"
           data-doi="10.1101/2022.07.11.499557"
           data-legend="always">
         </span>
