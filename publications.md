@@ -13,25 +13,19 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
 
 <html>
   <style>
-    section {
-        background: white;
-        color: black;
-        border-radius: 1em;
-        padding: 1em;
-        left: 50% }
     #inner {
         display: inline-block;
         display: flex;
         align-items: center;
         justify-content: center }
   </style>
-  <section>
     <div id="inner">
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1101/2022.07.11.499557"
           data-legend="always">
       </span>
+    </div>  
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
       <div style="float:right"
         data-link-target="_blank"
@@ -42,9 +36,7 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         class="altmetric-embed">
       </div>
     <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-  </section>
 </html>
-
 
 24\.    [`Modeling chromatin state from sequence across angiosperms using recurrent convolutional neural networks`](https://www.biorxiv.org/content/10.1101/2021.11.11.468292v1.abstract)\
 Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  Edward S. Buckler. (2022)\
