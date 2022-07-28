@@ -25,19 +25,19 @@ Alexandre P. Marand, Robert J. Schmitz. (2022)\
 
 
 ### 2021
-21\.    [`Quality control and evaluation of plant epigenomics data.`](https://doi.org/10.1093/plcell/koab255.)\
+21\.    [`Quality control and evaluation of plant epigenomics data.`](https://doi.org/10.1093/plcell/koab255)\
 Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska Turck, Xuemei Chen, Michael J. Axtell, Xuehua Zhong, Siobhan M. Brady, Molly Megraw, Blake C. Myers. (2021)\
 **_The Plant Cell_**
 
-20\.    [`Vision, challenges, and opportunities for a Plant Cell Atlas.`](https://doi.org/10.7554/eLife.66877.)\
+20\.    [`Vision, challenges, and opportunities for a Plant Cell Atlas.`](https://doi.org/10.7554/eLife.66877)\
 Plant Cell Atlas Consortium, Suryatapa Ghosh Jha, Alexander T. Borowsky, Benjamin J. Cole, Noah Fahlgren, Andrew Farmer, Shao-shan Carol Huang, Purva Karia, Marc Libault, Nicholas J. Provart, Selena L. Rice, Maite Saura-Sanchez, Pinky Agarwal, Amir H. Ahkami, Christopher R. Anderton, Steven P. Briggs, Jennifer A.N. Brophy, Peter Denolf, Luigi F. Di Costanzo, Moises Exposito-Alonso, Stefania Giacomello, Fabio Gomez-Cano, Kerstin Kaufmann, Dae Kwan Ko, Sagar Kumar, Andrey V. Malkovskiy, Naomi Nakayama, Toshihiro Obata, Marisa S. Otegui, Gergo Palfalvi, Elsa H. Quezada-Rodríguez, Rajveer Singh, R. Glen Uhrig, Jamie Waese, Klaas Van Wijk, R. Clay Wright, David W. Ehrhardt, Kenneth D. Birnbaum, Seung Y. Rhee. (2021)\
 **_eLife_**
 
-19\.    [`Profiling single-cell chromatin accessibility in plants.`](https://doi.org/10.1016/j.xpro.2021.100737.)\
+19\.    [`Profiling single-cell chromatin accessibility in plants.`](https://doi.org/10.1016/j.xpro.2021.100737)\
 Alexandre P. Marand, Xuan Zhang, Julie Nelson, Pedro Augusto Braga dos Reis, Robert J. Schmitz. (2021)\
 **_STAR Protocols_**
 
-18\.    [`De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes.`](https://doi.org/10.1126/science.abg5289.)\
+18\.    [`De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes.`](https://doi.org/10.1126/science.abg5289)\
 Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule, Shujun Ou, Jianing Liu, William A. Ricci, Tingting Guo, Andrew Olson, Yinjie Qiu, Rafael Della Coletta, Silas Tittes, Asher I. Hudson, Alexandre P. Marand, Sharon Wei, Zhenyuan Lu, Bo Wang, Marcela K. Tello-Ruiz, Rebecca D. Piri, Na Wang, Dong won Kim, Yibing Zeng, Christine H. O'Connor, Xianran Li, Amanda M. Gilbert, Erin Baggs, Ksenia V. Krasileva, John L. Portwood II, Ethalinda K.S. Cannon, Carson M. Andorf, Nancy Manchanda, Samantha J. Snodgrass, David E. Hufnagel, Qiuhan Jiang, Sarah Pedersen, Michael L. Syring, David A. Kudrna, Victor Llaca, Kevin Fengler, Robert J. Schmitz, Jeffrey Ross-Ibarra, Jianming Yu, Jonathan I. Gent, Candice N. Hirsch, Doreen Ware, R. Kelly Dawe. (2021)\
 **_Science_**
 
@@ -49,7 +49,7 @@ John P. Mendieta, Alexandre P. Marand, William A. Ricci, Xuan Zhang, Robert J. S
 Jaclyn M. Noshay, Zhikai Liang, Peng Zhou, Peter A. Crisp, Alexandre P. Marand, Candice N. Hirsch, Robert J. Schmitz, Nathan M. Springer. (2021)\
 **_G3 Genes\|Genomes\|Genetics_**
 
-15\.    [`A cis-regulatory atlas in maize at single-cell resolution.`](https://doi.org/10.1016/j.cell/2021.04.014)\
+15\.    [`A cis-regulatory atlas in maize at single-cell resolution.`](https://doi.org/10.1016/j.cell.2021.04.014)\
 Alexandre P. Marand, Zongliang Chen, Andrea Gallavotti, Robert J. Schmitz. (2021)\
 **_Cell_**
 
@@ -64,7 +64,7 @@ Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, Alexandre P
 
 
 ### 2020
-13\.    [`Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons.`](https://doi.org/10.1093/genetics/iyaa003.)\
+13\.    [`Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons.`](https://doi.org/10.1093/genetics/iyaa003)\
 Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Katherine Mejia Guerra, Zefu Lu, Christine O’Connor, Peter A. Crisp, Candice N. Hirsch, Robert J. Schmitz, Nathan M. Springer. (2020)\
 **_Genetics_**
 
