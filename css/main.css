@@ -22,7 +22,10 @@ p {
   margin: 20px 0;
 }
 h1 {
-	color: #000000;
+  font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  color: #000000;
+  border: 5px solid black;
 }
 h2,h3,h4,h5,h6 {
   font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, sans-serif;

@@ -4,8 +4,10 @@ title: Research
 bigimg: "/img/publication_image.png"
 ---
 
+###**Research Mission**
+
 <p align="justify">
-Broadly, my research interests include anything related to plant breeding and genetics. The projects I get most excited about combine interdisciplinary approaches, such as statistics and image analysis, to generate meaningful insight into genetic variation through the optimization of experimental design and data analysis.</p>
+How can a single cell develop into a multicellular organism composed of millions, billions, and even trillions of cells? The lab is broadly interested in understanding how (epi)genetic and (epi)genomic variation affects cis-regulatory activity and transcription regulation. Assigning .</p>
 
 ## Genetics of Complex Traits
 <p align="justify">
