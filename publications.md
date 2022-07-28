@@ -30,7 +30,6 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         <span style="float:left";
           class="__dimensions_badge_embed__"
           data-doi="10.1101/2022.07.11.499557"
-          data-hide-zero-citations="true"
           data-legend="always">
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -40,7 +39,6 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
           data-badge-type="medium-donut"
           data-doi="10.1101/2022.07.11.499557"   
           data-condensed="true"
-          data-hide-no-mentions="true"
           class="altmetric-embed">
         </div>
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
