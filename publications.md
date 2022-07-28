@@ -18,7 +18,7 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
         border-radius: 1em;
         padding: 1em;
         left: 50% }
-    #inner {
+    inner {
         display: inline-block;
         display: flex;
         align-items: center;
@@ -44,15 +44,6 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
           class="altmetric-embed">
         </div>
     </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1101/2022.07.11.499557"
-          data-orientation="horizontal"
-          class="plumx-summary"
-          data-site="plum"
-          data-hide-when-empty="true">
-        </a>
-    </div>
   </section>
 
 
@@ -67,7 +58,7 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
         border-radius: 1em;
         padding: 1em;
         left: 50% }
-    #inner {
+    inner {
         display: inline-block;
         display: flex;
         align-items: center;
@@ -92,15 +83,6 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
           data-hide-no-mentions="true"
           class="altmetric-embed">
         </div>
-    </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1101/2021.11.11.468292"
-          data-orientation="horizontal"
-          class="plumx-summary"
-          data-site="plum"
-          data-hide-when-empty="true">
-        </a>
     </div>
   </section>
 
@@ -127,7 +109,7 @@ Alexandre P. Marand, Xiaoyu Tu, Robert J. Schmitz, Silin Zhong. (2022)\
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="110.1016/j.xplc.2022.100308"
+          data-doi="10.1016/j.xplc.2022.100308)
           data-hide-zero-citations="true"
           data-legend="always">
         </span>
@@ -136,7 +118,7 @@ Alexandre P. Marand, Xiaoyu Tu, Robert J. Schmitz, Silin Zhong. (2022)\
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.1016/j.xplc.2022.100308"   
+          data-doi="10.1016/j.xplc.2022.100308)"   
           data-condensed="true"
           data-hide-no-mentions="true"
           class="altmetric-embed">
