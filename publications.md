@@ -7,7 +7,7 @@ bigimg: "/img/publication_image.png"
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
 ### 2022
-25\.    [`MAMA Machine learning reveals conserved chromatin patterns determining meiotic recombination sites in plants`](https://www.biorxiv.org/content/10.1101/2022.07.11.499557v1.abstract)\
+25\.    [`Machine learning reveals conserved chromatin patterns determining meiotic recombination sites in plants`](https://www.biorxiv.org/content/10.1101/2022.07.11.499557v1.abstract)\
 Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Azuri, Nurit Shoshani-Hechel, Cathy Melamed-Bessudo, Alexandre P. Marand, Jiming Jiang, James C. Schnable, Charles J. Underwood, Ian R. Henderson, Qi Sun, Jaroslaw Pillardy, Penny M.A. Kianian, Shahryar F. Kianian, Changbin Chen, Avraham A. Levy, Wojciech P. Pawlowski. (2022)\
 **_bioRxiv_**
 
