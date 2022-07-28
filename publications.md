@@ -71,13 +71,16 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
       padding: 1em;
       left: 50% }
     #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
+      display: inline-block;
+      display: flex;
+      align-items: center;
+      justify-content: center }
     .box img {
-            width: 66%;
-            height: 66%;
+      display: block;
+      max-width:200px;
+      max-height:200px;
+      width: auto;
+      height: auto;
     }
   </style>
   <section>
