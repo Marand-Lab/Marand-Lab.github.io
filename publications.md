@@ -29,7 +29,7 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="110.1101/2022.07.11.499557"
+          data-doi="10.1101/2022.07.11.499557"
           data-hide-zero-citations="true"
           data-legend="always">
         </span>
@@ -226,7 +226,7 @@ Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="0.1093/plcell/koab255"
+          data-doi="10.1093/plcell/koab255"
           data-hide-zero-citations="true"
           data-legend="always">
         </span>
@@ -235,7 +235,7 @@ Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="0.1093/plcell/koab255"   
+          data-doi="10.1093/plcell/koab255"   
           data-condensed="true"
           data-hide-no-mentions="true"
           class="altmetric-embed">
@@ -243,7 +243,7 @@ Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=0.1093/plcell/koab255"
+        <a href="https://plu.mx/plum/a/?doi=10.1093/plcell/koab255"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
@@ -251,30 +251,202 @@ Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska
         </a>
     </div>
   </section>
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/plcell/koab255"></div>
 
 
 20\.    [`Vision, challenges, and opportunities for a Plant Cell Atlas.`](https://doi.org/10.7554/eLife.66877)\
 Plant Cell Atlas Consortium, Suryatapa Ghosh Jha, Alexander T. Borowsky, Benjamin J. Cole, Noah Fahlgren, Andrew Farmer, Shao-shan Carol Huang, Purva Karia, Marc Libault, Nicholas J. Provart, Selena L. Rice, Maite Saura-Sanchez, Pinky Agarwal, Amir H. Ahkami, Christopher R. Anderton, Steven P. Briggs, Jennifer A.N. Brophy, Peter Denolf, Luigi F. Di Costanzo, Moises Exposito-Alonso, Stefania Giacomello, Fabio Gomez-Cano, Kerstin Kaufmann, Dae Kwan Ko, Sagar Kumar, Andrey V. Malkovskiy, Naomi Nakayama, Toshihiro Obata, Marisa S. Otegui, Gergo Palfalvi, Elsa H. Quezada-Rodríguez, Rajveer Singh, R. Glen Uhrig, Jamie Waese, Klaas Van Wijk, R. Clay Wright, David W. Ehrhardt, Kenneth D. Birnbaum, Seung Y. Rhee. (2021)\
 **_eLife_**
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.7554/eLife.66877"></div>
+<html>
+  <style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left";
+          class="__dimensions_badge_embed__"
+          data-doi="10.7554/eLife.66877"
+          data-hide-zero-citations="true"
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right";
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.7554/eLife.66877"   
+          data-condensed="true"
+          data-hide-no-mentions="true"
+          class="altmetric-embed">
+        </div>
+    </div>
+    <div id="inner">
+      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
+        <a href="https://plu.mx/plum/a/?doi=10.7554/eLife.66877"
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
+          data-hide-when-empty="true">
+        </a>
+    </div>
+  </section>
 
 
 19\.    [`Profiling single-cell chromatin accessibility in plants.`](https://doi.org/10.1016/j.xpro.2021.100737)\
 Alexandre P. Marand, Xuan Zhang, Julie Nelson, Pedro Augusto Braga dos Reis, Robert J. Schmitz. (2021)\
 **_STAR Protocols_**
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.xpro.2021.100737"></div>
+<html>
+  <style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left";
+          class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.xpro.2021.100737"
+          data-hide-zero-citations="true"
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right";
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.xpro.2021.100737"   
+          data-condensed="true"
+          data-hide-no-mentions="true"
+          class="altmetric-embed">
+        </div>
+    </div>
+    <div id="inner">
+      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
+        <a href="https://plu.mx/plum/a/?doi=10.1016/j.xpro.2021.100737"
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
+          data-hide-when-empty="true">
+        </a>
+    </div>
+  </section>
 
 
 18\.    [`De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes.`](https://doi.org/10.1126/science.abg5289)\
 Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule, Shujun Ou, Jianing Liu, William A. Ricci, Tingting Guo, Andrew Olson, Yinjie Qiu, Rafael Della Coletta, Silas Tittes, Asher I. Hudson, Alexandre P. Marand, Sharon Wei, Zhenyuan Lu, Bo Wang, Marcela K. Tello-Ruiz, Rebecca D. Piri, Na Wang, Dong won Kim, Yibing Zeng, Christine H. O'Connor, Xianran Li, Amanda M. Gilbert, Erin Baggs, Ksenia V. Krasileva, John L. Portwood II, Ethalinda K.S. Cannon, Carson M. Andorf, Nancy Manchanda, Samantha J. Snodgrass, David E. Hufnagel, Qiuhan Jiang, Sarah Pedersen, Michael L. Syring, David A. Kudrna, Victor Llaca, Kevin Fengler, Robert J. Schmitz, Jeffrey Ross-Ibarra, Jianming Yu, Jonathan I. Gent, Candice N. Hirsch, Doreen Ware, R. Kelly Dawe. (2021)\
 **_Science_**
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1126/science.abg5289"></div>
+<html>
+  <style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left";
+          class="__dimensions_badge_embed__"
+          data-doi="10.1126/science.abg5289"
+          data-hide-zero-citations="true"
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right";
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1126/science.abg5289"   
+          data-condensed="true"
+          data-hide-no-mentions="true"
+          class="altmetric-embed">
+        </div>
+    </div>
+    <div id="inner">
+      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
+        <a href="https://plu.mx/plum/a/?doi=10.1126/science.abg5289"
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
+          data-hide-when-empty="true">
+        </a>
+    </div>
+  </section>
 
 
 17\.    [`Leveraging histone modifications to improve genome annotations.`](https://doi.org/10.1093/g3journal/jkab263)\
 John P. Mendieta, Alexandre P. Marand, William A. Ricci, Xuan Zhang, Robert J. Schmitz. (2021)\
 **_G3 Genes\|Genomes\|Genetics_**
+<html>
+  <style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left";
+          class="__dimensions_badge_embed__"
+          data-doi="10.1093/g3journal/jkab263"
+          data-hide-zero-citations="true"
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right";
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1093/g3journal/jkab263"   
+          data-condensed="true"
+          data-hide-no-mentions="true"
+          class="altmetric-embed">
+        </div>
+    </div>
+    <div id="inner">
+      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
+        <a href="https://plu.mx/plum/a/?doi=10.1093/g3journal/jkab263"
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
+          data-hide-when-empty="true">
+        </a>
+    </div>
+  </section>
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/g3journal/jkab263"></div>
 
 
