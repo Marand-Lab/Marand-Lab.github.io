@@ -65,39 +65,39 @@ Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, Alexandre P
 
 ### 2020
 13\.    [`Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons.`](https://doi.org/10.1093/genetics/iyaa003.)\
-Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Katherine Mejia Guerra, Zefu Lu, Christine O’Connor, Peter A. Crisp, Candice N. Hirsch, Robert J. Schmitz, Nathan M. Springer. (2020)
+Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Katherine Mejia Guerra, Zefu Lu, Christine O’Connor, Peter A. Crisp, Candice N. Hirsch, Robert J. Schmitz, Nathan M. Springer. (2020)\
 **_Genetics_**
 
 12\.    [`Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes.`](https://doi.org/10.1073/pnas.2010250117)\
-Peter A. Crisp, Alexandre P. Marand, Jaclyn M. Noshay, Peng Zhou, Zefu Lu, Robert J. Schmitz, Nathan M. Springer. (2020)
+Peter A. Crisp, Alexandre P. Marand, Jaclyn M. Noshay, Peng Zhou, Zefu Lu, Robert J. Schmitz, Nathan M. Springer. (2020)\
 **_Proceedings of the National Academy of Sciences_**
 
 11\.    [`Identification of a novel base J binding protein complex involved in RNA polymerase II transcription termination in trypanosomes.`](https://doi.org/10.1371/journal.pgen.1008390)\
-Rudo Kieft, Yang Zhang, Alexandre P. Marand, Jose Dagoberto Moran, Robert Bridger, Lance Wells, Robert J. Schmitz, Robert Sabatini. (2020)
+Rudo Kieft, Yang Zhang, Alexandre P. Marand, Jose Dagoberto Moran, Robert Bridger, Lance Wells, Robert J. Schmitz, Robert Sabatini. (2020)\
 **_PLOS Genetics_**
 
 
 ### 2019
 10\.    [`The prevalence, evolution and chromatin signatures of plant regulatory elements.`](https://doi.org/10.1038/s41477-019-0548-z)\
-Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zhang, Robert J. Schmitz. (2019)
+Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zhang, Robert J. Schmitz. (2019)\
 **_Nature Plants_**
 
 9\.    [`Widespread long-range cis-regulatory elements in the maize genome.`](https://doi.org/10.1038/s41477-019-0547-0)\
-William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridge, Nathalie G. Murphy, Jaclyn M. Noshay, Mary Galli, María Katherine Mejía-Guerra, Maria Colomé-Tatché, Frank Johannes, M. Jordan Rowley, Victor G. Corces, Jixian Zhai, Michael J. Scanlon, Edward S. Buckler, Andrea Gallavotti, Nathan M. Springer, Robert J. Schmitz, Xiaoyu Zhang. (2019)
+William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridge, Nathalie G. Murphy, Jaclyn M. Noshay, Mary Galli, María Katherine Mejía-Guerra, Maria Colomé-Tatché, Frank Johannes, M. Jordan Rowley, Victor G. Corces, Jixian Zhai, Michael J. Scanlon, Edward S. Buckler, Andrea Gallavotti, Nathan M. Springer, Robert J. Schmitz, Xiaoyu Zhang. (2019)\
 **_Nature Plants_**
 
 8\.    [`Cold stress induces enhanced chromatin accessibility and bivalent histone modifications H3K4me3 and H3K27me3 of active genes in potato.`](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1731-2)\
-Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)
+Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)\
 **_Genome Biology_**
 
 7\.    [`Residual Heterozygosity and Epistatic Interactions Underlie the Complex Genetic Architecture of Yield in Diploid Potato.`](https://www.genetics.org/content/212/1/317.abstract)\
-Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)
+Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)\
 **_Genetics_**
 
 [Article Highlights](https://www.genetics.org/content/212/1/NP)
 
 6\.    [`Historical Meiotic Crossover Hotspots Fueled Patterns of Evolutionary Divergence in Rice.`](http://www.plantcell.org/content/31/3/645.abstract)\
-Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)
+Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
 **_The Plant Cell_**
 
 [F1000 recommended article](https://f1000.com/prime/734986434)
@@ -105,25 +105,25 @@ Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)
 
 ### 2018
 5\.    [`Genome sequence of M6, a diploid inbred clone of the high-glycoalkaloid-producing tuber-bearing potato species Solanum chacoense, reveals residual heterozygosity.`](https://doi.org/10.1111/tpj.13857)\
-CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (2018)
+CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (2018)\
 **_The Plant Journal_**
 
 4\.    [`Proliferation of regulatory DNA elements derived from transposable elements in the maize genome.`](http://www.plantphysiol.org/content/176/4/2789.abstract)\
-H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)
+H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
 **_Plant Physiology_**
 
 
 ### 2017
 3\.    [`Meiotic crossovers are associated with open chromatin and enriched with Stowaway transposons in potato.`](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1326-8)\
-Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L Newton, AJ Hamernik, RE Veilleux, CR Buell, J Jiang. (2017)
+Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L Newton, AJ Hamernik, RE Veilleux, CR Buell, J Jiang. (2017)\
 **_Genome Biology_**
 
 2\.    [`Towards genome-wide prediction and characterization of enhancers in plants.`](https://www.sciencedirect.com/science/article/pii/S1874939916301274)\
-Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)
+Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)\
 **_BBA Gene Regulatory Mechanisms_**
 
 
 ### 2016
 1\.    [`PlantDHS: a database for DNase I hypersensitive sites in plants.`](https://academic.oup.com/nar/article-abstract/44/D1/D1148/2503132)\
-T Zhang, Alexandre P. Marand, J Jiang. (2016)
+T Zhang, Alexandre P. Marand, J Jiang. (2016)\
 **_Nucleic Acids Research_**
