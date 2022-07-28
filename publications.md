@@ -4,7 +4,6 @@ title: Publications
 bigimg: "/img/publication_image.png"
 ---
 
-<p align="justify">
 Publications tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
 ### 2022
@@ -95,4 +94,3 @@ Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017) **_BBA Gene Regulatory Mech
 
 **1)**    [`PlantDHS: a database for DNase I hypersensitive sites in plants.`](https://academic.oup.com/nar/article-abstract/44/D1/D1148/2503132)\
 T Zhang, Alexandre P. Marand, J Jiang. (2016) **_Nucleic Acids Research_**
-</p>
