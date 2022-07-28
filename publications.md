@@ -46,7 +46,7 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1101/2022.07.11.499557"
+        <a href="https://plu.mx/plum/a/?doi=10.1101/2022.07.11.499557" 
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
