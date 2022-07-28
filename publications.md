@@ -50,11 +50,80 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
 Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  Edward S. Buckler. (2022)\
 **_bioRxiv_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1101/2021.11.11.468292"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1101/2021.11.11.468292"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
 
 23\.    [`A combinatorial indexing strategy for low cost epigenomic profiling of plant single cells.`](https://doi.org/10.1016/j.xplc.2022.100308)\
 Alexandre P. Marand, Xiaoyu Tu, Robert J. Schmitz, Silin Zhong. (2022)\
 **_Plant Communications_**
 
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <span style="float:left"
+          class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.xplc.2022.100308"
+          data-legend="always">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.xplc.2022.100308"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
 
 
 22\.    [`Single-cell analysis of cis-regulatory elements.`](https://doi.org/10.1016/j.pbi.2021.102094)\
