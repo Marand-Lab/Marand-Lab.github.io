@@ -242,6 +242,12 @@ Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1093/plcell/koab255">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_21.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/plcell/koab255"
@@ -279,9 +285,23 @@ Plant Cell Atlas Consortium, Suryatapa Ghosh Jha, Alexander T. Borowsky, Benjami
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.7554/eLife.66877">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_20.jpg">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.7554/eLife.66877"
