@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-bigimg: "/img/publication_image.png"
+bigimg: "/img/pub_background.png"
 ---
 
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
