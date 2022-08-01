@@ -98,13 +98,13 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1101/2021.11.11.468292"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1101/2021.11.11.468292"   
           data-condensed="true"
           class="altmetric-embed">
@@ -153,13 +153,13 @@ Xiaoyu Tu, Alexandre P. Marand, Robert J. Schmitz, Silin Zhong. (2022)\
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.xplc.2022.100308"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1016/j.xplc.2022.100308"   
           data-condensed="true"
           class="altmetric-embed">
@@ -208,13 +208,13 @@ Alexandre P. Marand, Robert J. Schmitz. (2022)\
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.pbi.2021.102094"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1016/j.pbi.2021.102094"   
           data-condensed="true"
           class="altmetric-embed">
@@ -256,13 +256,13 @@ Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/plcell/koab255"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1093/plcell/koab255"   
           data-condensed="true"
           class="altmetric-embed">
@@ -311,13 +311,13 @@ Plant Cell Atlas Consortium, Suryatapa Ghosh Jha, Alexander T. Borowsky, Benjami
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.7554/eLife.66877"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.7554/eLife.66877"   
           data-condensed="true"
           class="altmetric-embed">
@@ -366,13 +366,13 @@ Alexandre P. Marand, Xuan Zhang, Julie Nelson, Pedro Augusto Braga dos Reis, Rob
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.xpro.2021.100737"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1016/j.xpro.2021.100737"   
           data-condensed="true"
           class="altmetric-embed">
@@ -421,13 +421,13 @@ Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1126/science.abg5289"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1126/science.abg5289"   
           data-condensed="true"
           class="altmetric-embed">
@@ -476,13 +476,13 @@ John P. Mendieta, Alexandre P. Marand, William A. Ricci, Xuan Zhang, Robert J. S
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/g3journal/jkab263"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1093/g3journal/jkab263"   
           data-condensed="true"
           class="altmetric-embed">
@@ -531,13 +531,13 @@ Jaclyn M. Noshay, Zhikai Liang, Peng Zhou, Peter A. Crisp, Alexandre P. Marand, 
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/g3journal/jkab190"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1093/g3journal/jkab190"   
           data-condensed="true"
           class="altmetric-embed">
@@ -586,13 +586,13 @@ Alexandre P. Marand, Zongliang Chen, Andrea Gallavotti, Robert J. Schmitz. (2021
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.cell.2021.04.014"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1016/j.cell.2021.04.014"   
           data-condensed="true"
           class="altmetric-embed">
@@ -646,13 +646,13 @@ Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, Alexandre P
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1038/s43586-020-00008-9"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1038/s43586-020-00008-9"   
           data-condensed="true"
           class="altmetric-embed">
@@ -702,13 +702,13 @@ Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Kathe
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/genetics/iyaa003"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1093/genetics/iyaa003"   
           data-condensed="true"
           class="altmetric-embed">
@@ -757,13 +757,13 @@ Peter A. Crisp, Alexandre P. Marand, Jaclyn M. Noshay, Peng Zhou, Zefu Lu, Rober
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1073/pnas.2010250117"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1073/pnas.2010250117"   
           data-condensed="true"
           class="altmetric-embed">
@@ -812,13 +812,13 @@ Rudo Kieft, Yang Zhang, Alexandre P. Marand, Jose Dagoberto Moran, Robert Bridge
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1371/journal.pgen.1008390"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1371/journal.pgen.1008390"   
           data-condensed="true"
           class="altmetric-embed">
@@ -868,13 +868,13 @@ Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zh
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1038/s41477-019-0548-z"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1038/s41477-019-0548-z"   
           data-condensed="true"
           class="altmetric-embed">
@@ -923,13 +923,13 @@ William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridg
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1038/s41477-019-0547-0"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1038/s41477-019-0547-0"   
           data-condensed="true"
           class="altmetric-embed">
@@ -978,13 +978,13 @@ Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)\
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1186/s13059-019-1731-2"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1186/s13059-019-1731-2"   
           data-condensed="true"
           class="altmetric-embed">
@@ -1033,13 +1033,13 @@ Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1534/genetics.119.302036"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1534/genetics.119.302036"   
           data-condensed="true"
           class="altmetric-embed">
@@ -1090,13 +1090,13 @@ Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1105/tpc.18.00750"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1105/tpc.18.00750"   
           data-condensed="true"
           class="altmetric-embed">
@@ -1148,13 +1148,13 @@ CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (20
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1111/tpj.13857"
-          data-legend="always">
+          ddata-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1111/tpj.13857"   
           data-condensed="true"
           class="altmetric-embed">
@@ -1203,13 +1203,13 @@ H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1104/pp.17.01467"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1104/pp.17.01467"   
           data-condensed="true"
           class="altmetric-embed">
@@ -1259,13 +1259,13 @@ Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1186/s13059-017-1326-8"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1186/s13059-017-1326-8"   
           data-condensed="true"
           class="altmetric-embed">
@@ -1315,13 +1315,13 @@ Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)\
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.bbagrm.2016.06.006"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1016/j.bbagrm.2016.06.006"   
           data-condensed="true"
           class="altmetric-embed">
@@ -1371,13 +1371,13 @@ T Zhang, Alexandre P. Marand, J Jiang. (2016)\
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/nar/gkv962"
-          data-legend="always">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
           data-link-target="_blank"
-          data-badge-details="right"
-          data-badge-type="medium-donut"
+          data-badge-popover="right"
+          data-badge-type="donut"
           data-doi="10.1093/nar/gkv962"   
           data-condensed="true"
           class="altmetric-embed">
