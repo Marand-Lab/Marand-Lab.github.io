@@ -20,10 +20,8 @@ description: Lab Website
 # List of links in the navigation bar
 navbar-links:
 #  About: "about"
-#  Research:
-#    - Undergraduate: "undergraduate"
-#    - Graduate: "graduate"
-#    - Postdoctoral: "postdoctoral"
+#  People:
+  Research: "research"
   Publications: "publications"
 #  Contact: "contact"
 
