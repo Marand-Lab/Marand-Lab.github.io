@@ -4,7 +4,7 @@ title: Research
 bigimg: "/img/Figure_1.png"
 ---
 
-###**Motivation**
+### Motivation
 
 <p align="justify">
 The long term goal of the lab is to understand how the genome of a single cell encodes the development of an entire multicellular organism composed of millions, billions, and even trillions of cells. Cellular diversity within and between organisms is largely attributed to differences in transcriptional variation, with cis-regulatory elements - sequences that control when and where a gene is transcribed - playing a major role. To tackle this question, the lab is currently focused on three major objectives:
@@ -27,6 +27,6 @@ New experimental and computational tools are fueling a revolution in biology.
 
 ## Understanding the consequences of cis-regulatory variation
 <p align="justify">
-Current paradigms of phenotypic diversity implicate cis-regulatory variants as a driving force fueling altered patterns and rates of transcription, ultimately manifesting in novel cellular and morphological phenotypes. 
+Current paradigms of phenotypic diversity implicate cis-regulatory variants as a driving force fueling altered patterns and rates of transcription, ultimately manifesting in novel cellular and morphological phenotypes.
 
 </p>
