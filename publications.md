@@ -58,7 +58,6 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -114,7 +113,6 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -170,7 +168,6 @@ Alexandre P. Marand, Xiaoyu Tu, Robert J. Schmitz, Silin Zhong. (2022)\
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -226,7 +223,6 @@ Alexandre P. Marand, Robert J. Schmitz. (2022)\
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -275,7 +271,6 @@ Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -331,7 +326,6 @@ Plant Cell Atlas Consortium, Suryatapa Ghosh Jha, Alexander T. Borowsky, Benjami
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -387,7 +381,6 @@ Alexandre P. Marand, Xuan Zhang, Julie Nelson, Pedro Augusto Braga dos Reis, Rob
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -443,7 +436,6 @@ Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -499,7 +491,6 @@ John P. Mendieta, Alexandre P. Marand, William A. Ricci, Xuan Zhang, Robert J. S
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -555,7 +546,6 @@ Jaclyn M. Noshay, Zhikai Liang, Peng Zhou, Peter A. Crisp, Alexandre P. Marand, 
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -616,7 +606,6 @@ Coverage:\
 [PNAS news](https://www.pnas.org/post/journal-club/atlas-identifies-genome-regions-that-regulate-plant-cell-identity)\
 [Plantae](https://plantae.org/a-cis-regulatory-atlas-in-maize-at-single-cell-resolution-biorxiv/)\
 [UGA Research](https://www.genetics.uga.edu/news/stories/2021/dr-marand-leads-project-applying-single-cell-sequencing-technology-create)
-\
 
 ---
 
@@ -672,7 +661,6 @@ Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, Alexandre P
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -729,7 +717,6 @@ Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Kathe
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -785,7 +772,6 @@ Peter A. Crisp, Alexandre P. Marand, Jaclyn M. Noshay, Peng Zhou, Zefu Lu, Rober
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -841,7 +827,6 @@ Rudo Kieft, Yang Zhang, Alexandre P. Marand, Jose Dagoberto Moran, Robert Bridge
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -898,7 +883,6 @@ Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zh
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -954,7 +938,6 @@ William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridg
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -1010,7 +993,6 @@ Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)\
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -1068,7 +1050,6 @@ Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)
 </html>
 
 [Article Highlights](https://www.genetics.org/content/212/1/NP)
-\
 
 ---
 
@@ -1126,7 +1107,6 @@ Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
 </html>
 
 [F1000 recommended article](https://f1000.com/prime/734986434)
-\
 
 ---
 
@@ -1183,7 +1163,6 @@ CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (20
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -1239,7 +1218,6 @@ H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -1296,7 +1274,6 @@ Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L
     </div>
   </section>
 </html>
-\
 
 ---
 
@@ -1353,7 +1330,6 @@ Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)\
     </div>
   </section>
 </html>
-\
 
 ---
 
