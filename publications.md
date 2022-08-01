@@ -130,9 +130,23 @@ Alexandre P. Marand, Xiaoyu Tu, Robert J. Schmitz, Silin Zhong. (2022)\
         display: flex;
         align-items: center;
         justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1016/j.xplc.2022.100308)">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_23.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.xplc.2022.100308"
