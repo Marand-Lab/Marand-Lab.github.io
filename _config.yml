@@ -19,7 +19,7 @@ description: Lab Website
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+#  About: "about"
 #  Research:
 #    - Undergraduate: "undergraduate"
 #    - Graduate: "graduate"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="font-color="white";">Publications</span>
+title: Publications
 bigimg: "/img/pub_background.png"
 ---
 
