@@ -18,16 +18,15 @@ The long term goal of the lab is to understand how the genome of a single cell e
 ## Single-cell genomics for decoding development
 <p align="justify">
 
-Elucidating how variation in cis-regulatory elements, chromatin structure and patterns of transcription encourage phenotypic evolution. I</p>
+Elucidating how variation in cis-regulatory elements, chromatin structure and patterns of transcription encourage phenotypic evolution. </p>
 
 ## Technology development
 <p align="justify">
-
+New experimental and computational tools are fueling a revolution in biology.
 </p>
 
-## Sources of cis-regulatory variation
+## Understanding the consequences of cis-regulatory variation
 <p align="justify">
-
-
+Current paradigms of phenotypic diversity implicate cis-regulatory variants as a driving force fueling altered patterns and rates of transcription, ultimately manifesting in novel cellular and morphological phenotypes. 
 
 </p>
