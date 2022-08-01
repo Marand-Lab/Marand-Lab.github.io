@@ -339,9 +339,23 @@ Alexandre P. Marand, Xuan Zhang, Julie Nelson, Pedro Augusto Braga dos Reis, Rob
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1016/j.xpro.2021.100737">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_19.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.xpro.2021.100737"
@@ -378,9 +392,23 @@ Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1126/science.abg5289">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_18.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1126/science.abg5289"
@@ -417,9 +445,23 @@ John P. Mendieta, Alexandre P. Marand, William A. Ricci, Xuan Zhang, Robert J. S
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1093/g3journal/jkab263">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_17.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/g3journal/jkab263"
@@ -457,9 +499,23 @@ Jaclyn M. Noshay, Zhikai Liang, Peng Zhou, Peter A. Crisp, Alexandre P. Marand, 
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1093/g3journal/jkab190">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_16.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/g3journal/jkab190"
@@ -496,9 +552,23 @@ Alexandre P. Marand, Zongliang Chen, Andrea Gallavotti, Robert J. Schmitz. (2021
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1016/j.cell.2021.04.014">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_15.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1016/j.cell.2021.04.014"
@@ -541,9 +611,23 @@ Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, Alexandre P
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1038/s43586-020-00008-9">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_14.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1038/s43586-020-00008-9"
@@ -581,9 +665,23 @@ Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Kathe
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1093/genetics/iyaa003">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_13.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1093/genetics/iyaa003"
@@ -620,9 +718,23 @@ Peter A. Crisp, Alexandre P. Marand, Jaclyn M. Noshay, Peng Zhou, Zefu Lu, Rober
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1073/pnas.2010250117">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_12.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1073/pnas.2010250117"
@@ -659,9 +771,23 @@ Rudo Kieft, Yang Zhang, Alexandre P. Marand, Jose Dagoberto Moran, Robert Bridge
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1371/journal.pgen.1008390">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_11.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1371/journal.pgen.1008390"
@@ -699,9 +825,23 @@ Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zh
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1038/s41477-019-0548-z">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_10.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1038/s41477-019-0548-z"
@@ -738,9 +878,23 @@ William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridg
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1038/s41477-019-0547-0">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/pub_9.png">
+      </div>
+    </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1038/s41477-019-0547-0"
@@ -777,6 +931,14 @@ Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)\
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
@@ -816,6 +978,14 @@ Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
@@ -858,6 +1028,14 @@ Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
@@ -901,6 +1079,14 @@ CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (20
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
@@ -940,6 +1126,14 @@ H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
@@ -980,6 +1174,14 @@ Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
@@ -1019,6 +1221,14 @@ Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)\
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
@@ -1059,6 +1269,14 @@ T Zhang, Alexandre P. Marand, J Jiang. (2016)\
         display: flex;
         align-items: center;
         justify-content: center }
+    box img {
+      display: block;
+      max-width:250px;
+      max-height:250px;
+      width: auto;
+      height: auto;
+      Padding: 20px,20px,20px,20px;
+    }
   </style>
   <section>
     <div id="inner">
