@@ -1148,7 +1148,7 @@ CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (20
       <span style="float:left"
           class="__dimensions_badge_embed__"
           data-doi="10.1111/tpj.13857"
-          ddata-style="small_circle">
+          data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         <div style="float:right"
