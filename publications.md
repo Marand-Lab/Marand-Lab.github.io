@@ -61,9 +61,9 @@ Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Az
 
 ---
 
-<span style="font-size:18px;">24\.    [`Modeling chromatin state from sequence across angiosperms using recurrent convolutional neural networks`](https://www.biorxiv.org/content/10.1101/2021.11.11.468292v1.abstract)</span>\
+<span style="font-size:18px;">24\.    [`Modeling chromatin state from sequence across angiosperms using recurrent convolutional neural networks`](http://doi.org/10.1002/tpg2.20249)</span>\
 Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  Edward S. Buckler. (2022)\
-<span style="font-size:16px;">**_bioRxiv_**</span>
+<span style="font-size:16px;">**_The Plant Genome_**</span>
 
 <html>
   <style>
@@ -89,7 +89,7 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
   </style>
   <section>
     <div id="inner">
-    <a href="https://www.biorxiv.org/content/10.1101/2021.11.11.468292v1.abstract">
+    <a href="http://doi.org/10.1002/tpg2.20249">
       <div class="box"
         style="float:left">
         <img src="/img/pub_images/pub_24.png">
@@ -97,7 +97,7 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
     </a>
       <span style="float:left"
           class="__dimensions_badge_embed__"
-          data-doi="10.1101/2021.11.11.468292"
+          data-doi="10.1002/tpg2.20249"
           data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -105,7 +105,7 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
           data-link-target="_blank"
           data-badge-popover="right"
           data-badge-type="donut"
-          data-doi="10.1101/2021.11.11.468292"   
+          data-doi="10.1002/tpg2.20249"   
           data-condensed="true"
           class="altmetric-embed">
         </div>
