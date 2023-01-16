@@ -22,8 +22,8 @@ navbar-links:
 #  About: "about"
   Home: "home"
   Research: "research"
-  #  People: "people"
   Publications: "publications"
+  People: "people"
   Contact: "contact"
   Join: "join"
 
