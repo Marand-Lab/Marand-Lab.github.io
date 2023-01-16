@@ -37,7 +37,7 @@ To better chart the genetic determinants of regulatory function, we are using si
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/282_chromatin_variation.png" width="350" alt="" align="left">
+	<img src="/img/282_chromatin_variation.png" width="400" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -45,7 +45,7 @@ To better chart the genetic determinants of regulatory function, we are using si
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/282_UMAP.png" width="350" alt="" align="left">
+	<img src="/img/282_UMAP.png" width="300" alt="" align="left">
 </div>
 </figure>
 </p>
