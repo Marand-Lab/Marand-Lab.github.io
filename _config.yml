@@ -13,7 +13,7 @@ baseurl: ""
 title: Marand Lab
 
 # Short description of your site
-description: Lab Website
+description: Website
 
 # --- Navigation bar options --- #
 
@@ -23,7 +23,9 @@ navbar-links:
   Home: "home"
   Research: "research"
   Publications: "publications"
+#  Data: "data"
 #  People: "people"
+#  News: "news"
   Contact: "contact"
   Join: "join"
 
