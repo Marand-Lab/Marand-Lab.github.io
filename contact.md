@@ -8,7 +8,7 @@ bigimg: "/img/BSB.jpg"
 Alex Marand\
 Email: alexandre.p.marand[at]gmail[dot]com\
 Lab: Coming soon\
-Office: Coming soon\
+Office: Coming soon
 
 ## Physical address:
 Department of Molecular, Cellular, and Developmental Biology\
