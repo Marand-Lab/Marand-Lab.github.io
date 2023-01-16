@@ -7,7 +7,7 @@ bigimg: "/img/pub_background.png"
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
 ### 2023
-<span style="font-size:18px;">26\.    [`cis-Regulatory Elements in Plant Development, Adaptation, and Evolution`](https://doi.org/10.1146/annurev-arplants-070122-030236)</span>\
+<span style="font-size:18px;">26\.    [`cis-Regulatory Elements in Plant Development, Adaptation, and Evolution`](https://doi.org/10.1146/annurev-arplant-070122-030236)</span>\
 Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2023)\
 <span style="font-size:16px;">**_Annual Review of Plant Biology_**</span>
 
@@ -35,14 +35,14 @@ Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2023)
   </style>
   <section>
     <div id="inner">
-      <a href="https://doi.org/10.1146/annurev-arplants-070122-030236">
+      <a href="https://doi.org/10.1146/annurev-arplant-070122-030236">
         <div class="box"
           style="float:left">
           <img src="/img/pub_images/pub_26.png">
         </div>
       </a>
       <span class="__dimensions_badge_embed__"
-          data-doi="10.1146/annurev-arplants-070122-030236"
+          data-doi="10.1146/annurev-arplant-070122-030236"
           data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -50,7 +50,7 @@ Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2023)
           data-link-target="_blank"
           data-badge-popover="right"
           data-badge-type="donut"
-          data-doi="10.1146/annurev-arplants-070122-030236"   
+          data-doi="10.1146/annurev-arplant-070122-030236"   
           data-condensed="true"
           class="altmetric-embed">
         </div>
