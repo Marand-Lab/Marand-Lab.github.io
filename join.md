@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join
-bigimg: "/img/BSB.jpg"
+bigimg: "/img/join_bgd.jpg"
 ---
 
 # Available Positions
