@@ -25,15 +25,7 @@ A major goal of developmental biology is elucidating how morphological and devel
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/GWAS_enrichment_celltypespecific.png" width="450" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/282_UMAP.png" width="250" alt="" align="left">
+	<img src="/img/GWAS_enrichment_celltypespecific.png" width="700" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -46,6 +38,14 @@ To better chart the genetic determinants of regulatory function, we are using si
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/282_chromatin_variation.png" width="350" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/282_UMAP.png" width="350" alt="" align="left">
 </div>
 </figure>
 </p>
