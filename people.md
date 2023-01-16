@@ -23,3 +23,5 @@ Assistant Professor
 NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
 Ph.D. University of Wisconsin\
 B.S. Virginia Polytechnic Institute and State University
+
+---
