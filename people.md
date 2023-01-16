@@ -14,8 +14,10 @@ bigimg: "/img/people.jpg"
 </figure>
 </p>
 <p align="justify">
-## Alex Marand
-**Position:** Assistant Professor
-**About Me:** NIH K99 and NSF Postdoctoral Fellow, University of Georgia
-Ph.D. University of Wisconsin
+<span style="font-size:16px;">**Alex Marand**</span>
+**Position:**\
+Assistant Professor
+**About Me:**\
+NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
+Ph.D. University of Wisconsin\
 B.S. Virginia Polytechnic Institute and State University
