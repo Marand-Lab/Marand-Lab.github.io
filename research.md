@@ -7,14 +7,14 @@ bigimg: "/img/Figure_1.png"
 # Motivation
 
 <p align="justify">
-The long term goal of the lab is to understand how the genome of a single cell encodes the development of an entire multicellular organism composed of millions, billions, and even trillions of cells. Cellular diversity within and between organisms is largely attributed to differences in transcriptional regulation, with *cis*-regulatory elements - sequences that control when and where a gene is transcribed - playing a central role. To tackle this question, the lab is currently focused on three major objectives:</p>
+The long term goal of the lab is to understand how the genome of a single cell encodes the development of an entire multicellular organism composed of millions, billions, and even trillions of cells. Cellular diversity within and between organisms is largely attributed to differences in transcriptional regulation, with *cis*-regulatory elements - sequences that control when and where a gene is transcribed - playing a central role. To tackle this question, the lab is currently focused on three major objectives:
 
 1. Identify the comprehensive catalog of *cis*-regulatory elements and their associated *trans*-factors underlying diverse cell identities and fate transitions in plant genomes. Leveraging recent advances in single-cell profiling methods, the lab primarily focuses these efforts in *Zea mays* and *Arabidopsis thaliana* and aims to expand to other model systems.
 
 2. Development of new techniques (experimental and computational) for quantitatively assaying non-coding regulatory element function. Efforts to chart the locations and functions of silencers, chromatin organization elements, and other cis-regulatory types have remained relatively unexplored compared to enhancers and promoters, including in animal and invertebrate systems. Understanding how different combinations of regulatory elements result in a specific quantitative activity (and outcome on transcription) is a major objective of the lab.
 
 3. Determining how (epi)genetic and (epi)genomic variation affects *cis*-regulatory activity and transcription regulation at the molecular level. Coupling standing genetic variation and mutagenesis approaches with high-throughput sequencing and reporter assays at the single-cell level facilitates characterization of novel molecular mechanisms underlying plasticity in cellular function, identity, and development.
-
+</p>
 
 ## Single-cell genomics for decoding development
 
