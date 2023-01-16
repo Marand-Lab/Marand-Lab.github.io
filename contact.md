@@ -4,8 +4,14 @@ title: Contact
 bigimg: "/img/BSB.jpg"
 ---
 
-Please feel free to contact me by e-mail at alexandre.p.marand[at]gmail[dot]com or using the links below.
+## Contact information
+Alex Marand
+Email: alexandre.p.marand[at]gmail[dot]com
+Lab: Coming soon
+Office: Coming soon
 
 ## Physical address:
+Department of Molecular, Cellular, and Developmental Biology
+University of Michigan
 1105 N. University Ave
 Ann Arbor, MI 48109
