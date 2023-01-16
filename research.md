@@ -18,7 +18,7 @@ The long term goal of the lab is to understand how the genome of a single cell e
 ## Single-cell genomics for decoding development
 
 <p align="justify">
-A major goal of developmental biology is elucidating how morphological and developmental variation arises within a species. Accumulating evidence from Genome-wide Association Studies implicates genetic variation within cis-regulatory elements as a significant source affecting phenotypic traits. Current paradigms suggest that regulatory variation may affect chromatin structure and transcription factor binding that result in altered patterns of transcription that encourage phenotypic evolution. Results from the lab indicate significant enrichment of phenotype-associated genetic variants within cell-type-specific cis-regulatory elements, suggesting that trait-associated variation are affecting transcriptional regulation in specific cellular contexts.
+A major goal of developmental biology is elucidating how morphological and developmental variation arises within a species. Accumulating evidence from Genome-wide Association Studies implicates genetic variation within *cis*-regulatory elements as a significant source affecting phenotypic traits. Current paradigms suggest that regulatory variation may affect chromatin structure and transcription factor binding that result in altered patterns of transcription that encourage phenotypic evolution. Results from the lab indicate significant enrichment of phenotype-associated genetic variants within cell-type-specific *cis*-regulatory elements, suggesting that trait-associated variation are affecting transcriptional regulation in specific cellular contexts.
 </p>
 
 <p align="justify">
