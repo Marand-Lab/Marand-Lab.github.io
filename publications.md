@@ -8,7 +8,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 
 ### 2023
 <span style="font-size:18px;">26\.    [`cis-Regulatory Elements in Plant Development, Adaptation, and Evolution`](https://doi.org/10.1146/annurev-arplants-070122-030236)</span>\
-Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2022)\
+Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2023)\
 <span style="font-size:16px;">**_Annual Review of Plant Biology_**</span>
 
 <html>
