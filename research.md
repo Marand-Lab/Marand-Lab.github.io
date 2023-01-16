@@ -13,7 +13,7 @@ The long term goal of the lab is to understand how the genome of a single cell e
 
 2. Development of new techniques (experimental and computational) for quantitatively assaying non-coding regulatory element function. Efforts to chart the locations and functions of silencers, chromatin organization elements, and other cis-regulatory types have remained relatively unexplored compared to enhancers and promoters, including in animal and invertebrate systems. Understanding how different combinations of regulatory elements result in a specific quantitative activity (and outcome on transcription) is a major objective of the lab.
 
-3. Determining how (epi)genetic and (epi)genomic variation affects *cis*-regulatory activity and transcription regulation at the molecular and mechanistic levels. Coupling standing genetic variation and mutagenesis approaches with high-throughput sequencing and reporter assays at the single-cell level facilitates characterization of novel molecular mechanisms underlying plasticity in cellular function, identity, and development.
+3. Determining how (epi)genetic and (epi)genomic variation affects *cis*-regulatory activity and transcription regulation at the molecular level. Coupling standing genetic variation and mutagenesis approaches with high-throughput sequencing and reporter assays at the single-cell level facilitates characterization of novel molecular mechanisms underlying plasticity in cellular function, identity, and development.
 
 
 ## Single-cell genomics for decoding development
