@@ -20,8 +20,9 @@ description: Lab Website
 # List of links in the navigation bar
 navbar-links:
 #  About: "about"
-#  People: "people"
+  Home: "home"
   Research: "research"
+  #  People: "people"
   Publications: "publications"
   Contact: "contact"
   Join: "join"
