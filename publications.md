@@ -6,6 +6,62 @@ bigimg: "/img/pub_background.png"
 
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
+### 2023
+<span style="font-size:18px;">26\.    [`cis-Regulatory Elements in Plant Development, Adaptation, and Evolution`](https://doi.org/10.1146/annurev-arplants-070122-030236)</span>\
+Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2022)\
+<span style="font-size:16px;">**_Annual Review of Plant Biology_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1146/annurev-arplants-070122-030236">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_26.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1146/annurev-arplants-070122-030236"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1146/annurev-arplants-070122-030236"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
+
 ### 2022
 <span style="font-size:18px;">25\.    [`Machine learning reveals conserved chromatin patterns determining meiotic recombination sites in plants`](https://www.biorxiv.org/content/10.1101/2022.07.11.499557v1.abstract)</span>\
 Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Azuri, Nurit Shoshani-Hechel, Cathy Melamed-Bessudo, Alexandre P. Marand, Jiming Jiang, James C. Schnable, Charles J. Underwood, Ian R. Henderson, Qi Sun, Jaroslaw Pillardy, Penny M.A. Kianian, Shahryar F. Kianian, Changbin Chen, Avraham A. Levy, Wojciech P. Pawlowski. (2022)\
