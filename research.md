@@ -27,7 +27,7 @@ A major goal of developmental biology is elucidating how morphological and devel
 </p>
 
 <p align="justify">
-To better chart the genetic determinants of regulatory function, we are using single-cell genomics to profile chromatin accessibility in diverse genetic backgrounds in maize. This project aims to identify genetic variants affecting levels chromatin accessibility in diverse cellular contexts, their effects on transcript abundance, and the consequences on cellular and organism-scale phenotypes. A comprehensive map of molecular effects will enable future genome engineering efforts to predictably fine-tune important traits.
+To better chart the genetic determinants of regulatory function, we are using single-cell genomics to profile chromatin accessibility in diverse genetic backgrounds in maize. This project aims to identify genetic variants affecting levels of chromatin accessibility in diverse cellular contexts, their effects on transcript abundance, and the consequences on cellular and organism-scale phenotypes. A comprehensive map of molecular effects will enable future genome engineering efforts to predictably fine-tune important traits.
 </p>
 
 <p align="justify">
