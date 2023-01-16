@@ -4,7 +4,7 @@ title: Join
 bigimg: "/img/join_bgd.jpg"
 ---
 
-# The Marand Lab opens Summer of 2023!
+<span style="color:red;font-size:32px;">The Marand Lab opens Summer of 2023!</span>
 
 # Available Positions
 
