@@ -9,14 +9,16 @@ bigimg: "/img/people.jpg"
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 25px">
-	<img src="/img/people_photos/alex.jpg" width="250" alt="" align="left">
+	<img src="/img/people_photos/alex.jpg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
 <p align="justify">
 <span style="font-size:16px;">**Alex Marand**</span>
+</p>
 **Position:**\
 Assistant Professor
+
 **About Me:**\
 NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
 Ph.D. University of Wisconsin\
