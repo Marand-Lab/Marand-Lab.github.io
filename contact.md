@@ -11,6 +11,7 @@ Lab: Coming soon\
 Office: Coming soon
 
 ## Physical address:
+Biological Sciences Building\
 Department of Molecular, Cellular, and Developmental Biology\
 University of Michigan\
 1105 N. University Ave\
