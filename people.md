@@ -14,7 +14,7 @@ bigimg: "/img/people.jpg"
 </figure>
 </p>
 
-**Alex Marand**\
+<font size="18">**Alex Marand**</font>
 
 **Position:**\
 Assistant Professor
