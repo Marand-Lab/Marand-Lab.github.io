@@ -7,7 +7,7 @@ bigimg: "/img/pub_background.png"
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
 ### 2023
-<span style="font-size:18px;">26\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://doi.org/10.1101/2023.01.20.524917)</span>\
+<span style="font-size:18px;">27\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://doi.org/10.1101/2023.01.20.524917)</span>\
 Alexandre P. Marand (2023)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
