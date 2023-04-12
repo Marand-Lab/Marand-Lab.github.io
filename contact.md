@@ -6,7 +6,7 @@ bigimg: "/img/BSB.jpg"
 
 ## Contact information
 Alex Marand\
-Email: alexandre.p.marand[at]gmail[dot]com\
+Email: amarand[at]umich[dot]edu\
 Lab: Coming soon\
 Office: Coming soon
 
