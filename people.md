@@ -8,7 +8,7 @@ bigimg: "/img/people.jpg"
 
 <p align="justify">
 <figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 100px">
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Fabio.jpg" width="100" alt="" align="left">
 </div>
 </figure>
@@ -28,7 +28,7 @@ B.Sc. Universidad Nacional de Colombia
 
 <p align="justify">
 <figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 100px">
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
 </div>
 </figure>
@@ -39,13 +39,15 @@ B.Sc. Universidad Nacional de Colombia
 **Position:**\
 Research Lab Technician Lead
 **About Me:**\
-B.Sc. Universidad Pedagogica y Tecnologica de Colombia
+B.Sc. Universidad Pedagogica y Tecnologica de Colombia \
+\
+\
 
 ---
 
 <p align="justify">
 <figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 100px">
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/alex.jpg" width="100" alt="" align="left">
 </div>
 </figure>
