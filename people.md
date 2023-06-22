@@ -9,7 +9,7 @@ bigimg: "/img/people.jpg"
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 25px">
-	<img src="/img/people_photos/Fabio.pdf" width="100" alt="" align="left">
+	<img src="/img/people_photos/Fabio.jpg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -29,7 +29,7 @@ B.Sc. Universidad Nacional de Colombia
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 25px">
-	<img src="/img/people_photos/Mariel.pdf" width="100" alt="" align="left">
+	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
