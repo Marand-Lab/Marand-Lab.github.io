@@ -21,7 +21,7 @@ Postdoctoral Scholar
 
 **About Me:**\
 Ph.D. Michigan State University\
-M.Sc. Universidad de los Andes \
+M.Sc. Universidad de los Andes\
 B.Sc. Universidad Nacional de Colombia
 
 ---
@@ -41,7 +41,7 @@ Research Lab Technician Lead
 
 **About Me:**\
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
-  
+\
 
 
 
