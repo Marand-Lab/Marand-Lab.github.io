@@ -42,7 +42,7 @@ Research Lab Technician Lead
 **About Me:**\
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia \
  \
- \
+ 
 
 
 ---
