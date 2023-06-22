@@ -42,7 +42,7 @@ Research Lab Technician Lead
 **About Me:**\
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia \
  \
- 
+
 
 
 ---
@@ -63,6 +63,6 @@ Assistant Professor
 **About Me:**\
 NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
 Ph.D. University of Wisconsin\
-B.S. Virginia Polytechnic Institute and State University
+B.Sc. Virginia Polytechnic Institute and State University
 
 ---
