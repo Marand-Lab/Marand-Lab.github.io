@@ -28,7 +28,7 @@ B.Sc. Universidad Nacional de Colombia
 
 <p align="justify">
 <figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 25px">
+<div style="float: left; padding-right: 50px; padding-bottom: 5px">
 	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
 </div>
 </figure>
