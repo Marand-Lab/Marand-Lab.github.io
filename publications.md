@@ -7,7 +7,7 @@ bigimg: "/img/pub_background.png"
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
 ### 2023
-<span style="font-size:18px;">27\.    [`Leveraging Single-Cell Populations to Uncover the Genetic Basis of Complex Traits`](https://doi.org/10.1146/annurev-genet-022123-110824)</span>\
+<span style="font-size:18px;">28\.    [`Leveraging Single-Cell Populations to Uncover the Genetic Basis of Complex Traits`](https://doi.org/10.1146/annurev-genet-022123-110824)</span>\
 Mark A.A. Minow, Alexandre P. Marand, Robert J. Schmitz (2023)\
 <span style="font-size:16px;">**_Annual Review of Genetics_**</span>
 
