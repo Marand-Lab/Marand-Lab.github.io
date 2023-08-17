@@ -12,7 +12,7 @@ Office: (734)763-(seven-one-four-two)
 
 ## Physical address:
 Lab: Room 5170 \
-Office: Room 5140 \
+Office: Room 5142 \
 Biological Sciences Building\
 Department of Molecular, Cellular, and Developmental Biology\
 University of Michigan\
