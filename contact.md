@@ -8,9 +8,11 @@ bigimg: "/img/BSB.jpg"
 Alex Marand\
 Email: amarand[at]umich[dot]edu\
 Lab: Coming soon\
-Office: Coming soon
+Office: (734)763-(seven-one-four-two)
 
 ## Physical address:
+Lab: Room 5170
+Office: Room 5140
 Biological Sciences Building\
 Department of Molecular, Cellular, and Developmental Biology\
 University of Michigan\
