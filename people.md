@@ -61,7 +61,8 @@ Postdoctoral Scholar
 
 **About Me:**\
 Ph.D. China Agricultural University\
-B.Sc. Heilongjiang University
+B.Sc. Heilongjiang University\
+<br />
 
 ---
 
