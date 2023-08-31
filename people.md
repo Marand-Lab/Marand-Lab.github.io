@@ -49,6 +49,25 @@ B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Luguang.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Luguang Jiang**</span>
+
+**Position:**\
+Postdoctoral Scholar
+
+**About Me:**\
+Ph.D. China Agricultural University\
+B.Sc. Heilongjiang University\
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/alex.jpg" width="100" alt="" align="left">
 </div>
 </figure>
