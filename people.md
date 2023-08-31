@@ -37,7 +37,7 @@ B.Sc. Universidad Nacional de Colombia
 <span style="font-size:16px;">**Mariel Cruz-Gomez**</span>
 
 **Position:**\
-Research Lab Technician Lead
+Research Lab Specialist Associate
 
 **About Me:**\
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
