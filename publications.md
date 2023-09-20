@@ -35,14 +35,14 @@ Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2023)\
   </style>
   <section>
     <div id="inner">
-      <a href="https://doi.org/10.1101/2023.09.17.558155v1">
+      <a href="https://doi.org/10.1101/2023.09.17.558155">
         <div class="box"
           style="float:left">
           <img src="/img/pub_images/pub_29.png">
         </div>
       </a>
       <span class="__dimensions_badge_embed__"
-          data-doi="10.1101/2023.09.17.558155v1"
+          data-doi="10.1101/2023.09.17.558155"
           data-style="small_circle">
       </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -50,7 +50,7 @@ Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2023)\
           data-link-target="_blank"
           data-badge-popover="right"
           data-badge-type="donut"
-          data-doi="10.1101/2023.09.17.558155v1"   
+          data-doi="10.1101/2023.09.17.558155"   
           data-condensed="true"
           class="altmetric-embed">
         </div>
