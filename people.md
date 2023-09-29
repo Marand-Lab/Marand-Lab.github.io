@@ -16,7 +16,7 @@ bigimg: "/img/people.jpg"
 </figure>
 </p>
 
-<span style="font-size:16px;">**Mariel Cruz-Gomez**</span>
+<span style="font-size:16px;">**[Mariel Cruz-Gomez](https://scholar.google.com/citations?hl=en&user=yO8JCWgAAAAJ)**</span>
 
 **Position:**\
 Research Lab Specialist Associate
@@ -56,7 +56,7 @@ UROP - University of Michigan\
 </figure>
 </p>
 
-<span style="font-size:16px;">**Fabio Gomez-Cano**</span>
+<span style="font-size:16px;">**[Fabio Gomez-Cano](https://scholar.google.com/citations?user=iQ5p-UYAAAAJ&hl=en&oi=ao)**</span>
 
 **Position:**\
 Postdoctoral Scholar
@@ -96,7 +96,7 @@ B.Sc. Heilongjiang University\
 </figure>
 </p>
 
-<span style="font-size:16px;">**Alex Marand**</span>
+<span style="font-size:16px;">**[Alex Marand](https://scholar.google.com/citations?hl=en&user=_bYW4UkAAAAJ)**</span>
 
 **Position:**\
 Assistant Professor
