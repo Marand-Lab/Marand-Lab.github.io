@@ -7,7 +7,7 @@ bigimg: "/img/pub_background.png"
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
 ### 2023
-<span style="font-size:18px;">29\.    [`Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://www.biorxiv.org/content/10.1101/2023.09.17.558155v1)</span>\
+<span style="font-size:18px;">29\.    [`Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://www.biorxiv.org/content/10.1101/2023.09.17.558155v2)</span>\
 Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2023)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 

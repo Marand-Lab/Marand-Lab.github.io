@@ -6,24 +6,6 @@ bigimg: "/img/people.jpg"
 
 # Lab Members
 
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Fabio.jpg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**Fabio Gomez-Cano**</span>
-
-**Position:**\
-Postdoctoral Scholar
-
-**About Me:**\
-Ph.D. Michigan State University\
-M.Sc. Universidad de los Andes\
-B.Sc. Universidad Nacional de Colombia
-
 ---
 
 <p align="justify">
@@ -43,6 +25,46 @@ Research Lab Specialist Associate
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
 <br />
 <br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Jack.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Jack Erne**</span>
+
+**Position:**\
+Undergraduate Researcher
+
+**About Me:**\
+UROP - University of Michigan\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Fabio.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Fabio Gomez-Cano**</span>
+
+**Position:**\
+Postdoctoral Scholar
+
+**About Me:**\
+Ph.D. Michigan State University\
+M.Sc. Universidad de los Andes\
+B.Sc. Universidad Nacional de Colombia
 
 ---
 
