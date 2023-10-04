@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://plantformatics.github.io"
+url: "https://marand-lab.github.io"
 baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -71,9 +71,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "alexandre.p.marand@gmail.com"
-  github: plantformatics
-  twitter: alex_marand
+  email: "amarand@umich.edu"
+  github: marand-lab
+  twitter: Marand_Lab
 #  reddit: yourname
   linkedin: alexandre-marand-34a96155
 #  xing: yourname
