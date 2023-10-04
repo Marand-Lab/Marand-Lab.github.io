@@ -91,6 +91,25 @@ B.Sc. Heilongjiang University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Sydney.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Sydney Lapham**</span>
+
+**Position:**\
+Undergraduate Researcher
+
+**About Me:**\
+UROP - University of Michigan\
+<br />
+<br />
+
+---
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/alex.jpg" width="100" alt="" align="left">
 </div>
 </figure>
