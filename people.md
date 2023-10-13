@@ -7,64 +7,23 @@ bigimg: "/img/people.jpg"
 # Lab Members
 
 ---
-
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Maximo.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/alex.jpg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
 
-<span style="font-size:16px;">**Maximo Clark**</span>
+<span style="font-size:16px;">**[Alex Marand](https://scholar.google.com/citations?hl=en&user=_bYW4UkAAAAJ)**</span>
 
 **Position:**\
-Research Lab Technician
+Assistant Professor
 
 **About Me:**\
-B.Sc. Michigan State University\
-<br />
-<br />
-
----
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**[Mariel Cruz-Gomez](https://scholar.google.com/citations?hl=en&user=yO8JCWgAAAAJ)**</span>
-
-**Position:**\
-Research Lab Specialist
-
-**About Me:**\
-B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
-<br />
-<br />
-
----
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Jack.jpg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**Jack Erne**</span>
-
-**Position:**\
-Undergraduate Researcher
-
-**About Me:**\
-UROP - University of Michigan\
-<br />
-<br />
+NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
+Ph.D. University of Wisconsin\
+B.Sc. Virginia Polytechnic Institute and State University
 
 ---
 
@@ -111,6 +70,66 @@ B.Sc. Heilongjiang University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**[Mariel Cruz-Gomez](https://scholar.google.com/citations?hl=en&user=yO8JCWgAAAAJ)**</span>
+
+**Position:**\
+Research Lab Specialist
+
+**About Me:**\
+B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Maximo.jpeg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Maximo Clark**</span>
+
+**Position:**\
+Research Lab Technician
+
+**About Me:**\
+B.Sc. Michigan State University\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Jack.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Jack Erne**</span>
+
+**Position:**\
+Undergraduate Researcher
+
+**About Me:**\
+UROP - University of Michigan\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Sydney.jpg" width="100" alt="" align="left">
 </div>
 </figure>
@@ -125,24 +144,5 @@ Undergraduate Researcher
 UROP - University of Michigan\
 <br />
 <br />
-
----
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/alex.jpg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**[Alex Marand](https://scholar.google.com/citations?hl=en&user=_bYW4UkAAAAJ)**</span>
-
-**Position:**\
-Assistant Professor
-
-**About Me:**\
-NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
-Ph.D. University of Wisconsin\
-B.Sc. Virginia Polytechnic Institute and State University
 
 ---
