@@ -11,6 +11,26 @@ bigimg: "/img/people.jpg"
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Maximo.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Maximo Clark**</span>
+
+**Position:**\
+Research Lab Technician
+
+**About Me:**\
+B.Sc. Michigan State University\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
 </div>
 </figure>
@@ -19,7 +39,7 @@ bigimg: "/img/people.jpg"
 <span style="font-size:16px;">**[Mariel Cruz-Gomez](https://scholar.google.com/citations?hl=en&user=yO8JCWgAAAAJ)**</span>
 
 **Position:**\
-Research Lab Specialist Associate
+Research Lab Specialist
 
 **About Me:**\
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
