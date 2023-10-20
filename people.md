@@ -38,7 +38,7 @@ B.Sc. Virginia Polytechnic Institute and State University
 <span style="font-size:16px;">**[Fabio Gomez-Cano](https://scholar.google.com/citations?user=iQ5p-UYAAAAJ&hl=en&oi=ao)**</span>
 
 **Position:**\
-Postdoctoral Scholar
+Pioneer Postdoctoral Fellow
 
 **About Me:**\
 Ph.D. Michigan State University\
