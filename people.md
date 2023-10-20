@@ -81,7 +81,7 @@ B.Sc. Heilongjiang University\
 Masters Student
 
 **About Me:**\
-B.A. Carrol College\
+B.A. Carroll College\
 <br />
 <br />
 
