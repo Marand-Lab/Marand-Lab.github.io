@@ -70,6 +70,26 @@ B.Sc. Heilongjiang University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Evelyn.jpeg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Evelyn Sowers**</span>
+
+**Position:**\
+Masters Student
+
+**About Me:**\
+B.A. Carrol College\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
 </div>
 </figure>
