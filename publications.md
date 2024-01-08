@@ -6,6 +6,61 @@ bigimg: "/img/pub_background.png"
 
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
 
+### 2024
+<span style="font-size:18px;">30\.    [`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.biorxiv.org/content/10.1101/2024.01.05.574340v1)</span>\
+John P. Mendieta, Xiaoyu Tu, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2023)\
+<span style="font-size:16px;">**_bioRxiv_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1101/2024.01.05.574340">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_30.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1101/2024.01.05.574340"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1101/2024.01.05.574340"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
 ### 2023
 <span style="font-size:18px;">29\.    [`Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://www.biorxiv.org/content/10.1101/2023.09.17.558155v2)</span>\
 Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2023)\
