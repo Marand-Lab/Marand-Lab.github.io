@@ -8,7 +8,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 
 ### 2024
 <span style="font-size:18px;">31\.    [`Evolution of cell-type-specific accessible chromatin regions and the cis-regulatory elements that drive lineage-specific innovation`](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v1.full.pdf+html)</span>\
-Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roule, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2023)\
+Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roule, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
 <html>
@@ -63,7 +63,7 @@ Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Zilia
 
 
 <span style="font-size:18px;">30\.    [`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.biorxiv.org/content/10.1101/2024.01.05.574340v1)</span>\
-John P. Mendieta, Xiaoyu Tu, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2023)\
+John P. Mendieta, Xiaoyu Tu, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
 <html>
