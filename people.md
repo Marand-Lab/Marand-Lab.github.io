@@ -130,6 +130,26 @@ B.Sc. Michigan State University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Olivia.jpeg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Olivia Belau**</span>
+
+**Position:**\
+Undergraduate Researcher
+
+**About Me:**\
+University of Michigan\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Jasmine.jpeg" width="100" alt="" align="left">
 </div>
 </figure>
