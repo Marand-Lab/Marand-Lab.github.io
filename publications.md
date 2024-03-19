@@ -1326,7 +1326,7 @@ Zixian Zeng, Wenli Zhang, Alexandre P. Marand, Bo Zhu, C. Robin Buell, Jiming Ji
 ---
 
 <span style="font-size:18px;">7\.    [`Residual Heterozygosity and Epistatic Interactions Underlie the Complex Genetic Architecture of Yield in Diploid Potato`](https://www.genetics.org/content/212/1/317.abstract)</span>\
-Alexandre P. Marand, Shelly H. Jansky, Joseph L. Gage, Andy J. Hamernik, Natalia de Leon, Jiming Jiang. (2019)\
+Alexandre P. Marand, Shelley H. Jansky, Joseph L. Gage, Andy J. Hamernik, Natalia de Leon, Jiming Jiang. (2019)\
 <span style="font-size:16px;">**_Genetics_**</span>
 
 <html>
@@ -1441,7 +1441,7 @@ Alexandre P. Marand, Hainan Zhao, Wenli Zhang, Zixian Zeng, Chao Fang, Jiming Ji
 
 ### 2018
 <span style="font-size:18px;">5\.    [`Genome sequence of M6, a diploid inbred clone of the high-glycoalkaloid-producing tuber-bearing potato species Solanum chacoense, reveals residual heterozygosity`](https://doi.org/10.1111/tpj.13857)</span>\
-Courtney P. Leisner, John P. Hamilton, Emily Crisovan, Norma C. Manrique-Carpintero, Alexandre P. Marand, Linsey Newton, Gina M. Pham, Jiming Jiang, David S. Douches, Shelley H. Jansky, CR Buell. (2018)\
+Courtney P. Leisner, John P. Hamilton, Emily Crisovan, Norma C. Manrique-Carpintero, Alexandre P. Marand, Linsey Newton, Gina M. Pham, Jiming Jiang, David S. Douches, Shelley H. Jansky, C. Robin Buell. (2018)\
 <span style="font-size:16px;">**_The Plant Journal_**</span>
 
 <html>
