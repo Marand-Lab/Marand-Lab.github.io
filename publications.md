@@ -8,7 +8,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 
 ### 2024
 <span style="font-size:18px;">31\.    [`Evolution of cell-type-specific accessible chromatin regions and the cis-regulatory elements that drive lineage-specific innovation`](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v1.full.pdf+html)</span>\
-Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roule, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
+Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
 <html>
@@ -445,8 +445,9 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
 ---
 
 <span style="font-size:18px;">23\.    [`A combinatorial indexing strategy for low cost epigenomic profiling of plant single cells`](https://doi.org/10.1016/j.xplc.2022.100308)</span>\
-Xiaoyu Tu, Alexandre P. Marand, Robert J. Schmitz, Silin Zhong. (2022)\
+Xiaoyu Tu*, Alexandre P. Marand*, Robert J. Schmitz, Silin Zhong. (2022)\
 <span style="font-size:16px;">**_Plant Communications_**</span>
+\* denotes co-first authors
 
 <html>
   <style>
@@ -1270,7 +1271,7 @@ William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridg
 ---
 
 <span style="font-size:18px;">8\.    [`Cold stress induces enhanced chromatin accessibility and bivalent histone modifications H3K4me3 and H3K27me3 of active genes in potato`](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1731-2)</span>\
-Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)\
+Zixian Zeng, Wenli Zhang, Alexandre P. Marand, Bo Zhu, C. Robin Buell, Jiming Jiang. (2019)\
 <span style="font-size:16px;">**_Genome Biology_**</span>
 
 <html>
@@ -1325,7 +1326,7 @@ Z Zeng, W Zhang, Alexandre P. Marand, B Zhu, CR Buell, J Jiang. (2019)\
 ---
 
 <span style="font-size:18px;">7\.    [`Residual Heterozygosity and Epistatic Interactions Underlie the Complex Genetic Architecture of Yield in Diploid Potato`](https://www.genetics.org/content/212/1/317.abstract)</span>\
-Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)\
+Alexandre P. Marand, Shelly H. Jansky, Joseph L. Gage, Andy J. Hamernik, Natalia de Leon, Jiming Jiang. (2019)\
 <span style="font-size:16px;">**_Genetics_**</span>
 
 <html>
@@ -1381,8 +1382,8 @@ Alexandre P. Marand, SH Jansky, JL Gage, AJ Hamernik, N de Leon, J Jiang. (2019)
 
 ---
 
-<span style="font-size:18px;">6\.    [`Historical Meiotic Crossover Hotspots Fueled Patterns of Evolutionary Divergence in Rice`](http://www.plantcell.org/content/31/3/645.abstract)</span>\
-Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
+<span style="font-size:18px;">6\.    [`Historical Meiotic Crossover Hotspots Fueled Patterns of Evolutionary Divergence in Rice`](https://doi.org/10.1105/tpc.18.00750)</span>\
+Alexandre P. Marand, Hainan Zhao, Wenli Zhang, Zixian Zeng, Chao Fang, Jiming Jiang. (2019)\
 <span style="font-size:16px;">**_The Plant Cell_**</span>
 
 <html>
@@ -1409,7 +1410,7 @@ Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
   </style>
   <section>
     <div id="inner">
-    <a href="http://www.plantcell.org/content/31/3/645.abstract">
+    <a href="https://doi.org/10.1105/tpc.18.00750">
       <div class="box"
         style="float:left">
         <img src="/img/pub_images/pub_6.png">
@@ -1440,7 +1441,7 @@ Alexandre P. Marand, H Zhao, W Zhang, Z Zeng, C Fang, J Jiang. (2019)\
 
 ### 2018
 <span style="font-size:18px;">5\.    [`Genome sequence of M6, a diploid inbred clone of the high-glycoalkaloid-producing tuber-bearing potato species Solanum chacoense, reveals residual heterozygosity`](https://doi.org/10.1111/tpj.13857)</span>\
-CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (2018)\
+Courtney P. Leisner, John P. Hamilton, Emily Crisovan, Norma C. Manrique-Carpintero, Alexandre P. Marand, Linsey Newton, Gina M. Pham, Jiming Jiang, David S. Douches, Shelley H. Jansky, CR Buell. (2018)\
 <span style="font-size:16px;">**_The Plant Journal_**</span>
 
 <html>
@@ -1494,8 +1495,8 @@ CP Leisner, JP Hamilton, ..., Alexandre P. Marand, ..., SH Jansky, CR Buell. (20
 
 ---
 
-<span style="font-size:18px;">4\.    [`Proliferation of regulatory DNA elements derived from transposable elements in the maize genome`](http://www.plantphysiol.org/content/176/4/2789.abstract)</span>\
-H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
+<span style="font-size:18px;">4\.    [`Proliferation of regulatory DNA elements derived from transposable elements in the maize genome`](https://academic.oup.com/plphys/article/176/4/2789/6117020)</span>\
+Hainan Zhao, Wenli Zhang, Lifen Chen, Lei Wang, Alexandre P. Marand, Yufeng Wu, Jiming Jiang. (2018)\
 <span style="font-size:16px;">**_Plant Physiology_**</span>
 
 <html>
@@ -1522,7 +1523,7 @@ H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
   </style>
   <section>
     <div id="inner">
-    <a href="http://www.plantphysiol.org/content/176/4/2789.abstract">
+    <a href="https://academic.oup.com/plphys/article/176/4/2789/6117020">
       <div class="box"
         style="float:left">
         <img src="/img/pub_images/pub_4.png">
@@ -1551,7 +1552,7 @@ H Zhao, W Zhang, L Chen, Alexandre P. Marand, Y Wu, J Jiang. (2018)\
 
 ### 2017
 <span style="font-size:18px;">3\.    [`Meiotic crossovers are associated with open chromatin and enriched with Stowaway transposons in potato`](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1326-8)</span>\
-Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L Newton, AJ Hamernik, RE Veilleux, CR Buell, J Jiang. (2017)\
+Alexandre P. Marand, Shelley H. Jansky, Hainan Zhao, Courtney P. Leisner, Xiaobiao Zhu, Zixian Zeng, Emily Crisovan, Linsey Newton, Andy J. Hamernik, Richard E. Veilleux, C. Robin Buell, Jiming Jiang. (2017)\
 <span style="font-size:16px;">**_Genome Biology_**</span>
 
 <html>
@@ -1607,7 +1608,7 @@ Alexandre P. Marand, SH Jansky, H Zhao, CP Leisner, X Zhu, Z Zeng, E Crisovan, L
 
 
 <span style="font-size:18px;">2\.    [`Towards genome-wide prediction and characterization of enhancers in plants`](https://www.sciencedirect.com/science/article/pii/S1874939916301274)</span>\
-Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)\
+Alexandre P. Marand, Tao Zhang, Bo Zhu, Jiming Jiang. (2017)\
 <span style="font-size:16px;">**_BBA Gene Regulatory Mechanisms_**</span>
 
 <html>
@@ -1663,7 +1664,7 @@ Alexandre P. Marand, T Zhang, B Zhu, J Jiang. (2017)\
 
 ### 2016
 <span style="font-size:18px;">1\.    [`PlantDHS: a database for DNase I hypersensitive sites in plants`](https://academic.oup.com/nar/article-abstract/44/D1/D1148/2503132)</span>\
-T Zhang, Alexandre P. Marand, J Jiang. (2016)\
+Tao Zhang, Alexandre P. Marand, Jiming Jiang. (2016)\
 <span style="font-size:16px;">**_Nucleic Acids Research_**</span>
 
 <html>
