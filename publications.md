@@ -5,9 +5,65 @@ bigimg: "/img/pub_background.png"
 ---
 
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
+10.21769/BioProtoc.4953
 
 ### 2024
-<span style="font-size:18px;">31\.    [`Evolution of cell-type-specific accessible chromatin regions and the cis-regulatory elements that drive lineage-specific innovation`](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v1.full.pdf+html)</span>\
+<span style="font-size:18px;">31\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://doi.org/10.21769/BioProtoc.4953)</span>\
+Alexandre P. Marand (2024)\
+<span style="font-size:16px;">**_bio-protocol_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.21769/BioProtoc.4953">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_27.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.21769/BioProtoc.4953"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.21769/BioProtoc.4953"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
+
+<span style="font-size:18px;">30\.    [`Evolution of cell-type-specific accessible chromatin regions and the cis-regulatory elements that drive lineage-specific innovation`](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v1.full.pdf+html)</span>\
 Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
@@ -62,7 +118,7 @@ Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Zilia
 ---
 
 
-<span style="font-size:18px;">30\.    [`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.biorxiv.org/content/10.1101/2024.01.05.574340v1)</span>\
+<span style="font-size:18px;">29\.    [`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.biorxiv.org/content/10.1101/2024.01.05.574340v1)</span>\
 John P. Mendieta, Xiaoyu Tu, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
@@ -117,7 +173,7 @@ John P. Mendieta, Xiaoyu Tu, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin
 ---
 
 ### 2023
-<span style="font-size:18px;">29\.    [`Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://www.biorxiv.org/content/10.1101/2023.09.17.558155v2)</span>\
+<span style="font-size:18px;">28\.    [`Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://www.biorxiv.org/content/10.1101/2023.09.17.558155v2)</span>\
 Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2023)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
@@ -171,7 +227,7 @@ Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2023)\
 
 ---
 
-<span style="font-size:18px;">28\.    [`Leveraging Single-Cell Populations to Uncover the Genetic Basis of Complex Traits`](https://doi.org/10.1146/annurev-genet-022123-110824)</span>\
+<span style="font-size:18px;">27\.    [`Leveraging Single-Cell Populations to Uncover the Genetic Basis of Complex Traits`](https://doi.org/10.1146/annurev-genet-022123-110824)</span>\
 Mark A.A. Minow, Alexandre P. Marand, Robert J. Schmitz (2023)\
 <span style="font-size:16px;">**_Annual Review of Genetics_**</span>
 
@@ -225,59 +281,6 @@ Mark A.A. Minow, Alexandre P. Marand, Robert J. Schmitz (2023)\
 
 ---
 
-<span style="font-size:18px;">27\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://doi.org/10.1101/2023.01.20.524917)</span>\
-Alexandre P. Marand (2023)\
-<span style="font-size:16px;">**_bioRxiv_**</span>
-
-<html>
-  <style>
-  section {
-      background: white;
-      color: black;
-      border-radius: 1em;
-      padding: 1em;
-      left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-    .box img {
-        display: block;
-        max-width:250px;
-        max-height:250px;
-        width: auto;
-        height: auto;
-        Padding: 20px,20px,20px,20px;
-    }
-  </style>
-  <section>
-    <div id="inner">
-      <a href="https://doi.org/10.1101/2023.01.20.524917">
-        <div class="box"
-          style="float:left">
-          <img src="/img/pub_images/pub_27.png">
-        </div>
-      </a>
-      <span class="__dimensions_badge_embed__"
-          data-doi="10.1101/2023.01.20.524917"
-          data-style="small_circle">
-      </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div style="float:right"
-          data-link-target="_blank"
-          data-badge-popover="right"
-          data-badge-type="donut"
-          data-doi="10.1101/2023.01.20.524917"   
-          data-condensed="true"
-          class="altmetric-embed">
-        </div>
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    </div>
-  </section>
-</html>
-
----
 
 <span style="font-size:18px;">26\.    [`cis-Regulatory Elements in Plant Development, Adaptation, and Evolution`](https://doi.org/10.1146/annurev-arplant-070122-030236)</span>\
 Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2023)\
