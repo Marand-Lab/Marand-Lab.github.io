@@ -5,10 +5,10 @@ bigimg: "/img/pub_background.png"
 ---
 
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
-10.21769/BioProtoc.4953
+
 
 ### 2024
-<span style="font-size:18px;">31\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://doi.org/10.21769/BioProtoc.4953)</span>\
+<span style="font-size:18px;">31\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://bio-protocol.org/e4953)</span>\
 Alexandre P. Marand (2024)\
 <span style="font-size:16px;">**_bio-protocol_**</span>
 
@@ -36,7 +36,7 @@ Alexandre P. Marand (2024)\
   </style>
   <section>
     <div id="inner">
-      <a href="https://doi.org/10.21769/BioProtoc.4953">
+      <a href="https://bio-protocol.org/e4953">
         <div class="box"
           style="float:left">
           <img src="/img/pub_images/pub_27.png">
