@@ -75,6 +75,26 @@ B.Sc. Heilongjiang University\
 </figure>
 </p>
 
+<span style="font-size:16px;">**Andrew Luo**</span>
+
+**Position:**\
+PhD Student
+
+**About Me:**\
+B.A. Vassar College\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Andrew_Luo.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
 <span style="font-size:16px;">**Evelyn Sowers**</span>
 
 **Position:**\
