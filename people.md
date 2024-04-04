@@ -78,7 +78,7 @@ B.Sc. Heilongjiang University\
 <span style="font-size:16px;">**Andrew Luo**</span>
 
 **Position:**\
-PhD Student
+Ph.D. Student
 
 **About Me:**\
 B.A. Vassar College\
