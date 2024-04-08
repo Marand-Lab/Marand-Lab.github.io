@@ -9,7 +9,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 
 ### 2024
 <span style="font-size:18px;">31\.    [`Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://doi.org/10.1186/s13059-024-03235-5)</span>\
-Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2023)\
+Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_Genome Biology_**</span>
 
 <html>
