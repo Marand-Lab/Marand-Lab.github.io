@@ -5,7 +5,8 @@ bigimg: "/img/pub_background.png"
 ---
 
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)
-
+\* denotes co-first authors\
+\# denotes (co)corresponding author(s)\
 
 ### 2024
 <span style="font-size:18px;">32\.    [`GenomicLinks: Deep learning predictions of 3D chromatin loops in the maize genome`](https://doi.org/10.1101/2024.05.06.592633)</span>\
@@ -117,7 +118,7 @@ Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2024)\
 ---
 
 <span style="font-size:18px;">30\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://bio-protocol.org/e4953)</span>\
-Alexandre P. Marand (2024)\
+Alexandre P. Marand\# (2024)\
 <span style="font-size:16px;">**_bio-protocol_**</span>
 
 <html>
@@ -172,7 +173,7 @@ Alexandre P. Marand (2024)\
 
 
 <span style="font-size:18px;">29\.    [`Evolution of cell-type-specific accessible chromatin regions and the cis-regulatory elements that drive lineage-specific innovation`](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v1.full.pdf+html)</span>\
-Haidong Yan, John P. Mendieta, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
+Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
 <html>
@@ -505,7 +506,6 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
 <span style="font-size:18px;">23\.    [`A combinatorial indexing strategy for low cost epigenomic profiling of plant single cells`](https://doi.org/10.1016/j.xplc.2022.100308)</span>\
 Xiaoyu Tu\*, Alexandre P. Marand\*, Robert J. Schmitz, Silin Zhong. (2022)\
 <span style="font-size:16px;">**_Plant Communications_**</span> \
-\* denotes co-first authors
 
 <html>
   <style>
@@ -937,7 +937,7 @@ Jaclyn M. Noshay, Zhikai Liang, Peng Zhou, Peter A. Crisp, Alexandre P. Marand, 
 ---
 
 <span style="font-size:18px;">15\.    [`A cis-regulatory atlas in maize at single-cell resolution`](https://doi.org/10.1016/j.cell.2021.04.014)</span>\
-Alexandre P. Marand, Zongliang Chen, Andrea Gallavotti, Robert J. Schmitz. (2021)\
+Alexandre P. Marand\#, Zongliang Chen, Andrea Gallavotti, Robert J. Schmitz\#. (2021)\
 <span style="font-size:16px;">**_Cell_**</span>
 
 <html>
@@ -1274,7 +1274,7 @@ Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zh
 ---
 
 <span style="font-size:18px;">9\.    [`Widespread long-range cis-regulatory elements in the maize genome`](https://doi.org/10.1038/s41477-019-0547-0)</span>\
-William A. Ricci, Zefu Lu, Lexiang Ji, Alexandre P. Marand, Christina L. Ethridge, Nathalie G. Murphy, Jaclyn M. Noshay, Mary Galli, María Katherine Mejía-Guerra, Maria Colomé-Tatché, Frank Johannes, M. Jordan Rowley, Victor G. Corces, Jixian Zhai, Michael J. Scanlon, Edward S. Buckler, Andrea Gallavotti, Nathan M. Springer, Robert J. Schmitz, Xiaoyu Zhang. (2019)\
+William A. Ricci\*, Zefu Lu\*, Lexiang Ji\*, Alexandre P. Marand, Christina L. Ethridge, Nathalie G. Murphy, Jaclyn M. Noshay, Mary Galli, María Katherine Mejía-Guerra, Maria Colomé-Tatché, Frank Johannes, M. Jordan Rowley, Victor G. Corces, Jixian Zhai, Michael J. Scanlon, Edward S. Buckler, Andrea Gallavotti, Nathan M. Springer, Robert J. Schmitz, Xiaoyu Zhang. (2019)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
 
 <html>
