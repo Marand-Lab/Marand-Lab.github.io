@@ -5,7 +5,7 @@ bigimg: "/img/pub_background.png"
 ---
 
 Publications and preprints tracked by Google Scholar can be found here: [Google Scholar link](https://scholar.google.com/citations?user=_bYW4UkAAAAJ&hl=en)\
-<sup>\*</sup> denotes co-first authors\
+\* denotes co-first authors\
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2024
@@ -173,7 +173,7 @@ Alexandre P. Marand<sup>\#</sup> (2024)\
 
 
 <span style="font-size:18px;">29\.    [`Evolution of cell-type-specific accessible chromatin regions and the cis-regulatory elements that drive lineage-specific innovation`](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v1.full.pdf+html)</span>\
-Haidong Yan<sup>\*</sup>, John P. Mendieta<sup>\*</sup>, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
+Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
 <html>
@@ -504,7 +504,7 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
 ---
 
 <span style="font-size:18px;">23\.    [`A combinatorial indexing strategy for low cost epigenomic profiling of plant single cells`](https://doi.org/10.1016/j.xplc.2022.100308)</span>\
-Xiaoyu Tu<sup>\*</sup>, Alexandre P. Marand<sup>\*</sup>, Robert J. Schmitz, Silin Zhong. (2022)\
+Xiaoyu Tu\*, Alexandre P. Marand\*, Robert J. Schmitz, Silin Zhong. (2022)\
 <span style="font-size:16px;">**_Plant Communications_**</span> \
 
 <html>
@@ -1274,7 +1274,7 @@ Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zh
 ---
 
 <span style="font-size:18px;">9\.    [`Widespread long-range cis-regulatory elements in the maize genome`](https://doi.org/10.1038/s41477-019-0547-0)</span>\
-William A. Ricci<sup>\*</sup>, Zefu Lu<sup>\*</sup>, Lexiang Ji<sup>\*</sup>, Alexandre P. Marand, Christina L. Ethridge, Nathalie G. Murphy, Jaclyn M. Noshay, Mary Galli, María Katherine Mejía-Guerra, Maria Colomé-Tatché, Frank Johannes, M. Jordan Rowley, Victor G. Corces, Jixian Zhai, Michael J. Scanlon, Edward S. Buckler, Andrea Gallavotti, Nathan M. Springer, Robert J. Schmitz, Xiaoyu Zhang. (2019)\
+William A. Ricci\*, Zefu Lu\*, Lexiang Ji\*, Alexandre P. Marand, Christina L. Ethridge, Nathalie G. Murphy, Jaclyn M. Noshay, Mary Galli, María Katherine Mejía-Guerra, Maria Colomé-Tatché, Frank Johannes, M. Jordan Rowley, Victor G. Corces, Jixian Zhai, Michael J. Scanlon, Edward S. Buckler, Andrea Gallavotti, Nathan M. Springer, Robert J. Schmitz, Xiaoyu Zhang. (2019)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
 
 <html>
