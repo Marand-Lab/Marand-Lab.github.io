@@ -504,7 +504,7 @@ Travis Wrightsman,  Alexandre P. Marand,  Peter A. Crisp,  Nathan M. Springer,  
 
 <span style="font-size:18px;">23\.    [`A combinatorial indexing strategy for low cost epigenomic profiling of plant single cells`](https://doi.org/10.1016/j.xplc.2022.100308)</span>\
 Xiaoyu Tu\*, Alexandre P. Marand\*, Robert J. Schmitz, Silin Zhong. (2022)\
-<span style="font-size:16px;">**_Plant Communications_**</span>
+<span style="font-size:16px;">**_Plant Communications_**</span> \
 \* denotes co-first authors
 
 <html>
