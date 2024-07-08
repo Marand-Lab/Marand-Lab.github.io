@@ -61,6 +61,8 @@ Xuan Zhang\*, Ziliang Luo\*, Alexandre P. Marand\*, Haidong Yan, Hosung Jang, So
   </section>
 </html>
 
+Check out the interactive [Soybean Single Cell Spatial Omics Atlas Database](https://soybean-atlas.com)
+
 ---
 
 <span style="font-size:18px;">32\.    [`GenomicLinks: Deep learning predictions of 3D chromatin loops in the maize genome`](https://doi.org/10.1101/2024.05.06.592633)</span>\
