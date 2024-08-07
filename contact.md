@@ -7,7 +7,7 @@ bigimg: "/img/BSB.jpg"
 ## Contact information
 Alex Marand\
 Email: amarand[at]umich[dot]edu\
-Office: (734)763-(seven-one-four-two)
+Office: (734)647-(seven-seven-eight-zero)
 
 ## Physical address:
 Lab: Room 5170 \
