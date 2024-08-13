@@ -207,3 +207,23 @@ University of Michigan\
 <br />
 
 ---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Lara.jpeg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Lara Kok**</span>
+
+**Position:**\
+Undergraduate Researcher
+
+**About Me:**\
+University of Michigan\
+<br />
+<br />
+
+---
