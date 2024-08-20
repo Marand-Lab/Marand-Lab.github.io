@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-bigimg: "/img/people.jpg"
+bigimg: "/img/lab_photo_08-2024.JPG"
 ---
 
 # Lab Members
