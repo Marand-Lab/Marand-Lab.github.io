@@ -10,7 +10,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 
 ### 2024
 <span style="font-size:18px;">34\.[`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.pnas.org/doi/10.1073/pnas.2402781121)</span>\
-John P. Mendieta, Xiaoyu Tu, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2024)\
+John P. Mendieta, Xiaoyu Tu, Daiquan Jiang, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_PNAS_**</span> [bioRxiv link](https://www.biorxiv.org/content/10.1101/2024.01.05.574340v3)
 
 <html>
