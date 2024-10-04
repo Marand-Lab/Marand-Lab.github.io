@@ -110,6 +110,26 @@ B.A. Carroll College\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Andrej.png" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**[Andrej Arsovski](https://scholar.google.com/citations?user=OhI1OF8AAAAJ&hl=en)**</span>
+
+**Position:**\
+Research Lab Specialist
+
+**About Me:**\
+Ph.D. McGill University\
+B.Sc. McGill University\
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
 </div>
 </figure>
