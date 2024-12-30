@@ -121,7 +121,7 @@ Luca Schlegel, Rohan Bhardwaj, Yadollah Shahryary, Defne Demirtürk, Alexandre P
 
 ---
 
-<span style="font-size:18px;">32\.    [`The genetic architecture of cell-type-specific cis-regulation`](https://www.biorxiv.org/content/10.1101/2024.08.17.608383v1)</span>\
+<span style="font-size:18px;">32\.    [`The genetic architecture of cell-type-specific cis-regulation in maize`](https://www.biorxiv.org/content/10.1101/2024.08.17.608383v3)</span>\
 Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A. Minow, Xuan Zhang, John P. Mendieta, Ziliang Luo, Sohyun Bang, Haidong Yan, Cullan Meyer, Luca Schlegel, Frank Johannes, Robert J. Schmitz<sup>\#</sup> (2024)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
