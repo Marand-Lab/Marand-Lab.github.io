@@ -1108,7 +1108,8 @@ Alexandre P. Marand<sup>\#</sup>, Zongliang Chen, Andrea Gallavotti, Robert J. S
 Coverage:\
 [PNAS news](https://www.pnas.org/post/journal-club/atlas-identifies-genome-regions-that-regulate-plant-cell-identity)\
 [Plantae](https://plantae.org/a-cis-regulatory-atlas-in-maize-at-single-cell-resolution-biorxiv/)\
-[UGA Research](https://www.genetics.uga.edu/news/stories/2021/dr-marand-leads-project-applying-single-cell-sequencing-technology-create)
+[UGA Research](https://www.genetics.uga.edu/news/stories/2021/dr-marand-leads-project-applying-single-cell-sequencing-technology-create)\
+[**_Cell_** preview](https://doi.org/10.1016/j.cell.2021.05.006)
 
 ---
 
