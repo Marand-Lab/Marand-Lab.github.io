@@ -95,7 +95,7 @@ B.A. Vassar College\
 </figure>
 </p>
 
-<span style="font-size:16px;">**Holly Scheer**</span>
+<span style="font-size:16px;">**[Holly Scheer](https://scholar.google.com/citations?user=Jjubl3EAAAAJ&hl=en)**</span>
 
 **Position:**\
 Ph.D. Student
