@@ -95,6 +95,27 @@ B.A. Vassar College\
 </figure>
 </p>
 
+<span style="font-size:16px;">**Holly Scheer**</span>
+
+**Position:**\
+Ph.D. Student
+
+**About Me:**\
+B.S. University of Michigan\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Holly.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+
 <span style="font-size:16px;">**Evelyn Sowers**</span>
 
 **Position:**\
