@@ -90,7 +90,7 @@ B.A. Vassar College\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Evelyn.jpeg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Holly.jpeg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -101,7 +101,7 @@ B.A. Vassar College\
 Ph.D. Student
 
 **About Me:**\
-B.S. University of Michigan\
+B.Sc. University of Michigan\
 <br />
 <br />
 
@@ -110,7 +110,7 @@ B.S. University of Michigan\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Holly.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Evelyn.jpeg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
