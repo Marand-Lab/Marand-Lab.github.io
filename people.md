@@ -90,7 +90,7 @@ B.A. Vassar College\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Holly.jpeg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Holly.jpg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
