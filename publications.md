@@ -9,6 +9,60 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2025
+<span style="font-size:18px;">35\.    [`Extensive modulation of a conserved cis-regulatory code across 589 grass species`](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)</span>\
+Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellog, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Michelle C. Stitzer, Armin Scheben, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2025)\
+<span style="font-size:16px;">**_bioRxiv_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1101/2025.04.23.650228">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_35.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1101/2025.04.23.650228"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1101/2025.04.23.650228"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
 <span style="font-size:18px;">34\.    [`The genetic architecture of cell-type-specific cis-regulation in maize`](https://doi.org/10.1126/science.ads6601)</span>\
 Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A. Minow, Xuan Zhang, John P. Mendieta, Ziliang Luo, Sohyun Bang, Haidong Yan, Cullan Meyer, Luca Schlegel, Frank Johannes, Robert J. Schmitz<sup>\#</sup> (2025)\
 <span style="font-size:16px;">**_Science_**</span>
