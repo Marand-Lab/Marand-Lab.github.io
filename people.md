@@ -25,9 +25,8 @@ NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
 Ph.D. University of Wisconsin\
 B.Sc. Virginia Polytechnic Institute and State University
 
-
-## Postdoctoral Scholars
 ---
+## Postdoctoral Scholars
 
 <p align="justify">
 <figure>
@@ -68,7 +67,6 @@ B.Sc. Heilongjiang University\
 <br />
 
 ---
-
 ## Graduate Students
 
 <p align="justify">
@@ -152,8 +150,6 @@ B.A. Carroll College\
 <br />
 
 ---
-
-
 ## Staff
 
 <p align="justify">
@@ -237,6 +233,7 @@ B.Sc. Michigan State University\
 
 
 ---
+## Undergraduate Researchers
 
 <p align="justify">
 <figure>
