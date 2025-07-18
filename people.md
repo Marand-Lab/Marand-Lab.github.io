@@ -90,6 +90,27 @@ B.A. Vassar College\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Rachel.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Rachel Rivero**</span>
+
+**Position:**\
+NASA Space Technology Graduate Researcher
+
+**About Me:**\
+B.Sc. Texas State University\
+<br />
+<br />
+
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Holly.jpg" width="100" alt="" align="left">
 </div>
 </figure>
@@ -207,25 +228,6 @@ B.Sc. Michigan State University\
 <br />
 <br />
 
----
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Jasmine.jpeg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**Jasmine Crump**</span>
-
-**Position:**\
-Undergraduate Researcher
-
-**About Me:**\
-University of Michigan\
-<br />
-<br />
 
 ---
 
@@ -251,5 +253,6 @@ University of Michigan\
 
 ## Lab Alumni
 
-### Undergraduate Researchers
+### Former Undergraduate Researchers
 **Olivia Belau** (2024-2025)
+**Jasmine Crump** (2023-2025)
