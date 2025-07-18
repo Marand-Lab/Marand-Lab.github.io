@@ -25,6 +25,8 @@ NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
 Ph.D. University of Wisconsin\
 B.Sc. Virginia Polytechnic Institute and State University
 
+
+## Postdoctoral Scholars
 ---
 
 <p align="justify">
@@ -66,6 +68,8 @@ B.Sc. Heilongjiang University\
 <br />
 
 ---
+
+## Graduate Students
 
 <p align="justify">
 <figure>
@@ -148,6 +152,9 @@ B.A. Carroll College\
 <br />
 
 ---
+
+
+## Staff
 
 <p align="justify">
 <figure>
@@ -254,5 +261,5 @@ University of Michigan\
 ## Lab Alumni
 
 ### Former Undergraduate Researchers
-**Olivia Belau** (2024-2025)
+**Olivia Belau** (2024-2025)\
 **Jasmine Crump** (2023-2025)
