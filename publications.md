@@ -9,6 +9,60 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2025
+<span style="font-size:18px;">36\.    [`Polymer-derived distance penalties improve chromatin interaction predictions from single-cell data across crop genomes`](https://www.biorxiv.org/content/10.1101/2025.08.20.671329v1)</span>\
+Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johannes<sup>\#</sup> (2025)\
+<span style="font-size:16px;">**_bioRxiv_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1101/2025.08.20.671329">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_36.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1101/2025.08.20.671329"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1101/2025.08.20.671329"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
 <span style="font-size:18px;">35\.    [`Extensive modulation of a conserved cis-regulatory code across 589 grass species`](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)</span>\
 Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Michelle C. Stitzer, Armin Scheben, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
