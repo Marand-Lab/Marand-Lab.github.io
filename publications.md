@@ -9,7 +9,64 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2025
-<span style="font-size:18px;">36\.    [`Polymer-derived distance penalties improve chromatin interaction predictions from single-cell data across crop genomes`](https://www.biorxiv.org/content/10.1101/2025.08.20.671329v1)</span>\
+<span style="font-size:18px;">36\.    [`A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution`](https://www.nature.com/articles/s41477-025-02106-6)</span>\
+Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Ziliang Luo, Alexandre P. Marand, Yan Liang, Mark A.A. Minow, Yun Zhong, Hosung Jang, Xiang Li, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Daiquan Jiang, Silin Zhong, Linkai Huang, Susan R. Wessler, Robert J Schmitz (2025)\
+<span style="font-size:16px;">**_Nature Plants_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1038/s41477-025-02106-6">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_31.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1038/s41477-025-02106-6"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1038/s41477-025-02106-6"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+[bioRxiv link](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v3)
+
+
+---
+
+<span style="font-size:18px;">35\.    [`Polymer-derived distance penalties improve chromatin interaction predictions from single-cell data across crop genomes`](https://www.biorxiv.org/content/10.1101/2025.08.20.671329v1)</span>\
 Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johannes<sup>\#</sup> (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
@@ -63,7 +120,7 @@ Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johanne
 
 ---
 
-<span style="font-size:18px;">35\.    [`Extensive modulation of a conserved cis-regulatory code across 589 grass species`](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)</span>\
+<span style="font-size:18px;">34\.    [`Extensive modulation of a conserved cis-regulatory code across 589 grass species`](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)</span>\
 Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Michelle C. Stitzer, Armin Scheben, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
@@ -117,7 +174,7 @@ Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuch
 
 ---
 
-<span style="font-size:18px;">34\.    [`The genetic architecture of cell-type-specific cis-regulation in maize`](https://doi.org/10.1126/science.ads6601)</span>\
+<span style="font-size:18px;">33\.    [`The genetic architecture of cell-type-specific cis-regulation in maize`](https://doi.org/10.1126/science.ads6601)</span>\
 Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A. Minow, Xuan Zhang, John P. Mendieta, Ziliang Luo, Sohyun Bang, Haidong Yan, Cullan Meyer, Luca Schlegel, Frank Johannes, Robert J. Schmitz<sup>\#</sup> (2025)\
 <span style="font-size:16px;">**_Science_**</span>
 
@@ -177,7 +234,7 @@ Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A.
 
 
 ### 2024
-<span style="font-size:18px;">33\.    [`A spatially resolved multiomic single-cell atlas of soybean development`](https://doi.org/10.1016/j.cell.2024.10.050)</span>\
+<span style="font-size:18px;">32\.    [`A spatially resolved multiomic single-cell atlas of soybean development`](https://doi.org/10.1016/j.cell.2024.10.050)</span>\
 Xuan Zhang\*, Ziliang Luo\*, Alexandre P. Marand\*, Haidong Yan, Hosung Jang, Sohyun Bang, John P. Mendieta, Mark A.A. Minow, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_Cell_**</span>
 
@@ -233,7 +290,7 @@ Check out the interactive [Soybean Single Cell Spatial Omics Atlas Database](htt
 
 ---
 
-<span style="font-size:18px;">32\.[`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.pnas.org/doi/10.1073/pnas.2402781121)</span>\
+<span style="font-size:18px;">31\.[`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.pnas.org/doi/10.1073/pnas.2402781121)</span>\
 John P. Mendieta, Xiaoyu Tu, Daiquan Jiang, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_Proceedings of the National Academy of Sciences_**</span>
 
@@ -289,7 +346,7 @@ John P. Mendieta, Xiaoyu Tu, Daiquan Jiang, Haidong Yan, Xuan Zhang, Alexandre P
 
 ---
 
-<span style="font-size:18px;">31\.    [`GenomicLinks: Deep learning predictions of 3D chromatin loops in the maize genome`](https://academic.oup.com/nargab/article/6/3/lqae123/7770960)</span>\
+<span style="font-size:18px;">30\.    [`GenomicLinks: Deep learning predictions of 3D chromatin loops in the maize genome`](https://academic.oup.com/nargab/article/6/3/lqae123/7770960)</span>\
 Luca Schlegel, Rohan Bhardwaj, Yadollah Shahryary, Defne Demirtürk, Alexandre P. Marand, Robert J. Schmitz, Frank Johannes (2024)\
 <span style="font-size:16px;">**_Nucleic Acids Research Genomics and Bioinformatics_**</span>
 
@@ -347,7 +404,7 @@ Luca Schlegel, Rohan Bhardwaj, Yadollah Shahryary, Defne Demirtürk, Alexandre P
 
 
 
-<span style="font-size:18px;">30\.    [`scifiATAC-seq: Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://doi.org/10.1186/s13059-024-03235-5)</span>\
+<span style="font-size:18px;">29\.    [`scifiATAC-seq: Massive-scale single-cell chromatin accessibility sequencing using combinatorial fluidic indexing`](https://doi.org/10.1186/s13059-024-03235-5)</span>\
 Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_Genome Biology_**</span>
 
@@ -401,7 +458,7 @@ Xuan Zhang, Alexandre P. Marand, Haidong Yan, Robert J. Schmitz (2024)\
 
 ---
 
-<span style="font-size:18px;">29\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://bio-protocol.org/e4953)</span>\
+<span style="font-size:18px;">28\.    [`Computational Analysis of Maize Enhancer Regulatory Elements Using ATAC-STARR-seq`](https://bio-protocol.org/e4953)</span>\
 Alexandre P. Marand<sup>\#</sup> (2024)\
 <span style="font-size:16px;">**_bio-protocol_**</span>
 
@@ -445,61 +502,6 @@ Alexandre P. Marand<sup>\#</sup> (2024)\
           data-badge-popover="right"
           data-badge-type="donut"
           data-doi="10.21769/BioProtoc.4953"   
-          data-condensed="true"
-          class="altmetric-embed">
-        </div>
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    </div>
-  </section>
-</html>
-
----
-
-
-<span style="font-size:18px;">28\.    [`Evolution of plant cell-type-specific cis-regulatory elements`](https://www.biorxiv.org/content/10.1101/2024.01.08.574753v2)</span>\
-Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Alexandre P. Marand, Yan Liang, Ziliang Luo, Mark A.A. Minow, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Silin Zhong, Susan R. Wessler, Robert J Schmitz (2024)\
-<span style="font-size:16px;">**_bioRxiv_**</span>
-
-<html>
-  <style>
-  section {
-      background: white;
-      color: black;
-      border-radius: 1em;
-      padding: 1em;
-      left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-    .box img {
-        display: block;
-        max-width:250px;
-        max-height:250px;
-        width: auto;
-        height: auto;
-        Padding: 20px,20px,20px,20px;
-    }
-  </style>
-  <section>
-    <div id="inner">
-      <a href="https://doi.org/10.1101/2024.01.08.574753">
-        <div class="box"
-          style="float:left">
-          <img src="/img/pub_images/pub_31.png">
-        </div>
-      </a>
-      <span class="__dimensions_badge_embed__"
-          data-doi="10.1101/2024.01.08.574753"
-          data-style="small_circle">
-      </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div style="float:right"
-          data-link-target="_blank"
-          data-badge-popover="right"
-          data-badge-type="donut"
-          data-doi="10.1101/2024.01.08.574753"   
           data-condensed="true"
           class="altmetric-embed">
         </div>
