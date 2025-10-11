@@ -9,6 +9,60 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2025
+<span style="font-size:18px;">37\.    [`Hybrids reveal accessible chromatin trans genetic associations`](https://www.biorxiv.org/content/10.1101/2025.10.09.681407v1)</span>\
+Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkman, Robert J Schmitz (2025)\
+<span style="font-size:16px;">**_bioRxiv_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1101/2025.10.09.681407">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_37.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1101/2025.10.09.681407"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1101/2025.10.09.681407"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
 <span style="font-size:18px;">36\.    [`A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution`](https://www.nature.com/articles/s41477-025-02106-6)</span>\
 Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Ziliang Luo, Alexandre P. Marand, Yan Liang, Mark A.A. Minow, Yun Zhong, Hosung Jang, Xiang Li, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Daiquan Jiang, Silin Zhong, Linkai Huang, Susan R. Wessler, Robert J Schmitz (2025)\
 <span style="font-size:16px;">**_Nature Plants_**</span>

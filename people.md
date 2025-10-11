@@ -171,48 +171,6 @@ B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
 <br />
 
 ---
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Cookie.jpg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**[Kook Hui Ryu](https://scholar.google.com/citations?user=UQqHCEgAAAAJ&hl=en&oi=ao)**</span>
-
-**Position:**\
-Research Lab Specialist
-
-**About Me:**\
-Ph.D. Yonsei University\
-M.S. Yonsei University\
-B.Sc. Yonsei University
-
----
-
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Maximo.jpeg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**Maximo Clark**</span>
-
-**Position:**\
-Research Lab Technician
-
-**About Me:**\
-B.Sc. Michigan State University\
-<br />
-<br />
-
-
----
 ## Undergraduate Researchers
 
 <p align="justify">
@@ -237,8 +195,10 @@ University of Michigan\
 
 ## Lab Alumni
 
-## Former Research Lab Specialists
-**Andrej Arsovski** (2024-2025)\
+### Former Research Lab Specialists/Technicans
+**Andrej Arsovski** (2024-2025), Professional Faculty, Washtenaw Community College
+**Kook Hui Ryu** (2024-2025)
+**Maximo Clark** (2023-2025)
 
 ### Former Undergraduate Researchers
 **Olivia Belau** (2024-2025)\
