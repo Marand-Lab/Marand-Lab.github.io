@@ -195,8 +195,8 @@ University of Michigan\
 
 ## Lab Alumni
 
-### Former Research Lab Specialists/Technicans
-**Andrej Arsovski** (2024-2025), Professional Faculty, Washtenaw Community College
+### Former Research Lab Specialists and Technicians
+**Andrej Arsovski** (2024-2025), Professional Faculty, Washtenaw Community College\
 **Kook Hui Ryu** (2024-2025)
 **Maximo Clark** (2023-2025)
 
