@@ -10,7 +10,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 
 ### 2025
 <span style="font-size:18px;">37\.    [`Hybrids reveal accessible chromatin trans genetic associations`](https://www.biorxiv.org/content/10.1101/2025.10.09.681407v1)</span>\
-Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkman, Robert J Schmitz (2025)\
+Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkman, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
 <html>
@@ -64,7 +64,7 @@ Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkm
 ---
 
 <span style="font-size:18px;">36\.    [`A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution`](https://www.nature.com/articles/s41477-025-02106-6)</span>\
-Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Ziliang Luo, Alexandre P. Marand, Yan Liang, Mark A.A. Minow, Yun Zhong, Hosung Jang, Xiang Li, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Daiquan Jiang, Silin Zhong, Linkai Huang, Susan R. Wessler, Robert J Schmitz (2025)\
+Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Ziliang Luo, Alexandre P. Marand, Yan Liang, Mark A. A. Minow, Yun Zhong, Hosung Jang, Xiang Li, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Daiquan Jiang, Silin Zhong, Linkai Huang, Susan R. Wessler, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
 
 <html>
