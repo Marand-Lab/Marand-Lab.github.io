@@ -9,6 +9,60 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2025
+<span style="font-size:18px;">38\.    [`Advances in plant spatial multi-omics data analysis`](https://authors.elsevier.com/c/1m05K4rGdjeCns)</span>\
+Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan (2025)\
+<span style="font-size:16px;">**_Trends in Plant Science_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://authors.elsevier.com/c/1m05K4rGdjeCns">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_38.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.tplants.2025.10.005"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1016/j.tplants.2025.10.005"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
 <span style="font-size:18px;">37\.    [`Hybrids reveal accessible chromatin trans genetic associations`](https://www.biorxiv.org/content/10.1101/2025.10.09.681407v1)</span>\
 Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkman, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
@@ -285,11 +339,8 @@ Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A.
 
 ---
 
-
-
-### 2024
 <span style="font-size:18px;">32\.    [`A spatially resolved multiomic single-cell atlas of soybean development`](https://doi.org/10.1016/j.cell.2024.10.050)</span>\
-Xuan Zhang\*, Ziliang Luo\*, Alexandre P. Marand\*, Haidong Yan, Hosung Jang, Sohyun Bang, John P. Mendieta, Mark A.A. Minow, Robert J. Schmitz (2024)\
+Xuan Zhang\*, Ziliang Luo\*, Alexandre P. Marand\*, Haidong Yan, Hosung Jang, Sohyun Bang, John P. Mendieta, Mark A.A. Minow, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_Cell_**</span>
 
 <html>
@@ -344,6 +395,7 @@ Check out the interactive [Soybean Single Cell Spatial Omics Atlas Database](htt
 
 ---
 
+### 2024
 <span style="font-size:18px;">31\.[`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.pnas.org/doi/10.1073/pnas.2402781121)</span>\
 John P. Mendieta, Xiaoyu Tu, Daiquan Jiang, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2024)\
 <span style="font-size:16px;">**_Proceedings of the National Academy of Sciences_**</span>
