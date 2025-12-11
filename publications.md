@@ -9,7 +9,64 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2025
-<span style="font-size:18px;">38\.    [`Advances in plant spatial multi-omics data analysis`](https://authors.elsevier.com/c/1m05K4rGdjeCns)</span>\
+<span style="font-size:18px;">38\.    [`Widespread turnover of a conserved cis-regulatory code across 589 grass species`](https://doi.org/10.1093/molbev/msaf324)</span>\
+Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Armin Scheben, Michelle C. Stitzer, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2025)\
+<span style="font-size:16px;">**_Molecular Biology and Evolution_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1093/molbev/msaf324">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_35.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1093/molbev/msaf324"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1093/molbev/msaf324"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+[bioRxiv link](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)
+
+---
+
+
+<span style="font-size:18px;">37\.    [`Advances in plant spatial multi-omics data analysis`](https://authors.elsevier.com/c/1m05K4rGdjeCns)</span>\
 Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan (2025)\
 <span style="font-size:16px;">**_Trends in Plant Science_**</span>
 
@@ -63,7 +120,7 @@ Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan (2025)
 
 ---
 
-<span style="font-size:18px;">37\.    [`Hybrids reveal accessible chromatin trans genetic associations`](https://www.biorxiv.org/content/10.1101/2025.10.09.681407v1)</span>\
+<span style="font-size:18px;">36\.    [`Hybrids reveal accessible chromatin trans genetic associations`](https://www.biorxiv.org/content/10.1101/2025.10.09.681407v1)</span>\
 Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkman, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
@@ -117,7 +174,7 @@ Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkm
 
 ---
 
-<span style="font-size:18px;">36\.    [`A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution`](https://www.nature.com/articles/s41477-025-02106-6)</span>\
+<span style="font-size:18px;">35\.    [`A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution`](https://www.nature.com/articles/s41477-025-02106-6)</span>\
 Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Ziliang Luo, Alexandre P. Marand, Yan Liang, Mark A. A. Minow, Yun Zhong, Hosung Jang, Xiang Li, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Daiquan Jiang, Silin Zhong, Linkai Huang, Susan R. Wessler, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
 
@@ -174,7 +231,7 @@ Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Ziliang Luo, Alexandre P. Marand,
 
 ---
 
-<span style="font-size:18px;">35\.    [`Polymer-derived distance penalties improve chromatin interaction predictions from single-cell data across crop genomes`](https://www.biorxiv.org/content/10.1101/2025.08.20.671329v1)</span>\
+<span style="font-size:18px;">34\.    [`Polymer-derived distance penalties improve chromatin interaction predictions from single-cell data across crop genomes`](https://www.biorxiv.org/content/10.1101/2025.08.20.671329v1)</span>\
 Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johannes<sup>\#</sup> (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
@@ -218,60 +275,6 @@ Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johanne
           data-badge-popover="right"
           data-badge-type="donut"
           data-doi="10.1101/2025.08.20.671329"   
-          data-condensed="true"
-          class="altmetric-embed">
-        </div>
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    </div>
-  </section>
-</html>
-
----
-
-<span style="font-size:18px;">34\.    [`Extensive modulation of a conserved cis-regulatory code across 589 grass species`](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)</span>\
-Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Michelle C. Stitzer, Armin Scheben, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2025)\
-<span style="font-size:16px;">**_bioRxiv_**</span>
-
-<html>
-  <style>
-  section {
-      background: white;
-      color: black;
-      border-radius: 1em;
-      padding: 1em;
-      left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-    .box img {
-        display: block;
-        max-width:250px;
-        max-height:250px;
-        width: auto;
-        height: auto;
-        Padding: 20px,20px,20px,20px;
-    }
-  </style>
-  <section>
-    <div id="inner">
-      <a href="https://doi.org/10.1101/2025.04.23.650228">
-        <div class="box"
-          style="float:left">
-          <img src="/img/pub_images/pub_35.png">
-        </div>
-      </a>
-      <span class="__dimensions_badge_embed__"
-          data-doi="10.1101/2025.04.23.650228"
-          data-style="small_circle">
-      </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div style="float:right"
-          data-link-target="_blank"
-          data-badge-popover="right"
-          data-badge-type="donut"
-          data-doi="10.1101/2025.04.23.650228"   
           data-condensed="true"
           class="altmetric-embed">
         </div>
