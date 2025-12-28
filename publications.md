@@ -9,6 +9,60 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### 2025
+<span style="font-size:18px;">39\.    [`The plant ontology of cell types`](https://doi.org/10.1016/j.molp.2025.12.025)</span>\
+Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian Lu, Dihuai Zheng, Jie Yao, Qinjie Chu, Huixia Shou, Chengxin Fu, Tingting Lu, Yi Jing, Yinqi Bai, Ning Yang, Silin Zhong, Jun Xiao, Fang Yang, Xing Guo, Jixian Zhai, Alexandre P. Marand, Zhixi Tian, Fan Chen, Jian Xu, Yuling Jiao, Dijun Chen, Peijian Cao, Xiaofeng Cui, Dave Jackson, Tatsuya Nobori, Xiaofeng Gu, Jiawei Wang, James Whelan, Jianbing Yan, Robert J. Schmitz, Zhang Zhang, Longjiang Fan, POCT Consortium (2025)\
+<span style="font-size:16px;">**_Molecular Plant_**</span>
+
+<html>
+  <style>
+  section {
+      background: white;
+      color: black;
+      border-radius: 1em;
+      padding: 1em;
+      left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+    .box img {
+        display: block;
+        max-width:250px;
+        max-height:250px;
+        width: auto;
+        height: auto;
+        Padding: 20px,20px,20px,20px;
+    }
+  </style>
+  <section>
+    <div id="inner">
+      <a href="https://doi.org/10.1016/j.molp.2025.12.025">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/pub_39.png">
+        </div>
+      </a>
+      <span class="__dimensions_badge_embed__"
+          data-doi="10.1016/j.molp.2025.12.025"
+          data-style="small_circle">
+      </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div style="float:right"
+          data-link-target="_blank"
+          data-badge-popover="right"
+          data-badge-type="donut"
+          data-doi="10.1016/j.molp.2025.12.025"   
+          data-condensed="true"
+          class="altmetric-embed">
+        </div>
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </div>
+  </section>
+</html>
+
+---
+
 <span style="font-size:18px;">38\.    [`Widespread turnover of a conserved cis-regulatory code across 589 grass species`](https://doi.org/10.1093/molbev/msaf324)</span>\
 Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Armin Scheben, Michelle C. Stitzer, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2025)\
 <span style="font-size:16px;">**_Molecular Biology and Evolution_**</span>
