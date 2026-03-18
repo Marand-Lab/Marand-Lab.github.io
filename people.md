@@ -236,7 +236,7 @@ Biology, University of Michigan\
 ## Lab Alumni
 
 ## Former Masters Students
-**Evelyn Sowers** (2023-2026), PhD Student, University of Michigan, MCDB\
+**Evelyn Sowers** (2023-2026), PhD Student, University of Michigan, MCDB
 
 ### Former Research Lab Specialists and Technicians
 **Andrej Arsovski** (2024-2025), Professional Faculty, Washtenaw Community College\
