@@ -235,13 +235,13 @@ Biology, University of Michigan\
 
 ## Lab Alumni
 
-## Former Masters Students
+### Former Masters Students
 **Evelyn Sowers** (2023-2026), PhD Student, University of Michigan, MCDB
 
 ### Former Research Lab Specialists and Technicians
 **Andrej Arsovski** (2024-2025), Professional Faculty, Washtenaw Community College\
 **Kook Hui Ryu** (2024-2025)\
-**Maximo Clark** (2023-2025)
+**Maximo Clark** (2023-2025), PhD Student, UC Riverside
 
 ### Former Undergraduate Researchers
 **Olivia Belau** (2024-2025)\
