@@ -72,6 +72,26 @@ B.Sc. Heilongjiang University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/James.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**James Loveland**</span>
+
+**Position:**\
+Ph.D. Student
+
+**About Me:**\
+B.A. Kenyon College\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Andrew_Luo.jpg" width="100" alt="" align="left">
 </div>
 </figure>
@@ -80,7 +100,7 @@ B.Sc. Heilongjiang University\
 <span style="font-size:16px;">**Andrew Luo**</span>
 
 **Position:**\
-Ph.D. Student
+Ph.D. Candidate
 
 **About Me:**\
 B.A. Vassar College\
@@ -121,7 +141,7 @@ B.Sc. Texas State University\
 <span style="font-size:16px;">**[Holly Scheer](https://scholar.google.com/citations?user=Jjubl3EAAAAJ&hl=en)**</span>
 
 **Position:**\
-Ph.D. Student
+Ph.D. Candidate
 
 **About Me:**\
 B.Sc. University of Michigan\
@@ -133,19 +153,19 @@ B.Sc. University of Michigan\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Evelyn.jpeg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Lane.jpeg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
 
 
-<span style="font-size:16px;">**Evelyn Sowers**</span>
+<span style="font-size:16px;">**Lane Vitek**</span>
 
 **Position:**\
-Masters Student
+PhD Student
 
 **About Me:**\
-B.A. Carroll College\
+B.S. Michigan State University\
 <br />
 <br />
 
@@ -214,6 +234,9 @@ Biology, University of Michigan\
 ---
 
 ## Lab Alumni
+
+## Former Masters Students
+**Evelyn Sowers** (2023-2026), PhD Student, University of Michigan, MCDB\
 
 ### Former Research Lab Specialists and Technicians
 **Andrej Arsovski** (2024-2025), Professional Faculty, Washtenaw Community College\
