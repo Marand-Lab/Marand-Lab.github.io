@@ -207,7 +207,7 @@ B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
 Undergraduate Researcher
 
 **About Me:**\
-MCDB, University of Michigan\
+MCDB Major, University of Michigan\
 <br />
 <br />
 
@@ -227,7 +227,27 @@ MCDB, University of Michigan\
 Undergraduate Researcher
 
 **About Me:**\
-Biology, University of Michigan\
+Biology Major, University of Michigan\
+<br />
+<br />
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Lainey.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Lainey Weissman**</span>
+
+**Position:**\
+Undergraduate Researcher
+
+**About Me:**\
+MCDB and Spanish Major, University of Michigan\
 <br />
 <br />
 
