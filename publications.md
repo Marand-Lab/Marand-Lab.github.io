@@ -8,9 +8,9 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 \* denotes co-first authors\
 <sup>\#</sup> denotes (co)corresponding author(s)
 
-### 2025
+### 2026
 <span style="font-size:18px;">39\.    [`The plant ontology of cell types`](https://doi.org/10.1016/j.molp.2025.12.025)</span>\
-Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian Lu, Dihuai Zheng, Jie Yao, Qinjie Chu, Huixia Shou, Chengxin Fu, Tingting Lu, Yi Jing, Yinqi Bai, Ning Yang, Silin Zhong, Jun Xiao, Fang Yang, Xing Guo, Jixian Zhai, Alexandre P. Marand, Zhixi Tian, Fan Chen, Jian Xu, Yuling Jiao, Dijun Chen, Peijian Cao, Xiaofeng Cui, Dave Jackson, Tatsuya Nobori, Xiaofeng Gu, Jiawei Wang, James Whelan, Jianbing Yan, Robert J. Schmitz, Zhang Zhang, Longjiang Fan, POCT Consortium (2025)\
+Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian Lu, Dihuai Zheng, Jie Yao, Qinjie Chu, Huixia Shou, Chengxin Fu, Tingting Lu, Yi Jing, Yinqi Bai, Ning Yang, Silin Zhong, Jun Xiao, Fang Yang, Xing Guo, Jixian Zhai, Alexandre P. Marand, Zhixi Tian, Fan Chen, Jian Xu, Yuling Jiao, Dijun Chen, Peijian Cao, Xiaofeng Cui, Dave Jackson, Tatsuya Nobori, Xiaofeng Gu, Jiawei Wang, James Whelan, Jianbing Yan, Robert J. Schmitz, Zhang Zhang, Longjiang Fan, POCT Consortium (2026)\
 <span style="font-size:16px;">**_Molecular Plant_**</span>
 
 <html>
@@ -64,7 +64,7 @@ Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian 
 ---
 
 <span style="font-size:18px;">38\.    [`Widespread turnover of a conserved cis-regulatory code across 589 grass species`](https://doi.org/10.1093/molbev/msaf324)</span>\
-Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Armin Scheben, Michelle C. Stitzer, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2025)\
+Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Armin Scheben, Michelle C. Stitzer, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2026)\
 <span style="font-size:16px;">**_Molecular Biology and Evolution_**</span>
 
 <html>
@@ -119,8 +119,8 @@ Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuch
 
 ---
 
-
-<span style="font-size:18px;">37\.    [`Advances in plant spatial multi-omics data analysis`](https://authors.elsevier.com/c/1m05K4rGdjeCns)</span>\
+### 2025
+<span style="font-size:18px;">37\.    [`Advances in plant spatial multi-omics data analysis`](https://doi.org/10.1016/j.tplants.2025.10.005)</span>\
 Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan (2025)\
 <span style="font-size:16px;">**_Trends in Plant Science_**</span>
 
