@@ -216,6 +216,26 @@ MCDB Major, University of Michigan\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Kian.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**Kian Lawlor**</span>
+
+**Position:**\
+Undergraduate Researcher
+
+**About Me:**\
+MCDB (Major) and Statistics (Minor), University of Michigan\
+<br />
+
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Skyler.jpg" width="100" alt="" align="left">
 </div>
 </figure>
