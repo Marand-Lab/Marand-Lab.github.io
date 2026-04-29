@@ -322,7 +322,6 @@ Coverage:\
 
 ---
 
-
 ### All Publications
 
 <span style="font-weight:bold ; font-size:24px; color:#1E90FF">2026</span>  
@@ -331,139 +330,13 @@ Coverage:\
 Haidong Yan, Yarong Jin, Chengran Wang, Xinxin Zhang, Jiyuan Jia, Xiaofang Cao, Alexandre P. Marand, Mao Xia, Xuan Zhang, Yun Zhong, Xin Tang, Qiang Zhai, Tao Liu, Shilin Tian, Xiaoqin Li, Xiang Li, Jie Yao, Robert J. Schmitz, Zhaoming Wang, Linkai Huang (2026)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
 
-<html>
-  <style>
-  section {
-      background: white;
-      color: black;
-      border-radius: 1em;
-      padding: 1em;
-      left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-    .box img {
-        display: block;
-        max-width:150px;
-        max-height:150px;
-        width: auto;
-        height: auto;
-        Padding: 10px,10px,10px,10px;
-    }
-  </style>
-  <section>
-    <div id="inner">
-      <span class="__dimensions_badge_embed__"
-          data-doi="10.1038/s41477-026-02289-6"
-          data-style="small_circle">
-      </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div style="float:right"
-          data-link-target="_blank"
-          data-badge-popover="right"
-          data-badge-type="donut"
-          data-doi="10.1038/s41477-026-02289-6"   
-          data-condensed="true"
-          class="altmetric-embed">
-        </div>
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    </div>
-  </section>
-</html>
-
 <span style="font-size:16px;">39\.    [`The plant ontology of cell types`](https://doi.org/10.1016/j.molp.2025.12.025)</span>\
 Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian Lu, Dihuai Zheng, Jie Yao, Qinjie Chu, Huixia Shou, Chengxin Fu, Tingting Lu, Yi Jing, Yinqi Bai, Ning Yang, Silin Zhong, Jun Xiao, Fang Yang, Xing Guo, Jixian Zhai, Alexandre P. Marand, Zhixi Tian, Fan Chen, Jian Xu, Yuling Jiao, Dijun Chen, Peijian Cao, Xiaofeng Cui, Dave Jackson, Tatsuya Nobori, Xiaofeng Gu, Jiawei Wang, James Whelan, Jianbing Yan, Robert J. Schmitz, Zhang Zhang, Longjiang Fan, POCT Consortium (2026)\
 <span style="font-size:16px;">**_Molecular Plant_**</span>
 
-<html>
-  <style>
-  section {
-      background: white;
-      color: black;
-      border-radius: 1em;
-      padding: 1em;
-      left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-    .box img {
-        display: block;
-        max-width:150px;
-        max-height:150px;
-        width: auto;
-        height: auto;
-        Padding: 10px,10px,10px,10px;
-    }
-  </style>
-  <section>
-    <div id="inner">
-      <span class="__dimensions_badge_embed__"
-          data-doi="10.1016/j.molp.2025.12.025"
-          data-style="small_circle">
-      </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div style="float:right"
-          data-link-target="_blank"
-          data-badge-popover="right"
-          data-badge-type="donut"
-          data-doi="10.1016/j.molp.2025.12.025"   
-          data-condensed="true"
-          class="altmetric-embed">
-        </div>
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    </div>
-  </section>
-</html>
-
 <span style="font-size:16px;">38\.    [`Widespread turnover of a conserved cis-regulatory code across 589 grass species`](https://doi.org/10.1093/molbev/msaf324)</span>\
 Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Armin Scheben, Michelle C. Stitzer, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2026)\
 <span style="font-size:16px;">**_Molecular Biology and Evolution_**</span> [bioRxiv link](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)
-
-<html>
-  <style>
-  section {
-      background: white;
-      color: black;
-      border-radius: 1em;
-      padding: 1em;
-      left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-    .box img {
-        display: block;
-        max-width:150px;
-        max-height:150px;
-        width: auto;
-        height: auto;
-        Padding: 10px,10px,10px,10px;
-    }
-  </style>
-  <section>
-    <div id="inner">
-      <span class="__dimensions_badge_embed__"
-          data-doi="10.1093/molbev/msaf324"
-          data-style="small_circle">
-      </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div style="float:right"
-          data-link-target="_blank"
-          data-badge-popover="right"
-          data-badge-type="donut"
-          data-doi="10.1093/molbev/msaf324"   
-          data-condensed="true"
-          class="altmetric-embed">
-        </div>
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    </div>
-  </section>
-</html>
 
 ---
 
