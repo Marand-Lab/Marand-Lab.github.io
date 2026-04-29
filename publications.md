@@ -43,6 +43,12 @@ Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A.
           <img src="/img/pub_images/pub_34.png">
         </div>
       </a>
+      <a href="https://doi.org/10.1126/science.ads6601">
+        <div class="box"
+          style="float:left">
+          <img src="/img/pub_images/science_cover2.jpg">
+        </div>
+      </a>
       <span class="__dimensions_badge_embed__"
           data-doi="10.1126/science.ads6601"
           data-style="small_circle">
