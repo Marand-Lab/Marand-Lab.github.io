@@ -40,13 +40,13 @@ Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A.
       <a href="https://doi.org/10.1126/science.ads6601">
         <div class="box"
           style="float:left">
-          <img src="/img/pub_images/pub_34.png">
-        </div>
+          <img src="/img/pub_images/science_cover2.jpg">
+          </div>
       </a>
       <a href="https://doi.org/10.1126/science.ads6601">
         <div class="box"
           style="float:left">
-          <img src="/img/pub_images/science_cover2.jpg">
+          <img src="/img/pub_images/pub_34.png">
         </div>
       </a>
       <span class="__dimensions_badge_embed__"
@@ -100,6 +100,12 @@ Xuan Zhang\*, Ziliang Luo\*, Alexandre P. Marand\*, Haidong Yan, Hosung Jang, So
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1016/j.cell.2024.10.050">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/Cell_cover2.gif">
+      </div>
+    </a>
       <a href="https://doi.org/10.1016/j.cell.2024.10.050">
         <div class="box"
           style="float:left">
@@ -156,6 +162,12 @@ Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2023)
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1146/annurev-arplant-070122-030236">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/annual_reviews_cover1.png">
+      </div>
+    </a>
       <a href="https://doi.org/10.1146/annurev-arplant-070122-030236">
         <div class="box"
           style="float:left">
@@ -213,6 +225,12 @@ Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule
     <a href="https://doi.org/10.1126/science.abg5289">
       <div class="box"
         style="float:left">
+        <img src="/img/pub_images/science_cover1.jpg">
+      </div>
+    </a>
+    <a href="https://doi.org/10.1126/science.abg5289">
+      <div class="box"
+        style="float:left">
         <img src="/img/pub_images/pub_18.png">
       </div>
     </a>
@@ -265,6 +283,12 @@ Alexandre P. Marand<sup>\#</sup>, Zongliang Chen, Andrea Gallavotti, Robert J. S
   </style>
   <section>
     <div id="inner">
+    <a href="https://doi.org/10.1016/j.cell.2021.04.014">
+      <div class="box"
+        style="float:left">
+        <img src="/img/pub_images/Cell_cover1.gif">
+      </div>
+    </a>
     <a href="https://doi.org/10.1016/j.cell.2021.04.014">
       <div class="box"
         style="float:left">
