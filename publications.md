@@ -9,7 +9,7 @@ Publications and preprints tracked by Google Scholar can be found here: [Google 
 <sup>\#</sup> denotes (co)corresponding author(s)
 
 ### Selected Publications
-<span style="font-size:18px;">[`The genetic architecture of cell-type-specific cis-regulation in maize`](https://doi.org/10.1126/science.ads6601)</span>\
+<span style="font-size:18px;">[`The genetic architecture of cell type-specific cis regulation in maize`](https://doi.org/10.1126/science.ads6601)</span>\
 Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A. Minow, Xuan Zhang, John P. Mendieta, Ziliang Luo, Sohyun Bang, Haidong Yan, Cullan Meyer, Luca Schlegel, Frank Johannes, Robert J. Schmitz<sup>\#</sup> (2025)\
 <span style="font-size:16px;">**_Science_**</span>
 
