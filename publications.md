@@ -325,7 +325,7 @@ Coverage:\
 
 ### All Publications
 
-<span style="font-size:24px;color:blue">*2026* text</span>
+<span style="font-size:24px;color:#368BC1"><b>2026<b></span>\ 
 <span style="font-size:18px;">40\.    [`Single-cell chromatin accessibility and cis-regulatory element analyses in plants using the scPlantReg platform`](https://doi.org/10.1038/s41477-026-02289-6)</span>\
 Haidong Yan, Yarong Jin, Chengran Wang, Xinxin Zhang, Jiyuan Jia, Xiaofang Cao, Alexandre P. Marand, Mao Xia, Xuan Zhang, Yun Zhong, Xin Tang, Qiang Zhai, Tao Liu, Shilin Tian, Xiaoqin Li, Xiang Li, Jie Yao, Robert J. Schmitz, Zhaoming Wang, Linkai Huang (2026)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
