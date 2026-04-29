@@ -325,7 +325,7 @@ Coverage:\
 
 ### All Publications
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2026</span>  
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2026</span>  
 
 <span style="font-size:18px;">40\.    [`Single-cell chromatin accessibility and cis-regulatory element analyses in plants using the scPlantReg platform`](https://doi.org/10.1038/s41477-026-02289-6)</span>\
 Haidong Yan, Yarong Jin, Chengran Wang, Xinxin Zhang, Jiyuan Jia, Xiaofang Cao, Alexandre P. Marand, Mao Xia, Xuan Zhang, Yun Zhong, Xin Tang, Qiang Zhai, Tao Liu, Shilin Tian, Xiaoqin Li, Xiang Li, Jie Yao, Robert J. Schmitz, Zhaoming Wang, Linkai Huang (2026)\
@@ -343,7 +343,7 @@ Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuch
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2025</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2025</span>
 
 <span style="font-size:18px;">37\.    [`Advances in plant spatial multi-omics data analysis`](https://doi.org/10.1016/j.tplants.2025.10.005)</span>\
 Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan (2025)\
@@ -371,7 +371,7 @@ Xuan Zhang\*, Ziliang Luo\*, Alexandre P. Marand\*, Haidong Yan, Hosung Jang, So
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2024</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2024</span>
 
 <span style="font-size:18px;">31\.[`Investigating the cis-Regulatory Basis of C3 and C4 Photosynthesis in Grasses at Single-Cell Resolution`](https://www.pnas.org/doi/10.1073/pnas.2402781121)</span>\
 John P. Mendieta, Xiaoyu Tu, Daiquan Jiang, Haidong Yan, Xuan Zhang, Alexandre P. Marand, Silin Zhong, Robert J. Schmitz (2024)\
@@ -391,7 +391,7 @@ Alexandre P. Marand<sup>\#</sup> (2024)\
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2023</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2023</span>
 
 <span style="font-size:18px;">27\.    [`Leveraging Single-Cell Populations to Uncover the Genetic Basis of Complex Traits`](https://doi.org/10.1146/annurev-genet-022123-110824)</span>\
 Mark A.A. Minow, Alexandre P. Marand, Robert J. Schmitz (2023)\
@@ -403,7 +403,7 @@ Alexandre P. Marand, Andrea L. Eveland, Kerstin Kaufmann, Nathan Springer (2023)
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2022</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2022</span>
 
 <span style="font-size:18px;">25\.    [`Machine learning reveals conserved chromatin patterns determining meiotic recombination sites in plants`](https://www.biorxiv.org/content/10.1101/2022.07.11.499557v1.abstract)</span>\
 Minghui Wang, Shay Shilo, Adele Zhou, Mateusz Zelkowski, Mischa A. Olson, Ido Azuri, Nurit Shoshani-Hechel, Cathy Melamed-Bessudo, Alexandre P. Marand, Jiming Jiang, James C. Schnable, Charles J. Underwood, Ian R. Henderson, Qi Sun, Jaroslaw Pillardy, Penny M.A. Kianian, Shahryar F. Kianian, Changbin Chen, Avraham A. Levy, Wojciech P. Pawlowski. (2022)\
@@ -423,7 +423,7 @@ Alexandre P. Marand, Robert J. Schmitz. (2022)\
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2021</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2021</span>
 
 <span style="font-size:18px;">21\.    [`Quality control and evaluation of plant epigenomics data`](https://doi.org/10.1093/plcell/koab255)</span>\
 Robert J. Schmitz, Alexandre P. Marand, Xuan Zhang, Rebecca A. Mosher, Franziska Turck, Xuemei Chen, Michael J. Axtell, Xuehua Zhong, Siobhan M. Brady, Molly Megraw, Blake C. Myers. (2021)\
@@ -462,7 +462,7 @@ Liesbeth Minnoye, Georgia K. Marinov, Thomas Krausgruber, Lixia Pan, Alexandre P
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2020</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2020</span>
 
 <span style="font-size:18px;">13\.    [`Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons`](https://doi.org/10.1093/genetics/iyaa003)</span>\
 Jaclyn M. Noshay, Alexandre P. Marand, Sarah N. Anderson, Peng Zhou, Maria Katherine Mejia Guerra, Zefu Lu, Christine O’Connor, Peter A. Crisp, Candice N. Hirsch, Robert J. Schmitz, Nathan M. Springer. (2020)\
@@ -478,7 +478,7 @@ Rudo Kieft, Yang Zhang, Alexandre P. Marand, Jose Dagoberto Moran, Robert Bridge
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2019</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2019</span>
 
 <span style="font-size:18px;">10\.    [`The prevalence, evolution and chromatin signatures of plant regulatory elements`](https://doi.org/10.1038/s41477-019-0548-z)</span>\
 Zefu Lu, Alexandre P. Marand, William A. Ricci, Christina L. Ethridge, Xiaoyu Zhang, Robert J. Schmitz. (2019)\
@@ -502,7 +502,7 @@ Alexandre P. Marand, Hainan Zhao, Wenli Zhang, Zixian Zeng, Chao Fang, Jiming Ji
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2018</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2018</span>
 
 <span style="font-size:18px;">5\.    [`Genome sequence of M6, a diploid inbred clone of the high-glycoalkaloid-producing tuber-bearing potato species Solanum chacoense, reveals residual heterozygosity`](https://doi.org/10.1111/tpj.13857)</span>\
 Courtney P. Leisner, John P. Hamilton, Emily Crisovan, Norma C. Manrique-Carpintero, Alexandre P. Marand, Linsey Newton, Gina M. Pham, Jiming Jiang, David S. Douches, Shelley H. Jansky, C. Robin Buell. (2018)\
@@ -514,7 +514,7 @@ Hainan Zhao, Wenli Zhang, Lifen Chen, Lei Wang, Alexandre P. Marand, Yufeng Wu, 
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2017</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2017</span>
 
 <span style="font-size:18px;">3\.    [`Meiotic crossovers are associated with open chromatin and enriched with Stowaway transposons in potato`](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1326-8)</span>\
 Alexandre P. Marand, Shelley H. Jansky, Hainan Zhao, Courtney P. Leisner, Xiaobiao Zhu, Zixian Zeng, Emily Crisovan, Linsey Newton, Andy J. Hamernik, Richard E. Veilleux, C. Robin Buell, Jiming Jiang. (2017)\
@@ -526,7 +526,7 @@ Alexandre P. Marand, Tao Zhang, Bo Zhu, Jiming Jiang. (2017)\
 
 ---
 
-<span style="font-weight:bold ; font-size:24px; color:#368BC1">2016</span>
+<span style="font-weight:bold ; font-size:24px; color:#1E90FF">2016</span>
 
 <span style="font-size:18px;">1\.    [`PlantDHS: a database for DNase I hypersensitive sites in plants`](https://academic.oup.com/nar/article-abstract/44/D1/D1148/2503132)</span>\
 Tao Zhang, Alexandre P. Marand, Jiming Jiang. (2016)\
