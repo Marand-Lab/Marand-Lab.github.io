@@ -325,7 +325,7 @@ Coverage:\
 
 ### All Publications
 
-<span style="font-size: 24px; color: #368BC1">2026</span> \ 
+<span style="font-weight:bold ; font-size:24px; color:#368BC1">2026</span> \ 
 
 ---
 
