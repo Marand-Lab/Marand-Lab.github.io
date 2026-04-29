@@ -343,14 +343,14 @@ Haidong Yan, Yarong Jin, Chengran Wang, Xinxin Zhang, Jiyuan Jia, Xiaofang Cao, 
         display: inline-block;
         display: flex;
         align-items: center;
-        justify-content: right }
+        justify-content: center }
     .box img {
         display: block;
-        max-width:250px;
-        max-height:250px;
+        max-width:150px;
+        max-height:150px;
         width: auto;
         height: auto;
-        Padding: 20px,20px,20px,20px;
+        Padding: 10px,10px,10px,10px;
     }
   </style>
   <section>
