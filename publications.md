@@ -326,6 +326,10 @@ Coverage:\
 
 <span style="font-weight:bold ; font-size:24px; color:#1E90FF">2026</span>  
 
+<span style="font-size:16px;">41\.    [`Cell-specific dedifferentiation in Arabidopsis thaliana`](https://doi.org/10.64898/2026.05.21.726904)</span>\
+Fabio Gomez-Cano, Luguang Jiang, Yoonjin Cho, Mariel Cruz-Gomez, Kook Hui Ryu, Kelsey Reed, Rachel Rivero, Lane Vitek, Bastiaan A. Bargmann, Alexandre P. Marand (2026)\
+<span style="font-size:16px;">**_bioRxiv_**</span>
+
 <span style="font-size:16px;">40\.    [`Single-cell chromatin accessibility and cis-regulatory element analyses in plants using the scPlantReg platform`](https://doi.org/10.1038/s41477-026-02289-6)</span>\
 Haidong Yan, Yarong Jin, Chengran Wang, Xinxin Zhang, Jiyuan Jia, Xiaofang Cao, Alexandre P. Marand, Mao Xia, Xuan Zhang, Yun Zhong, Xin Tang, Qiang Zhai, Tao Liu, Shilin Tian, Xiaoqin Li, Xiang Li, Jie Yao, Robert J. Schmitz, Zhaoming Wang, Linkai Huang (2026)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
