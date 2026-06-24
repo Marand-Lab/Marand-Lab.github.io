@@ -326,19 +326,23 @@ Coverage:\
 
 <span style="font-weight:bold ; font-size:24px; color:#1E90FF">2026</span>  
 
-<span style="font-size:16px;">41\.    [`Cell-specific dedifferentiation in Arabidopsis thaliana`](https://doi.org/10.64898/2026.05.21.726904)</span>\
+<span style="font-size:16px;">41\.    [`Power-law penalties correct distance bias in single-cell co-accessibility and deep-learning chromatin interaction predictions`](https://doi.org/10.1093/nargab/lqag063)</span>\
+Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johannes<sup>\#</sup> (2026)\
+<span style="font-size:16px;">**_Nucleic Acids Research Genomics & Bioinformatics_**</span> [bioRxiv link](https://doi.org/10.1101/2025.08.20.671329)
+
+<span style="font-size:16px;">40\.    [`Cell-specific dedifferentiation in Arabidopsis thaliana`](https://doi.org/10.64898/2026.05.21.726904)</span>\
 Fabio Gomez-Cano\*, Luguang Jiang\*, Yoonjin Cho, Mariel Cruz-Gomez, Kook Hui Ryu, Kelsey Reed, Rachel Rivero, Lane Vitek, Bastiaan A. Bargmann, Alexandre P. Marand (2026)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
-<span style="font-size:16px;">40\.    [`Single-cell chromatin accessibility and cis-regulatory element analyses in plants using the scPlantReg platform`](https://doi.org/10.1038/s41477-026-02289-6)</span>\
+<span style="font-size:16px;">39\.    [`Single-cell chromatin accessibility and cis-regulatory element analyses in plants using the scPlantReg platform`](https://doi.org/10.1038/s41477-026-02289-6)</span>\
 Haidong Yan, Yarong Jin, Chengran Wang, Xinxin Zhang, Jiyuan Jia, Xiaofang Cao, Alexandre P. Marand, Mao Xia, Xuan Zhang, Yun Zhong, Xin Tang, Qiang Zhai, Tao Liu, Shilin Tian, Xiaoqin Li, Xiang Li, Jie Yao, Robert J. Schmitz, Zhaoming Wang, Linkai Huang (2026)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
 
-<span style="font-size:16px;">39\.    [`The plant ontology of cell types`](https://doi.org/10.1016/j.molp.2025.12.025)</span>\
+<span style="font-size:16px;">38\.    [`The plant ontology of cell types`](https://doi.org/10.1016/j.molp.2025.12.025)</span>\
 Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian Lu, Dihuai Zheng, Jie Yao, Qinjie Chu, Huixia Shou, Chengxin Fu, Tingting Lu, Yi Jing, Yinqi Bai, Ning Yang, Silin Zhong, Jun Xiao, Fang Yang, Xing Guo, Jixian Zhai, Alexandre P. Marand, Zhixi Tian, Fan Chen, Jian Xu, Yuling Jiao, Dijun Chen, Peijian Cao, Xiaofeng Cui, Dave Jackson, Tatsuya Nobori, Xiaofeng Gu, Jiawei Wang, James Whelan, Jianbing Yan, Robert J. Schmitz, Zhang Zhang, Longjiang Fan, POCT Consortium (2026)\
 <span style="font-size:16px;">**_Molecular Plant_**</span>
 
-<span style="font-size:16px;">38\.    [`Widespread turnover of a conserved cis-regulatory code across 589 grass species`](https://doi.org/10.1093/molbev/msaf324)</span>\
+<span style="font-size:16px;">37\.    [`Widespread turnover of a conserved cis-regulatory code across 589 grass species`](https://doi.org/10.1093/molbev/msaf324)</span>\
 Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuchon-Elder, Germano M. F. Costa-Neto, Allen Gelfond, Mohamed Z. El-Walid, Matthew Hufford, Elizabeth A. Kellogg, Thuy La, Alexandre P. Marand, Arun S. Seetharam, Armin Scheben, Michelle C. Stitzer, Travis Wrightsman, Cinta Romay, Edward S. Buckler (2026)\
 <span style="font-size:16px;">**_Molecular Biology and Evolution_**</span> [bioRxiv link](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v1)
 
@@ -346,21 +350,17 @@ Charles O. Hale, Sheng-Kai O. Hsu, Jingjing Zhai, Aimee J. Schulz, Taylor AuBuch
 
 <span style="font-weight:bold ; font-size:24px; color:#1E90FF">2025</span>
 
-<span style="font-size:16px;">37\.    [`Advances in plant spatial multi-omics data analysis`](https://doi.org/10.1016/j.tplants.2025.10.005)</span>\
+<span style="font-size:16px;">36\.    [`Advances in plant spatial multi-omics data analysis`](https://doi.org/10.1016/j.tplants.2025.10.005)</span>\
 Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan (2025)\
 <span style="font-size:16px;">**_Trends in Plant Science_**</span>
 
-<span style="font-size:16px;">36\.    [`Hybrids reveal accessible chromatin trans genetic associations`](https://www.biorxiv.org/content/10.1101/2025.10.09.681407v1)</span>\
+<span style="font-size:16px;">35\.    [`Hybrids reveal accessible chromatin trans genetic associations`](https://www.biorxiv.org/content/10.1101/2025.10.09.681407v1)</span>\
 Mark A. A. Minow, Alexandre P. Marand, Xuan Zhang, Cullan A. Meyer, Jordan Pelkman, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
 
-<span style="font-size:16px;">35\.    [`A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution`](https://www.nature.com/articles/s41477-025-02106-6)</span>\
+<span style="font-size:16px;">34\.    [`A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution`](https://www.nature.com/articles/s41477-025-02106-6)</span>\
 Haidong Yan\*, John P. Mendieta\*, Xuan Zhang, Ziliang Luo, Alexandre P. Marand, Yan Liang, Mark A. A. Minow, Yun Zhong, Hosung Jang, Xiang Li, Thomas Roulé, Doris Wagner, Xiaoyu Tu, Yonghong Wang, Daiquan Jiang, Silin Zhong, Linkai Huang, Susan R. Wessler, Robert J. Schmitz (2025)\
 <span style="font-size:16px;">**_Nature Plants_**</span>
-
-<span style="font-size:16px;">34\.    [`Polymer-derived distance penalties improve chromatin interaction predictions from single-cell data across crop genomes`](https://www.biorxiv.org/content/10.1101/2025.08.20.671329v1)</span>\
-Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johannes<sup>\#</sup> (2025)\
-<span style="font-size:16px;">**_bioRxiv_**</span>
 
 <span style="font-size:16px;">33\.    [`The genetic architecture of cell-type-specific cis-regulation in maize`](https://doi.org/10.1126/science.ads6601)</span>\
 Alexandre P. Marand<sup>\#</sup>, Luguang Jiang, Fabio A. Gomez-Cano, Mark A. A. Minow, Xuan Zhang, John P. Mendieta, Ziliang Luo, Sohyun Bang, Haidong Yan, Cullan Meyer, Luca Schlegel, Frank Johannes, Robert J. Schmitz<sup>\#</sup> (2025)\
