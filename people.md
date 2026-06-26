@@ -18,7 +18,7 @@ bigimg: "/img/lab_photo_08-2024.JPG"
 <span style="font-size:16px;">**[Alex Marand](https://scholar.google.com/citations?hl=en&user=_bYW4UkAAAAJ)**</span>
 
 **Position:**\
-Assistant Professor
+Assistant Professor and Principal Investigator
 
 **About Me:**\
 NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
@@ -196,26 +196,6 @@ B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Lara.jpg" width="100" alt="" align="left">
-</div>
-</figure>
-</p>
-
-<span style="font-size:16px;">**Lara Kok**</span>
-
-**Position:**\
-Undergraduate Researcher
-
-**About Me:**\
-MCDB Major, University of Michigan\
-<br />
-<br />
-
----
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Kian.jpg" width="100" alt="" align="left">
 </div>
 </figure>
@@ -256,33 +236,33 @@ Biology Major, University of Michigan\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Lainey.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Emily.jpg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
 
-<span style="font-size:16px;">**Lainey Weissman**</span>
+<span style="font-size:16px;">**Emily Xu**</span>
 
 **Position:**\
 Undergraduate Researcher
 
 **About Me:**\
-MCDB and Spanish Major, University of Michigan\
+MCDB and Mathematical Biology Double Major, University of Michigan\
 <br />
 <br />
-
----
 
 ## Lab Alumni
 
-### Former Masters Students
+#### Former Masters Students
 **Evelyn Sowers** (2023-2026), PhD Student, University of Michigan, MCDB
 
-### Former Research Lab Specialists and Technicians
+#### Former Research Lab Specialists and Technicians
 **Andrej Arsovski** (2024-2025), Professional Faculty, Washtenaw Community College\
-**Kook Hui Ryu** (2024-2025)\
-**Maximo Clark** (2023-2025), PhD Student, UC Riverside
+**Maximo Clark** (2023-2025), PhD Student, University of California, Riverside\
+**Kook Hui Ryu** (2024-2025)
 
-### Former Undergraduate Researchers
+#### Former Undergraduate Researchers
+**Lara Kok** (2024-2026), Masters student in Human Genetics, University of Michigan\
+**Lainey Weissman** (2025-2026)\
 **Olivia Belau** (2024-2025)\
 **Jasmine Crump** (2023-2025)
