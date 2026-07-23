@@ -326,6 +326,10 @@ Coverage:\
 
 <span style="font-weight:bold ; font-size:24px; color:#1E90FF">2026</span>  
 
+<span style="font-size:16px;">42\.    [`Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar`](https://doi.org/10.64898/2026.07.22.740070)</span>\
+Jie Yao, Jiaqi Li, Xuan Zhang, Xiang Li, Alexandre P. Marand, Ethan Pickering, Robert J. Schmitz (2026)\
+<span style="font-size:16px;">**_bioRxiv_**</span>
+
 <span style="font-size:16px;">41\.    [`Power-law penalties correct distance bias in single-cell co-accessibility and deep-learning chromatin interaction predictions`](https://doi.org/10.1093/nargab/lqag063)</span>\
 Luca Schlegel, Fabio Gomez-Cano, Alexandre P. Marand<sup>\#</sup>, Frank Johannes<sup>\#</sup> (2026)\
 <span style="font-size:16px;">**_Nucleic Acids Research Genomics & Bioinformatics_**</span> [bioRxiv link](https://doi.org/10.1101/2025.08.20.671329)
