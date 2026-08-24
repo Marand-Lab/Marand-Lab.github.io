@@ -326,6 +326,10 @@ Coverage:\
 
 <span style="font-weight:bold ; font-size:24px; color:#1E90FF">2026</span>  
 
+<span style="font-size:16px;">43\.    [`Cell-type-specific regulatory variation shapes maize heterosis`](https://doi.org/10.64898/2026.08.20.744945)</span>\
+Luguang Jiang, Fabio Gomez-Cano, Juncheng Luo, Mark A.A. Minow, Alexandre P. Marand (2026)\
+<span style="font-size:16px;">**_bioRxiv_**</span>
+
 <span style="font-size:16px;">42\.    [`Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar`](https://doi.org/10.64898/2026.07.22.740070)</span>\
 Jie Yao, Jiaqi Li, Xuan Zhang, Xiang Li, Alexandre P. Marand, Ethan Pickering, Robert J. Schmitz (2026)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
