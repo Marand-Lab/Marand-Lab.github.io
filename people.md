@@ -39,7 +39,7 @@ B.Sc. Virginia Polytechnic Institute and State University
 <span style="font-size:16px;">**[Shuting Ding](https://scholar.google.com/citations?hl=en&user=SIEl_I8AAAAJ)**</span>
 
 **Position:**\
-Schmidt AI in Science Postdoctoral Fellow
+Schmidt AI in Science Postdoctoral Fellow\
 Co-mentored by [Dr. Minji Kim](https://www.minjilab.com)
 
 **About Me:**\
