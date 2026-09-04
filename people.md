@@ -40,6 +40,7 @@ B.Sc. Virginia Polytechnic Institute and State University
 
 **Position:**\
 Schmidt AI in Science Postdoctoral Fellow
+Co-mentored by [Dr. Minji Kim](https://www.minjilab.com)
 
 **About Me:**\
 Ph.D. Zhejiang University\
