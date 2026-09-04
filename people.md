@@ -99,7 +99,7 @@ B.Sc. Heilongjiang University\
 <span style="font-size:16px;">**James Loveland**</span>
 
 **Position:**\
-Ph.D. Student
+Ph.D. Candidate
 
 **About Me:**\
 B.A. Kenyon College\
@@ -181,7 +181,7 @@ B.Sc. University of Michigan\
 <span style="font-size:16px;">**Lane Vitek**</span>
 
 **Position:**\
-PhD Student
+PhD Candidate - NIH T32 Genetics Training Program Fellow
 
 **About Me:**\
 B.S. Michigan State University\
