@@ -185,7 +185,7 @@ B.Sc. University of Michigan\
 PhD Candidate - NIH T32 Genetics Training Program Fellow
 
 **About Me:**\
-B.S. Michigan State University\
+B.Sc. Michigan State University\
 <br />
 <br />
 
