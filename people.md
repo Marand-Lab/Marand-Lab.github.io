@@ -31,6 +31,25 @@ B.Sc. Virginia Polytechnic Institute and State University
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
+	<img src="/img/people_photos/Shuting.jpg" width="100" alt="" align="left">
+</div>
+</figure>
+</p>
+
+<span style="font-size:16px;">**[Shuting Ding](https://scholar.google.com/citations?hl=en&user=SIEl_I8AAAAJ)**</span>
+
+**Position:**\
+Schmidt AI in Science Postdoctoral Fellow
+
+**About Me:**\
+Ph.D. Zhejiang University\
+B.Sc. Zhejiang University
+
+---
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 50px; padding-bottom: 50px">
 	<img src="/img/people_photos/Fabio.jpg" width="100" alt="" align="left">
 </div>
 </figure>
