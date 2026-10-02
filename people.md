@@ -10,7 +10,7 @@ bigimg: "/img/lab_photo_08-2024.JPG"
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/alex.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/alex.jpeg" width="100" alt="" align="left">
 </div>
 </figure>
 </p>
