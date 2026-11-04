@@ -326,6 +326,10 @@ Coverage:\
 
 <span style="font-weight:bold ; font-size:24px; color:#1E90FF">2026</span>  
 
+<span style="font-size:16px;">45\.    [`Rewiring the regulome: evolution of plant cis-regulatory elements`](https://doi.org/10.1016/j.pbi.2026.102994)</span>\
+Fabio Gomez-Cano, Luguang Jiang, Alexandre P. Marand (2026)\
+<span style="font-size:16px;">**_Current Opinion in Plant Biology_**</span>
+
 <span style="font-size:16px;">44\.    [`Empirical estimation of ambient contamination in combinatorial single-cell methods using multi-reference mapping`](https://doi.org/10.64898/2026.09.11.750809)</span>\
 Fabio Gomez-Cano, Luguang Jiang, Joshua D. Welch, Alexandre P. Marand (2026)\
 <span style="font-size:16px;">**_bioRxiv_**</span>
@@ -432,7 +436,7 @@ Xiaoyu Tu\*, Alexandre P. Marand\*, Robert J. Schmitz, Silin Zhong. (2022)\
 
 <span style="font-size:16px;">22\.    [`Single-cell analysis of cis-regulatory elements`](https://doi.org/10.1016/j.pbi.2021.102094)</span>\
 Alexandre P. Marand, Robert J. Schmitz. (2022)\
-<span style="font-size:14px;">**_Current Opinion in Plant Biology_**</span>
+<span style="font-size:16px;">**_Current Opinion in Plant Biology_**</span>
 
 ---
 
