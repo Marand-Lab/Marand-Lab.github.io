@@ -16,6 +16,7 @@ bigimg: "/img/lab_photo_08-2024.JPG"
 </p>
 
 <span style="font-size:16px;">**[Alex Marand](https://scholar.google.com/citations?hl=en&user=_bYW4UkAAAAJ)**</span>
+amarand@umich.edu
 
 **Position:**\
 Assistant Professor and Principal Investigator
@@ -37,6 +38,7 @@ B.Sc. Virginia Polytechnic Institute and State University
 </p>
 
 <span style="font-size:16px;">**[Shuting Ding](https://scholar.google.com/citations?hl=en&user=SIEl_I8AAAAJ)**</span>
+shutingd@umich.edu
 
 **Position:**\
 Schmidt AI in Science Postdoctoral Fellow\
@@ -58,6 +60,7 @@ B.Sc. Zhejiang University
 </p>
 
 <span style="font-size:16px;">**[Fabio Gomez-Cano](https://scholar.google.com/citations?user=iQ5p-UYAAAAJ&hl=en&oi=ao)**</span>
+gomezcan@umich.edu
 
 **Position:**\
 Pioneer Postdoctoral Fellow
@@ -78,6 +81,7 @@ B.Sc. Universidad Nacional de Colombia
 </p>
 
 <span style="font-size:16px;">**Luguang Jiang**</span>
+lgjiang@umich.edu
 
 **Position:**\
 Postdoctoral Scholar
@@ -99,6 +103,7 @@ B.Sc. Heilongjiang University\
 </p>
 
 <span style="font-size:16px;">**James Loveland**</span>
+jamespl@umich.edu
 
 **Position:**\
 Ph.D. Candidate
@@ -119,6 +124,7 @@ B.A. Kenyon College\
 </p>
 
 <span style="font-size:16px;">**Andrew Luo**</span>
+jcluo@umich.edu
 
 **Position:**\
 Ph.D. Candidate
@@ -139,6 +145,7 @@ B.A. Vassar College\
 </p>
 
 <span style="font-size:16px;">**Rachel Rivero**</span>
+rrivero@umich.edu
 
 **Position:**\
 NASA Space Technology Graduate Researcher
@@ -160,6 +167,7 @@ B.Sc. Texas State University\
 </p>
 
 <span style="font-size:16px;">**[Holly Scheer](https://scholar.google.com/citations?user=Jjubl3EAAAAJ&hl=en)**</span>
+scheerh@umich.edu
 
 **Position:**\
 Ph.D. Candidate
@@ -181,6 +189,7 @@ B.Sc. University of Michigan\
 
 
 <span style="font-size:16px;">**Lane Vitek**</span>
+lvitek@umich.edu
 
 **Position:**\
 PhD Candidate - NIH T32 Genetics Training Program Fellow
@@ -202,6 +211,7 @@ B.Sc. Michigan State University\
 </p>
 
 <span style="font-size:16px;">**[Mariel Cruz-Gomez](https://scholar.google.com/citations?hl=en&user=yO8JCWgAAAAJ)**</span>
+cruzgome@umich.edu
 
 **Position:**\
 Research Lab Specialist
