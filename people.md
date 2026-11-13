@@ -16,6 +16,7 @@ bigimg: "/img/lab_photo_08-2024.JPG"
 </p>
 
 <span style="font-size:16px;">**[Alex Marand](https://scholar.google.com/citations?hl=en&user=_bYW4UkAAAAJ)**</span>
+
 amarand@umich.edu
 
 **Position:**\
@@ -38,6 +39,7 @@ B.Sc. Virginia Polytechnic Institute and State University
 </p>
 
 <span style="font-size:16px;">**[Shuting Ding](https://scholar.google.com/citations?hl=en&user=SIEl_I8AAAAJ)**</span>
+
 shutingd@umich.edu
 
 **Position:**\
@@ -60,6 +62,7 @@ B.Sc. Zhejiang University
 </p>
 
 <span style="font-size:16px;">**[Fabio Gomez-Cano](https://scholar.google.com/citations?user=iQ5p-UYAAAAJ&hl=en&oi=ao)**</span>
+
 gomezcan@umich.edu
 
 **Position:**\
@@ -81,6 +84,7 @@ B.Sc. Universidad Nacional de Colombia
 </p>
 
 <span style="font-size:16px;">**Luguang Jiang**</span>
+
 lgjiang@umich.edu
 
 **Position:**\
@@ -103,6 +107,7 @@ B.Sc. Heilongjiang University\
 </p>
 
 <span style="font-size:16px;">**James Loveland**</span>
+
 jamespl@umich.edu
 
 **Position:**\
@@ -124,6 +129,7 @@ B.A. Kenyon College\
 </p>
 
 <span style="font-size:16px;">**Andrew Luo**</span>
+
 jcluo@umich.edu
 
 **Position:**\
@@ -145,6 +151,7 @@ B.A. Vassar College\
 </p>
 
 <span style="font-size:16px;">**Rachel Rivero**</span>
+
 rrivero@umich.edu
 
 **Position:**\
@@ -167,6 +174,7 @@ B.Sc. Texas State University\
 </p>
 
 <span style="font-size:16px;">**[Holly Scheer](https://scholar.google.com/citations?user=Jjubl3EAAAAJ&hl=en)**</span>
+
 scheerh@umich.edu
 
 **Position:**\
@@ -189,6 +197,7 @@ B.Sc. University of Michigan\
 
 
 <span style="font-size:16px;">**Lane Vitek**</span>
+
 lvitek@umich.edu
 
 **Position:**\
