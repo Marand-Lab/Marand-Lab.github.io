@@ -118,6 +118,7 @@ Ph.D. Candidate
 B.A. Kenyon College\
 <br />
 <br />
+<br />
 
 ---
 
@@ -138,6 +139,7 @@ Ph.D. Candidate
 
 **About Me:**\
 B.A. Vassar College\
+<br />
 <br />
 <br />
 
@@ -162,7 +164,7 @@ NASA Space Technology Graduate Researcher
 B.Sc. Texas State University\
 <br />
 <br />
-
+<br />
 
 ---
 
@@ -208,8 +210,10 @@ PhD Candidate - NIH T32 Genetics Training Program Fellow
 B.Sc. Michigan State University\
 <br />
 <br />
+<br />
 
 ---
+
 ## Staff
 
 <p align="justify">
@@ -231,8 +235,10 @@ B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
 <br />
 <br />
 <br />
+<br />
 
 ---
+
 ## Undergraduate Researchers
 
 <p align="justify">
@@ -295,7 +301,9 @@ MCDB and Mathematical Biology Double Major, University of Michigan\
 <br />
 <br />
 <br />
+<br />
 
+---
 
 ## Lab Alumni
 
