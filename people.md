@@ -27,8 +27,10 @@ NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
 Ph.D. University of Wisconsin\
 B.Sc. Virginia Polytechnic Institute and State University
 <br />
+<br />
 
 ---
+
 ## Postdoctoral Scholars
 
 <p align="justify">
@@ -225,6 +227,7 @@ B.Sc. Michigan State University\
 </p>
 
 <span style="font-size:16px;">**[Mariel Cruz-Gomez](https://scholar.google.com/citations?hl=en&user=yO8JCWgAAAAJ)**</span>
+
 cruzgome@umich.edu
 
 **Position:**\
@@ -232,7 +235,6 @@ Research Lab Specialist
 
 **About Me:**\
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
-<br />
 <br />
 <br />
 <br />
@@ -306,6 +308,8 @@ MCDB and Mathematical Biology Double Major, University of Michigan\
 ---
 
 ## Lab Alumni
+
+---
 
 #### Former Masters Students
 **Evelyn Sowers** (2023-2026), PhD Student, University of Michigan, MCDB
