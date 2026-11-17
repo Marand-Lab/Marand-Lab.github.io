@@ -10,7 +10,7 @@ bigimg: "/img/lab_photo_08-2024.JPG"
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/alex.jpeg" width="100" alt="" align="left">
+	<img src="/img/people_photos/alex.jpeg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -33,7 +33,7 @@ B.Sc. Virginia Polytechnic Institute and State University
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Shuting.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Shuting.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -56,7 +56,7 @@ B.Sc. Zhejiang University
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Fabio.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Fabio.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -78,7 +78,7 @@ B.Sc. Universidad Nacional de Colombia
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Luguang.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Luguang.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -101,7 +101,7 @@ B.Sc. Heilongjiang University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/James.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/James.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -123,7 +123,7 @@ B.A. Kenyon College\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Andrew_Luo.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Andrew_Luo.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -145,7 +145,7 @@ B.A. Vassar College\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Rachel.jpeg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Rachel.jpeg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -168,7 +168,7 @@ B.Sc. Texas State University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Holly.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Holly.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -190,7 +190,7 @@ B.Sc. University of Michigan\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Lane.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Lane.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -214,7 +214,7 @@ B.Sc. Michigan State University\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Mariel.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Mariel.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -236,7 +236,7 @@ B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Kian.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Kian.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -256,7 +256,7 @@ MCDB (Major) and Statistics (Minor), University of Michigan\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Skyler.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Skyler.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
@@ -276,7 +276,7 @@ Biology Major, University of Michigan\
 <p align="justify">
 <figure>
 <div style="float: left; padding-right: 50px; padding-bottom: 50px">
-	<img src="/img/people_photos/Emily.jpg" width="100" alt="" align="left">
+	<img src="/img/people_photos/Emily.jpg" width="150" alt="" align="left">
 </div>
 </figure>
 </p>
