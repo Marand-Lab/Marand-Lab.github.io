@@ -26,6 +26,7 @@ Assistant Professor and Principal Investigator
 NIH K99 and NSF Postdoctoral Fellow, University of Georgia\
 Ph.D. University of Wisconsin\
 B.Sc. Virginia Polytechnic Institute and State University
+<br />
 
 ---
 ## Postdoctoral Scholars
@@ -227,6 +228,7 @@ Research Lab Specialist
 
 **About Me:**\
 B.Sc. Universidad Pedagogica y Tecnologica de Colombia\
+<br />
 <br />
 <br />
 
