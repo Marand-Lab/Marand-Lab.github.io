@@ -249,7 +249,8 @@ Undergraduate Researcher
 **About Me:**\
 MCDB (Major) and Statistics (Minor), University of Michigan\
 <br />
-
+<br />
+<br />
 
 ---
 
@@ -268,6 +269,7 @@ Undergraduate Researcher
 
 **About Me:**\
 Biology Major, University of Michigan\
+<br />
 <br />
 <br />
 
@@ -290,6 +292,8 @@ Undergraduate Researcher
 MCDB and Mathematical Biology Double Major, University of Michigan\
 <br />
 <br />
+<br />
+
 
 ## Lab Alumni
 
